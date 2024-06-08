@@ -1,2 +1,2 @@
-# RSMR_localisation
-Тут мы допиливаем русскую локализацию Real Scale Mass Recall
+# rs_mr_rus_locale
+Русская локализация для rs_mr
