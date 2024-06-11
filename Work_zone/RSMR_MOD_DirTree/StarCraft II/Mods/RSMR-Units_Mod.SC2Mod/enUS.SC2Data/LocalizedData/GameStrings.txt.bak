@@ -1,0 +1,1162 @@
+﻿Abil/Name/AirTransport=Air Transport Squad
+Abil/Name/AmonsFury=Amon's Fury
+Abil/Name/AvengerBlink=Blink
+Abil/Name/BH2@Hangar=Hangar Ability
+Abil/Name/BehemothHangar@Hangar=Hangar Ability
+Abil/Name/BunkerTransportSquad=Bunker Transport Squad
+Abil/Name/CH1@Hangar=Hangar Ability
+Abil/Name/CH2@Hangar=Hangar Ability
+Abil/Name/CH3@Hangar=Hangar Ability
+Abil/Name/CH4@Hangar=Hangar Ability
+Abil/Name/CH5@Hangar=Hangar Ability
+Abil/Name/CH6@Hangar=Hangar Ability
+Abil/Name/CH7@Hangar=Hangar Ability
+Abil/Name/CH8@Hangar=Hangar Ability
+Abil/Name/CarrierBuildDroneBeacon=Carrier Build Drone Beacon
+Abil/Name/CarrierDummyLearnBehavior=Carrier Dummy Learn Behavior
+Abil/Name/CarrierEnterOrbit=Carrier - Enter Orbit
+Abil/Name/CarrierEnterOrbit2=Carrier - Enter Orbit Copy
+Abil/Name/CarrierLeaveOrbit=Carrier - Leave Orbit
+Abil/Name/CarrierPauseQueue=Carrier Pause Queue
+Abil/Name/CarrierSuperQueue=Carrier Super Queue
+Abil/Name/CarryBigUnit=Carry Big Unit
+Abil/Name/CarryBigUnitOverlord=Carry Big Unit
+Abil/Name/ChargerHangarHybrid=Charger Hangar
+Abil/Name/DefensiveMatrix2=Defensive Matrix
+Abil/Name/DevilDogSquad=Devil Dog Squad
+Abil/Name/DevolveUltralisk=Devolve Ultralisk
+Abil/Name/DisablingCloudHybrid=Disabling Cloud
+Abil/Name/DisintegrationAoE=Disintegration
+Abil/Name/DropBigUnit=Drop Big Unit
+Abil/Name/FighterEnterOrbit=Fighter Enter Orbit
+Abil/Name/FirebatSquad=Firebat Squad
+Abil/Name/Gain1Level=Gain 1 Level
+Abil/Name/HammerSecuritiesSquad=Hammer Securities Squad
+Abil/Name/HoDHybridSpawnShades=Spawn Shades
+Abil/Name/HybridBehemothLaser=Void Laser
+Abil/Name/HybridDestroyerSpawnZerg=Spawn Zerg Shades
+Abil/Name/HybridDominatorCoopBossBlink=Moebius Hybrid Blink
+Abil/Name/HybridDominatorSacrifice=Hybrid Dominator Void Sacrifice
+Abil/Name/HybridDominatorVoidGravitonPrison=Graviton Prison
+Abil/Name/HybridDominatorVoidPsionicShockwave=Psionic Shockwave
+Abil/Name/HybridDominatorVoidPsychicClones=Hybrid Mastermind Mirror Image
+Abil/Name/HybridEnsnare=Ensnare
+Abil/Name/HybridFungalGrowth=Fungal Growth
+Abil/Name/HybridGeneralMindControl=Domination
+Abil/Name/HybridMerge=Hybrid Merge
+Abil/Name/HybridPlague=Plague
+Abil/Name/HybridRazorSwarm=Razor Swarm
+Abil/Name/HybridShadowCharge=Shadow Charge
+Abil/Name/HybridShadowFury=Shadow Fury
+Abil/Name/HybridShadowStun=Darkcoil
+Abil/Name/HybridSpawnBanelings=Spawn Banelings
+Abil/Name/HybridSpawnBroodlings=Spawn Broodlings
+Abil/Name/HybridStasisField=Stasis Field
+Abil/Name/HybridVortex=Vortex
+Abil/Name/HybridWildMutation=Wild Mutation
+Abil/Name/HyperionHangar=Hyperion Hangar
+Abil/Name/HyperionKorhalYamato=Yamato Gun
+Abil/Name/HyperionYamatoSpecial=Yamato Gun (Zero Hour Cutscene)
+Abil/Name/K5Dummy=K5 Dummy
+Abil/Name/KaraxRegenUnityBarrier=Karax Regen Unity Barrier
+Abil/Name/KerriganVoidApocalypse=Apocalypse
+Abil/Name/MarauderSquad=Marauder Squad
+Abil/Name/MarineSquad=Marine Squad
+Abil/Name/MedicSquad=Medic Squad
+Abil/Name/MedicSquadAcquire=Medic Squad Acquire
+Abil/Name/MinotaurBCEnterOrbit=Minotaur BC Enter Orbit
+Abil/Name/MinotaurBCLeaveOrbit=Minotaur BC Leave Orbit
+Abil/Name/MinotaurHardpoints=Minotaur Hardpoints
+Abil/Name/MinotaurHardpoints2=Minotaur Hardpoints
+Abil/Name/MoebiusHybridFloorBurst=Moebius Hybrid Floor Burst
+Abil/Name/MoebiusSeekerLockOn=Moebius Hybrid Seeker Missiles
+Abil/Name/Move=Move
+Abil/Name/ParasiticBombHybrid=Parasitic Bomb
+Abil/Name/PhoenixEnterOrbit=Phoenix Enter Orbit
+Abil/Name/PhoenixLeaveOrbit=Phoenix Leave Orbit
+Abil/Name/PhoenixSquadron=Phoenix Squadron
+Abil/Name/PnPSingleTargetLockOn=PnPSingleTargetLockOn
+Abil/Name/PsionicFlight=Psionic Flight
+Abil/Name/QueueReaver=Queue (Reaver)
+Abil/Name/RSEnterOrbit=RS Enter Orbit
+Abil/Name/RSLeaveOrbit=RS Leave Orbit
+Abil/Name/RSVoidRayLineAttack=RS Void Ray Line Attack
+Abil/Name/ReaperSquad=Reaper Squad
+Abil/Name/ReaverConfigureFabricationMatrix=Reaver Configure Fabrication Matrix
+Abil/Name/RepairHyperion=Repair Hyperion
+Abil/Name/RichAssimilatorToRichAutomatedAssimilator=Rich Assimilator To Rich Automated Assimilator
+Abil/Name/RichAutomatedAssimilatorToRichAssimilator=Rich Automated Assimilator To Rich Assimilator
+Abil/Name/ScienceVesselHardpointNanoRepair=Science Vessel Hardpoint Nano Repair
+Abil/Name/ScoutSquadron=Scout Squadron
+Abil/Name/ShieldBatteryRecharge=Shield Battery Capital Ship Recharge
+Abil/Name/SpawnProtossShades=Spawn Protoss Shades
+Abil/Name/SpearofAdunStopTurrets=Spear of Adun Stop Turrets
+Abil/Name/SpearofAdunTrain=Spear of Adun Train
+Abil/Name/SquadStimpack=Squad - Stimpack
+Abil/Name/StartDoomsdayChannel=Start Doomsday Channel
+Abil/Name/StartSuicideChannel=Start Doomsday Channel
+Abil/Name/SummonMercenaries2=Summon Mercenaries
+Abil/Name/SummonNydusDestroyer=Summon Nydus Destroyer
+Abil/Name/UpgradeToWarpGateInstant=Upgrade To Warp Gate Auto
+Abil/Name/VoidBind=Void Bind
+Abil/Name/VoidRayChaseBeam=Void Ray Chase Beam
+Abil/Name/WarPigSquad=War Pig Squad
+Abil/Name/WarpTrainNexus=Warp Train (Nexus)
+Abil/Name/WarpableOrbit=Warpable Orbit
+Abil/Name/WraithEnterOrbit=Wraith Enter Orbit
+Abil/Name/WraithLeaveOrbit=Wraith Leave Orbit
+Abil/Name/YoinkHotS=Abduct
+Abil/Name/YoinkHybrid=Abduct
+Abil/Name/attackOrbital=Attack
+Abil/Name/attackOrbitalReq=Attack
+Abil/Name/moveCS=Move
+Abil/TargetMessage/attackOrbital=<IMG path="Assets\Textures\tutorialmouseleftbuttondown.dds" alignment="absolutemiddle"/>   To Attack<n/><IMG path="Assets\Textures\tutorialmouserightbuttondown.dds" alignment="absolutemiddle"/>   Cancel
+Abil/TargetMessage/attackOrbitalReq=<IMG path="Assets\Textures\tutorialmouseleftbuttondown.dds" alignment="absolutemiddle"/>   To Attack<n/><IMG path="Assets\Textures\tutorialmouserightbuttondown.dds" alignment="absolutemiddle"/>   Cancel
+Alert/Text/ReaverConfigured=Reaver configured.
+Behavior/Name/ATALaserBattery1Destroyed=ATA Laser Battery 1 Destroyed
+Behavior/Name/ATALaserBattery2Destroyed=ATA Laser Battery 2 Destroyed
+Behavior/Name/ATSLaserBattery1Destroyed=ATS Laser Battery 1 Destroyed
+Behavior/Name/ATSLaserBattery2Destroyed=ATS Laser Battery 2 Destroyed
+Behavior/Name/ATSLaserBattery3Destroyed=ATS Laser Battery 3 Destroyed
+Behavior/Name/ATSLaserBattery4Destroyed=ATS Laser Battery 4 Destroyed
+Behavior/Name/ATSLaserBattery5Destroyed=ATS Laser Battery 5 Destroyed
+Behavior/Name/ATSLaserBattery6Destroyed=ATS Laser Battery 6 Destroyed
+Behavior/Name/AmonsFury=Amon's Fury
+Behavior/Name/BH2@HangarDestroyed=Hangar Destroyed
+Behavior/Name/BehemothHangar@HangarDestroyed=Hangar Destroyed
+Behavior/Name/BehemothInterceptorsHeightBoost=Behemoth Interceptors Height Boost
+Behavior/Name/CH1@HangarDestroyed=Hangar Destroyed
+Behavior/Name/CH2@HangarDestroyed=Hangar Destroyed
+Behavior/Name/CH3@HangarDestroyed=Hangar Destroyed
+Behavior/Name/CH4@HangarDestroyed=Hangar Destroyed
+Behavior/Name/CH5@HangarDestroyed=Hangar Destroyed
+Behavior/Name/CH6@HangarDestroyed=Hangar Destroyed
+Behavior/Name/CH7@HangarDestroyed=Hangar Destroyed
+Behavior/Name/CH8@HangarDestroyed=Hangar Destroyed
+Behavior/Name/CarrierInterceptorsHeightBoost=Carrier Interceptors Height Boost
+Behavior/Name/DetectionDisabled=Detection Disabled
+Behavior/Name/EnergizedVoidCarapace=Energized Void Carapace
+Behavior/Name/EnginesDestroyed=Engines Destroyed
+Behavior/Name/EnginesDestroyedHalf=Engines Destroyed
+Behavior/Name/EnginesDestroyedThird=Engines Destroyed
+Behavior/Name/FabricatingInstigators=Fabricating Instigators
+Behavior/Name/FabricatingProbes=Fabricating Probes
+Behavior/Name/FabricatingSentinels=Fabricating Sentinels
+Behavior/Name/FabricatingSentries=Fabricating Sentries
+Behavior/Name/FabricationPaused=Fabrication Paused
+Behavior/Name/FalloutTimedLife=Timed Life
+Behavior/Name/ForceofWill=Force of Will
+Behavior/Name/GravitySlingLost=Gravity Sling Lost
+Behavior/Name/HP2CS@HardpointExposed=Hardpoint is Exposed
+Behavior/Name/HeroicFortitude=Heroic Fortitude
+Behavior/Name/HybridDestroyerFlight=Psionic Flight
+Behavior/Name/HybridShadowCharging=Shadow Charging
+Behavior/Name/HybridSuicideChargeUpTimer=Doomsday Attack Charging
+Behavior/Name/InhibitorZoneTemporalField=Fallout Sickness
+Behavior/Name/InterceptorsSuppressHeightBoost=Interceptors Suppress Height Boost
+Behavior/Name/KineticMatrixLost=Kinetic Matrix Lost
+Behavior/Name/MindBlasted=Mind Blasted
+Behavior/Name/MoebiusHybridMissileDropFloorBursts=Moebius Hybrid Missile Drop Floor Bursts
+Behavior/Name/MothershipEvasiveBlinkInvulnerability=Mothership Evasive Blink Invulnerability
+Behavior/Name/NanoBeamLost=Nano Beam Lost
+Behavior/Name/ParasiticDominationDelay=Parasitic Domination Delay
+Behavior/Name/PnPHybridPuddle=Void Puddle
+Behavior/Name/PotVZagaraVision=Zagara Vision
+Behavior/Name/PrimalPackLeaderVeterancy=Primal Pack Leader Veterancy
+Behavior/Name/PrimalZergVeterancy=Primal Zerg Veterancy
+Behavior/Name/PurityofEssence=Essence
+Behavior/Name/PurityofForm=Form
+Behavior/Name/QueuePaused=Queue Paused
+Behavior/Name/RecentlyputintoVoidStasis=Recently in Void Stasis
+Behavior/Name/RevengerCannonsSpinningUp=Revenger Cannons Spinning Up
+Behavior/Name/SafeUnderground=Safe Underground
+Behavior/Name/ScienceVesselHardpointNanoRepairController=Science Vessel Hardpoint Nano Repair Controller
+Behavior/Name/Slimed=Nickelodeon Goo'ed
+Behavior/Name/SpearofAdunSharedShields=Spear of Adun Shared Shields
+Behavior/Name/SquadAttack=Squad Attack
+Behavior/Name/SquadBunkerUnload=Squad Bunker Unload
+Behavior/Name/SquadUnit=Squad Unit
+Behavior/Name/StukovRegenAuraTarget=Regeneration Aura
+Behavior/Name/ThermalLanceBurn=Thermal Lance Burn
+Behavior/Name/UltraliskLoaded=Ultralisk Loaded
+Behavior/Name/VoidBound=Void Bound
+Behavior/Name/VoidDissolve=Void Dissolve
+Behavior/Name/VoidLensLost=Void Lens Lost
+Behavior/Name/YamatoDestroyed=Yamato Destroyed
+Behavior/PrimaryName/PurityofEssence=Purity of Essence
+Behavior/PrimaryName/PurityofForm=Purity of Form
+Behavior/Tooltip/AmonsFury=This unit has 50% higher movement and attack speed, but is taking lethal amounts damage over time
+Behavior/Tooltip/ArtanisResurgenceDisable=This unit can only gain the benefit of Resurgence once every 60 seconds.
+Behavior/Tooltip/BH2@HangarDestroyed=This battlecruiser has lost a hangar bay. Decreasing its tac fighter build rate and capacity.
+Behavior/Tooltip/BehemothHangar@HangarDestroyed=This battlecruiser has lost a hangar bay. Decreasing its tac fighter build rate and capacity.
+Behavior/Tooltip/CH1@HangarDestroyed=This carrier has lost a hangar bay. Decreasing its interceptor build rate and capacity.
+Behavior/Tooltip/CH2@HangarDestroyed=This carrier has lost a hangar bay. Decreasing its interceptor build rate and capacity.
+Behavior/Tooltip/CH3@HangarDestroyed=This carrier has lost a hangar bay. Decreasing its interceptor build rate and capacity.
+Behavior/Tooltip/CH4@HangarDestroyed=This carrier has lost a hangar bay. Decreasing its interceptor build rate and capacity.
+Behavior/Tooltip/CH5@HangarDestroyed=This carrier has lost a hangar bay. Decreasing its interceptor build rate and capacity.
+Behavior/Tooltip/CH6@HangarDestroyed=This carrier has lost a hangar bay. Decreasing its interceptor build rate and capacity.
+Behavior/Tooltip/CH7@HangarDestroyed=This carrier has lost a hangar bay. Decreasing its interceptor build rate and capacity.
+Behavior/Tooltip/CH8@HangarDestroyed=This carrier has lost a hangar bay. Decreasing its interceptor build rate and capacity.
+Behavior/Tooltip/CHardpointLostBehavior=This Capital Ship has lost a hardpoint, hampering its operations.
+Behavior/Tooltip/CorrosiveAcid=Devourer attacks have lowered this units armor temporarily
+Behavior/Tooltip/DefensiveMatrix=This unit takes no damage from any attacks at the cost of rapidly draining its energy<n/><n/>Lasts <d ref="Behavior,DefensiveMatrix,Duration"/> seconds or until the unit is out of energy.
+Behavior/Tooltip/DetectionDisabled=This Capital Ship has lost its scanner system and is no longer a detector.
+Behavior/Tooltip/EnergizedVoidCarapace=Hybrid Dominators gain +10 energy armor once it's health drops below 50%<n/>Allowing the Hybrid to use their remaining energy as a secondary shield
+Behavior/Tooltip/EnginesDestroyed=This Capital Ship has lost its engines and has its movement speed reduced to 20%
+Behavior/Tooltip/EnginesDestroyedHalf=This Capital Ship has lost its engines and has its movement speed reduced
+Behavior/Tooltip/EnginesDestroyedThird=This Capital Ship has lost its engines and has its movement speed reduced
+Behavior/Tooltip/FabricationPaused=This Reaver is currently unable to fabricate robotic units. Most likely this is because there is no available supply.
+Behavior/Tooltip/ForceofWill=Artanis's shields take a maximum of <d ref="Behavior,ForceofWill,DamageResponse.ClampMaximum"/> damage from any single attack.<n/>Spell damage is not affected
+Behavior/Tooltip/GravitySlingLost=This Tempest has lost its Gravity Sling, reducing it's weapon range by 50%
+Behavior/Tooltip/HeroicFortitude=Kerrigan takes a maximum of 25 damage at a time while she has more than 100 energy
+Behavior/Tooltip/HybridDestroyerFlight=This hybrid is flying
+Behavior/Tooltip/HybridSuicideChargeUpTimer=If allowed to complete, will rip a hole in space itself
+Behavior/Tooltip/InhibitorZoneTemporalField=Nuclear fallout is reducing this unit's movement speed and sight radius. Units cannot burrow and structures cannot be built in nuclear fallout
+Behavior/Tooltip/KineticMatrixLost=This Capital Ship has lost a hardpoint, hampering its operations.
+Behavior/Tooltip/MindBlasted=This unit has suffered from an Ascendant's Mind Blast and cannot use energy based abilities.
+Behavior/Tooltip/NanoBeamLost=This Science Vessel has lost one or more of its Nano Beam hardpoints, reducing the number of targets that can be healed at a time.
+Behavior/Tooltip/NoxiousDamage=Taking damage over time. Armor reduced by 50%
+Behavior/Tooltip/PrimalPackLeaderVeterancy=Primal Zerg have various levels of individual strength, for gameplay simplicity this is represented by 5 levels of power. <n/>Primal individuals gain experience points by killing enemies and consuming their essence
+Behavior/Tooltip/PrimalZergVeterancy=Primal Zerg have various levels of individual strength, for gameplay simplicity this is represented by 5 levels of power. <n/>Primal individuals gain experience points by killing enemies and consuming their essence
+Behavior/Tooltip/RecentlyputintoVoidStasis=This unit or structure was recently put into void stasis by a blood hunter, and cannot be put back into stasis right now.
+Behavior/Tooltip/RoachCorpser=When this unit dies, it will spawn six Roachlings.
+Behavior/Tooltip/SafeUnderground=Burrowed Zerg take 90% less damage from spells and splash effects while undetected.
+Behavior/Tooltip/SpearofAdunSharedShields=The Spear of Adun is encased in one massive plasma shield. All hardpoints share the same shield health pool
+Behavior/Tooltip/VoidBound=This unit is being controlled by powerful void energies. Deal enough damage to free the unit from Amon's grasp
+Behavior/Tooltip/VoidLensLost=This Capital Ship has lost a hardpoint, hampering its operations.
+Behavior/Tooltip/VoidShade=This unit is formed from pure void energies.
+Behavior/Tooltip/VorazunRegenShield=This unit is rapidly regenerating shields and health.
+Behavior/Tooltip/YamatoDestroyed=This Battlecruiser has lost its Yamato Cannon, big sad.
+Behavior/Tooltip/ZenithStonePsionicShock=This unit deals damage to units that attack it.
+Button/DeployPhoenixSquadron/ChargeText=x4
+Button/DeployScoutSquadron/ChargeText=x2
+Button/Larva/EggQuantities/Hydralisk=x2
+Button/Larva/EggQuantities/Mutalisk=x2
+Button/Larva/EggQuantities/Roach=x3
+Button/Larva/EggQuantities/Scourge=x4
+Button/Larva/EggQuantities/Swarmling=x15
+Button/Larva/EggQuantities/TwinDrones=x2
+Button/Larva/EggQuantities/Zergling=x10
+Button/Name/AmonsFury=Amon's Fury
+Button/Name/AntiMassiveCapabilities=Anti-Capital Capabilities
+Button/Name/BH2@InterceptorButton=Build Tac Fighter
+Button/Name/Battlecruiser=Build Minotaur-Class Battlecruiser
+Button/Name/BattlecruiserBehemoth=Build Behemoth-Class Battlecruiser
+Button/Name/BehemothHangar@InterceptorButton=Build Tac Fighter
+Button/Name/BigUnitSlot=Big Unit Slot
+Button/Name/BloodShields=Blood Shields
+Button/Name/BuildScannerTruck=Build Scanner Truck
+Button/Name/BurrowSwarmHost=Enhanced Elytra
+Button/Name/CH1@InterceptorButton=Build Interceptor
+Button/Name/CH2@InterceptorButton=Build Interceptor
+Button/Name/CH3@InterceptorButton=Build Interceptor
+Button/Name/CH4@InterceptorButton=Build Interceptor
+Button/Name/CH5@InterceptorButton=Build Interceptor
+Button/Name/CH6@InterceptorButton=Build Interceptor
+Button/Name/CH7@InterceptorButton=Build Interceptor
+Button/Name/CH8@InterceptorButton=Build Interceptor
+Button/Name/CalldownAdditionalBeef=Calldown Additional Beef
+Button/Name/CapitalShipShieldRestore=Capital Ship Shield Restore
+Button/Name/CarryingPurifierColossus=Carrying Purifier Colossus
+Button/Name/CarryingWrathwalker=Carrying Wrathwalker
+Button/Name/ChainsofTorment=Chains of Torment
+Button/Name/ChargerEscorts=Charger Escorts
+Button/Name/ColossusTransportation=Colossus Transportation
+Button/Name/ConfigureInstigatorFabrication=Configure Instigator Fabrication
+Button/Name/ConfigureProbeFabrication=Configure Probe Fabrication
+Button/Name/ConfigureSentinelFabrication=Configure Sentinel Fabrication
+Button/Name/ConfigureSentryFabrication=Configure Sentry Fabrication
+Button/Name/DarkArchonMergeSelection=Dark Archon Merge
+Button/Name/DeployCarrier=Deploy Carrier
+Button/Name/DeployDroneBeacon=Deploy Drone Beacon
+Button/Name/DeployMothership=Deploy Mothership
+Button/Name/DeployPhoenixSquadron=Deploy Phoenix Squadron
+Button/Name/DeployScoutSquadron=Deploy Scout Squadron
+Button/Name/DeployTempest=Deploy Tempest
+Button/Name/DirectTurrets=Direct Turrets
+Button/Name/Drag2=Drag
+Button/Name/DropoffBigUnit=Drop off Big Unit
+Button/Name/EnergizedVoidCarapace=Energized Void Carapace
+Button/Name/EnterOrbit=Enter Orbit
+Button/Name/EssenceLeech=Essence Leech
+Button/Name/FaceEmbrace2=Abduct
+Button/Name/GenerateCorrosiveOoze=Corrosive Acid
+Button/Name/HybridGeneralMindControl=Domination
+Button/Name/K5RSLeviathan=Summon Leviathan
+Button/Name/KaraxUnityBarriers=Unity Barriers
+Button/Name/LeaveOrbit=Leave Orbit
+Button/Name/MengskUnits=Recruit Mercenaries
+Button/Name/MorphToDevourerMP=Morph to Devourer 
+Button/Name/ParticleForceAccelerators=Particle Force Accelerators
+Button/Name/PauseInterceptorProduction=Pause Interceptor Production
+Button/Name/PhoenixSquadronComplement=Phoenix Squadron Complement
+Button/Name/PickupUltralisk=Pick up Big Unit
+Button/Name/PnPSingleTargetLockOn2=Purification Copy
+Button/Name/Probe2=Warp In Probe
+Button/Name/PrototypeArmor=Prototype Armor
+Button/Name/PsiBlades2=Psi Blades
+Button/Name/PsiBladesNerazim=Warp Blades
+Button/Name/PsiBladesPurifier=Synthetic Psi Blades
+Button/Name/PsiBladesTaldarim=Bane Blades
+Button/Name/PsionicFlight=Psionic Flight
+Button/Name/PurifierWeaponry=Purifier Weaponry
+Button/Name/RSVoidRayLineAttack=Obliteration Beam
+Button/Name/ReaverFabricationSystems=Reaver Fabrication Systems
+Button/Name/ResumeInterceptorProduction=Resume Interceptor Production
+Button/Name/ScoutSquadronComplement=Scout Squadron Complement
+Button/Name/ServitorDrones=Servitor Drones
+Button/Name/ShadowStride=Shadow Stride
+Button/Name/SpawnProtossShades=Spawn Protoss Shades
+Button/Name/SpawnZergShades=Spawn Zerg Shades
+Button/Name/StopFabrication=Stop Fabrication
+Button/Name/TerranEnergyShields=Terran Energy Shields
+Button/Name/ViewHangarStatus=View Hangar Status
+Button/Name/Vision=Vision
+Button/Name/VoidBind=Void Bind
+Button/Name/VoidLaser=Void Laser
+Button/Name/VoidRayChaseBeam=Chase Beam
+Button/Name/VoodooShield=Voodoo Shield
+Button/SupplyName/Probe=FREE
+Button/Tooltip/ActivateStasisWard=Traps nearby enemies in stasis for <d ref="Behavior,OracleStasisTrapTarget,Duration"/> seconds. Trapped units cannot be attacked or affected by abilities.<n/><n/><c val="FFFF80">Auto-cast only triggers for at least 5 enemies</c>
+Button/Tooltip/AmonsFury=Grant nearby units 50% more attack and move speed at the cost of damage over time.
+Button/Tooltip/AntiMassiveCapabilities=This unit has greatly increased range against Capital Ships
+Button/Tooltip/ArbiterCloakField=Cloaks friendly units near the Arbiter. This does not include Capital Ships*<n/><n/>*Yes I know that's not lore friendly with the SC1 cinematics. Two things:<n/>1) According to those cinematics there are giant sea urchin space zerg. Let's just agree they aren't the best lore source.<n/>2) I had to change this for balance. Gameplay is not lore, regardless if it's real-scale or not.
+Button/Tooltip/ArmorpiercingMode=Activates the Thor's 250mm Punisher Cannons. Punisher cannons strike a single air target for heavy damage.<n/><n/>These cannons have a minimum range of 10
+Button/Tooltip/ArtanisForceOfWill=Shield regeneration increased by 300%. Regenerates 1 Life per second.<n/><n/>Artanis's shields take a maximum of 15 damage per attack.
+Button/Tooltip/AutomatedAssimilatorTextKicker6=<s val="Kicker_Rich_Gas">+8</s><IMG path="Assets\Textures\icon-gas-protoss.dds" height="28" width="28"/>
+Button/Tooltip/BH2@InterceptorButton=Construct a Tac Fighter for the Battlecruiser. Tac Fighters will automatically deploy and engage air enemies around the Behemoth and are outfitted with Wraith weaponry<n/><n/>Maximum <d ref="Abil,BehemothHangar@Hangar,MaxCount"/> Tac Fighters per Hangar at a time
+Button/Tooltip/BattlecruiserBehemoth=Powerful warship. Can use Yamato Cannon and Tactical Jump.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/BehemothBC=A classic warship modified to stay relevant by including support for Tac Fighters, a tactical warp jump, updated bombardment systems and a strategic nuclear missile silo.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/BehemothHangar@InterceptorButton=Construct a Tac Fighter for the Battlecruiser. Tac Fighters will automatically deploy and engage air enemies around the Behemoth and are outfitted with Wraith weaponry<n/><n/>Maximum <d ref="Abil,BehemothHangar@Hangar,MaxCount"/> Tac Fighters per Hangar at a time
+Button/Tooltip/BehemothTauren=A powerful warship modified to have extra beefy shielding.<n/><n/>USDA Prime. 100% A5 Wagyu. <n/>When it comes to great steaks, we've just raised the stakes.
+Button/Tooltip/BigUnitSlot=A singular Colossus or Wrathwalker can be stored here in the Warp Prism, but only if they are not already transporting other units.
+Button/Tooltip/BloodShields=Blood Hunters have +75 maximum shields and +5 shield armor compared to their more frail Aiur and Nerazim counterparts
+Button/Tooltip/BuildScannerTruck=Civilian "Crazyhorse" All-Purpose Truck fitted with scanning equipment.<n/><n/><c val="FFFF00">Detects cloaked and burrowed units.<n/>Cannot attack.</c>
+Button/Tooltip/BurrowSwarmHost=Increases the movement speed of spawned locusts by 20%
+Button/Tooltip/CH1@InterceptorButton=Builds Interceptors that automatically attack the Carrier's target. Carriers may not attack without Interceptors.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/CH2@InterceptorButton=Builds Interceptors that automatically attack the Carrier's target. Carriers may not attack without Interceptors.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/CH3@InterceptorButton=Builds Interceptors that automatically attack the Carrier's target. Carriers may not attack without Interceptors.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/CH4@InterceptorButton=Builds Interceptors that automatically attack the Carrier's target. Carriers may not attack without Interceptors.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/CH5@InterceptorButton=Builds Interceptors that automatically attack the Carrier's target. Carriers may not attack without Interceptors.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/CH6@InterceptorButton=Builds Interceptors that automatically attack the Carrier's target. Carriers may not attack without Interceptors.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/CH7@InterceptorButton=Builds Interceptors that automatically attack the Carrier's target. Carriers may not attack without Interceptors.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/CH8@InterceptorButton=Builds Interceptors that automatically attack the Carrier's target. Carriers may not attack without Interceptors.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/CalldownAdditionalBeef=Drop in 2 more of the sector's most savory mercenaries
+Button/Tooltip/CapitalShipShieldRestore=Drain all of the energy from this battery, restoring 10 shields per energy consumed to the target Capital Ship
+Button/Tooltip/CarryingPurifierColossus=Purifier Faction<n/>Battle strider with a powerful area attack. Can walk up and down cliffs. Attacks set fire to the ground, dealing extra damage to enemies over time.<n/><n/><c val="ffff8a">Can attack ground units.</c>
+Button/Tooltip/CarryingWrathwalker=Tal'darim Faction<n/>Battle strider with a powerful single target attack. Can walk up and down cliffs.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/Charge=Intercepts enemy ground units and increases movement speed.<n/>Zealots take 75% less damage from all sources during the charge.
+Button/Tooltip/ChargerEscorts=The Hybrid Nemesis is escorted by <d ref="Abil,ChargerHangarHybrid,MaxCount"/> Hybrid Chargers that charge and explode into enemy air units, they will be replaced slowly once lost
+Button/Tooltip/ColossusTransportation=Warp Prisms can only pick up one Colossus or Wrathwalker, and only when they are not carrying any other standard sized units. Colossi are stored as items in the singular inventory slot visible above the command card.
+Button/Tooltip/CombatShield=Increases Marine life by 10.
+Button/Tooltip/ConfigureInstigatorFabrication=Configure this Reaver to produce a free Instigators every <d ref="Behavior,FabricatingInstigators,InfoArray[0].Delay"/> seconds.
+Button/Tooltip/ConfigureProbeFabrication=Configure this Reaver to produce a free Probe every <d ref="Behavior,FabricatingProbes,InfoArray[0].Delay"/> seconds.
+Button/Tooltip/ConfigureSentinelFabrication=Configure this Reaver to produce a free Sentinel every <d ref="Behavior,FabricatingSentinels,InfoArray[0].Delay"/> seconds.
+Button/Tooltip/ConfigureSentryFabrication=Configure this Reaver to produce a free Sentry every <d ref="Behavior,FabricatingSentries,InfoArray[0].Delay"/> seconds.
+Button/Tooltip/CorpserPassive=Enemies damaged by the Roach become infested and will spawn six Roachlings if killed quickly.
+Button/Tooltip/Corruptor=Anti-air flyer. Can use Caustic Spray and Corruption to disable and attack enemy structures.<n/>Deals bonus damage to masive and capital ships<n/><n/><c val="#ColorAttackInfo">Can attack air units.</c>
+Button/Tooltip/CorsairMPDisruptionWeb=Creates a web of energy on the ground that prevents enemy structures and ground units from attacking for <d time="10"/>. Also slows movement speed of units in the field by <d ref="(1-Behavior,CorsairMPDisruptionWeb,Modification.MoveSpeedMultiplier)*100"/>%<n/><n/><c val="FFFF80">Psionic units are immune.</c>
+Button/Tooltip/DarkArchon=Nerazim Faction<n/>Potent psionic fusion. Can use Confuse and Mind Control.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/DarkArchonConfusion=Forces enemy units in the target area to attack each other for <d ref="Behavior,DarkArchonConfusion,Duration"/> seconds.<n/><n/><c val="#ColorAttackInfo">Heroic, Psionic and Robotic units are immune.</c>
+Button/Tooltip/DarkArchonMergeSelection=Sacrifices 2 Signifiers to create a Dark Archon.
+Button/Tooltip/DarkArchonMindControl=Permanently takes control of a target enemy unit. Mind controlled workers may still build structures.<n/><n/><c val="#ColorAttackInfo">Cannot target capital ships, psionic, heroic or robotic units.</c>
+Button/Tooltip/DarkTemplarChampionPermanentlyCloaked=Vorazun is permanently cloaked and resists splash damage. Shield and life regeneration increased while Vorazun is undetected.
+Button/Tooltip/DefensiveMatrix=Instantly restores <d ref="Effect,DefensiveMatrixModifyUnit,VitalArray[Shields].Change"/> shields and then surrounds the Battlecruiser with a shield that can absorb all incoming damage while rapidly draining energy. Lasts for <d ref="Behavior,DefensiveMatrix,Duration"/> seconds or until the Battlecruiser runs out of energy.
+Button/Tooltip/DefensiveMatrixField=Surrounds the target unit with a shield that can absorb <d ref="Behavior,DefensiveMatrix,Modification.VitalMaxArray[1]"/> damage. 
+Button/Tooltip/DeployCarrier=Deploy a Carrier from the Spear of Adun's internal storage. Equipped with mid-range weaponry and deploys a small complement of squadrons.
+Button/Tooltip/DeployMothership=Deploy a Tal'Darim Mothership from the Spear of Adun's internal storage. Equipped with close range weaponry and a robust construction. Can use blink to safely travel long distances.
+Button/Tooltip/DeployPhoenixSquadron=Deploy a squadron of 6 phoenixes from the Spear of Adun's internal storage. Effective against enemy squadrons.
+Button/Tooltip/DeployScoutSquadron=Deploy a squadron of 3 scouts from the Spear of Adun's internal storage. Effective against enemy carriers and tempests, weak to enemy phoenix squadrons
+Button/Tooltip/DeployTempest=Deploy a Tempest from the Spear of Adun's internal storage. Equipped with long range weaponry effective against enemy capital ships and the disintegration ability.
+Button/Tooltip/DirectTurrets=Direct all of the Spear of Adun's turrets that are in range to attack a target capital ship.
+Button/Tooltip/DisplacementField=A detected Wraith evades 50% of incoming attacks while cloaked. 
+Button/Tooltip/Drag2=Pulls the target to Dehaka's location and temporarily stuns it.
+Button/Tooltip/Drone=Basic worker unit. Can harvest minerals and vespene gas. Can mutate into structures. Gathers from mineral fields more quickly than other workers.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/DropoffBigUnit=Drops the carried big unit at the target position, allowing the transport to pick up another big unit or transport standard units again.
+Button/Tooltip/DukesRevenge=Powerful pirate warship specialized in combating other Capital Ships.<n/><n/><c val="#ColorAttackInfo">Can only attack air units.</c>
+Button/Tooltip/EnergizedVoidCarapace=Gains +10 energy armor if health falls below 50%.<n/>This allows the Hybrid to use it's remaining energy as a shield
+Button/Tooltip/EnterOrbit=This unit flies up into orbit over the battlefield. Limiting its interactions with normal ground and air units to only certain attacks and abilities
+Button/Tooltip/EssenceLeech=50% of the melee damage Dehaka deals is leeched into power his evolved carapace shield
+Button/Tooltip/ExplosiveGlaive=Mutalisk gains +18 damage vs. mechanical units. Attacks no longer bounce to additional targets.
+Button/Tooltip/FaceEmbrace2=Pulls target unit to the Viper. Enemy is stunned for 1 second.<n/><n/>Can be used on structures, but cannot pull them off of creep
+Button/Tooltip/Feedback=Drains all energy from the target. Deals 2 damage per point of energy.
+Button/Tooltip/Flagship=Penultimate Protoss vessel. Can instantly recall multiple units to its current location.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/ForceField=Barrier that lasts <d time="15"/> and impedes movement of ground units. Large units will shatter Force Fields on contact.
+Button/Tooltip/Frenzied=Immune to snare and stun effects.
+Button/Tooltip/GatherProt=Orders Probe to gather resources from a selected Mineral Field or Vespene Geyser.<n/><n/><c val="FFFF80">Probes do not have any additional mineral bonuses, unlike Drones or SCVs</c>
+Button/Tooltip/GatherTerr=Orders SCV to gather resources from a selected Mineral Field or Vespene Geyser.<n/><n/><c val="FFFF80">SCVs gather 1 extra mineral per trip, this mineral is not taken from the harvested field.</c>
+Button/Tooltip/GatherZerg=Orders Drone to gather resources from a selected Mineral Field or Vespene Geyser.<n/><n/><c val="FFFF80">Drones harvest minerals <d ref="(1-Abil,DroneHarvest,ResourceTimeMultiplier[Minerals])*100"/>% faster than Probes or SCVs.</c>
+Button/Tooltip/GehennaBattlecruiser=Gigantic Terran Battlecruiser. Impervious to normal attacks.
+Button/Tooltip/GenerateCorrosiveOoze=The Devourer spews acid when it attacks. Each attack temporarily removes 1 point of armor from the target, up to a maximum of 20. Units that have negative armor values take extra damage from attacks.
+Button/Tooltip/GiantYeti=An exceptionally large specimen of Kaldir's native Ursadon subspecies.<n/>Chief anchor of the Ursa News Network, Kaldir's only source for news!
+Button/Tooltip/GravitonBeam=Makes the target unit float in the air, disabling its abilities. Effect lasts up to <d time="10"/>.<n/><n/><c val="#ColorAttackInfo">Large units are immune.</c><n/><c val="ffff8a">Channeled ability</c>
+Button/Tooltip/GravitonBeamVoidCampaign=Makes the target unit float in the air, disabling its abilities. Effect lasts up to <d time="10"/>.<n/><n/><c val="#ColorAttackInfo">Large units are immune.</c>
+Button/Tooltip/GuardianShield=Creates a range 4 aura that reduces all incoming attack damage to friendly units by 20%. Lasts <d time="15"/>.
+Button/Tooltip/HardenedShield=Reduces incoming damage to a maximum of <d ref="Behavior,HardenedShield,DamageResponse.ClampMaximum"/> while the Immortal still has shields.
+Button/Tooltip/Hardpoints@InterceptorHangar=Capital ship. Builds and launches Interceptors that attack enemy targets.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/HighTemplarShakuras=Nerazim Faction<n/>Potent psionic mystic. Can use Revelation and place Stasis Wards. Can sacrifice two Signifiers to form a Dark Archon.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/HireDevilDogs=Request 4 Devil Dog Mercenaries.<n/><n/>Veteran unit of ex-Confederate Firebats.
+Button/Tooltip/HireDuskWing=Request 6 Dusk Wing Mercenaries.<n/><n/>Dominion deserters piloting modified Banshees.
+Button/Tooltip/HireHammerSecurities=Request 4 Hammer Securities Mercenaries.<n/><n/>Marauders with superior equipment and training.
+Button/Tooltip/HireHelsAngels=Request 2 Hel's Angels Mercenaries.<n/><n/>Pirate Vikings with exceptional aerial expertise.
+Button/Tooltip/HireKelmorianMiners=Request 8 War Pig Mercenaries.<n/><n/>Elite Marines with upgraded equipment.
+Button/Tooltip/HireSpartanCompany=Request 3 Spartan Company Mercenaries.<n/><n/>UED veterans using advanced Goliath prototypes.
+Button/Tooltip/Hive=Further evolved version of the Hatchery that allows additional upgrades and structures to be produced. Also spawns all Zerg units and receives gathered resources.<n/><n/>Increases the maximum number of larvae spawned by 3 and further doubles their spawn rate.
+Button/Tooltip/HotSBioPlasmidDischarge=Empties the Leviathan's entire stomach to obliterate ALL ground units in a large area<n/><n/>Ground units and structures are instantly killed. Air units take 1000 damage instead<n/>Warning: <c val="FF0F0F">THIS INCLUDES THE SWARM</c>
+Button/Tooltip/HotSRoachDamage=Roach gains +<d ref="Upgrade,HotSRoachDamage,EffectArray[0].Value / Effect,AcidSalivaU"/> damage vs. medium units.
+Button/Tooltip/HybridBehemoth=Colossal creature made from both Protoss and Zerg DNA. The sturdy harbinger of Amon's forces, adept at summoning allies.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c><n/><c val="FFE303">Detector</c>
+Button/Tooltip/HybridCharger=Flying suicide mindless hybrid. Created to serve as disposable escorts for the Hybrid Nemesis<n/><n/><c val="ffff8a">Can attack air units.</c>
+Button/Tooltip/HybridDominator=An early attempt to cross Zerg and Protoss biomass.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c><n/><c val="FFE303">Detector</c>
+Button/Tooltip/HybridDominatorHoD2=Powerful psionic attacker, vast improvement over earlier attempts.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c><n/><c val="FFE303">Detector</c>
+Button/Tooltip/HybridDominatorHoD3=A destructive hybrid based on technology from a Xel'Naga worldship.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c><n/><c val="FFE303">Detector</c>
+Button/Tooltip/HybridDominatorHoD4=Unstable psionic attacker. Augmented with Terran plasma technology<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c><n/><c val="FFE303">Detector</c>
+Button/Tooltip/HybridDominatorHoD5=Chaotic psionic attacker.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c><n/><c val="FFE303">Detector</c>
+Button/Tooltip/HybridDominatorHoD6=Hybrid experiment fused with a void rift. Powerful summoner<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c><n/><c val="FFE303">Detector</c>
+Button/Tooltip/HybridDominatorHoD7a=Powerful psionic attacker. Enhanced with solarite<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c><n/><c val="FFE303">Detector</c>
+Button/Tooltip/HybridDominatorHoD7b=Powerful psionic attacker. Enhanced with void shard energies<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c><n/><c val="FFE303">Detector</c>
+Button/Tooltip/HyperionKorhal=A powerful warship modified by Raynor's Raiders to support Tac Fighters and a short-range tactical warp jump.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/HyperionKorhalRegen=The Hyperion powers down and starts repairing damage. This means the Hyperion is unable to attack, move or use abilities until repairs are stopped<n/><n/><c val="FF0000">WARNING:</c> The Hyperion takes extra damage while repairing, make sure she's in a safe spot!
+Button/Tooltip/ImmortalShakuras=Nerazim Faction<n/>Assault Strider. Can use Shadow Cannon to damage air and ground units.<n/><n/><c val="FFFF8A">Can attack ground and air units.</c>
+Button/Tooltip/Implosion=Creates a localized gravity well that telekinetically crushes the target mechanical unit.<n/><n/><c val="ffff8a">Heroic units are Immune</c>
+Button/Tooltip/JuggernautPlating=Increases the Firebat's armor by 2 and life by 25.
+Button/Tooltip/K5HeroicFortitude=Kerrigan takes a maximum of 10 damage at a time while she has at least 100 energy
+Button/Tooltip/K5ImprovedCrawlers=Spine Crawlers and Spore Crawlers gain +50% life, base damage and movement speed
+Button/Tooltip/K5ImprovedOverlords=Overlords morph instantly and cost 50 less minerals.<n/>Allows Overlords to transport ground forces
+Button/Tooltip/K5RSLeviathan=Summons a mighty flying Leviathan with timed life. Deals massive damage to capital ships and has energy-based abilities.<n/><n/><c val="ffff8a">Can only attack air units.</c>
+Button/Tooltip/KaraxUnityBarriers=Karax has a series of barriers that will block an attack or spell that deals at least <d ref="Behavior,KaraxUnityBarriers,DamageResponse.Minimum"/> damage. Karax may store up to <d ref="Unit,KaraxChampion,EnergyMax"/> of these barriers at a time, and regenerates one barrier every <d ref="Abil,KaraxRegenUnityBarrier,Cost[0].Cooldown.TimeUse"/> seconds.
+Button/Tooltip/KhaydarinMonolith=Extremely powerful defensive structure. Has superior range and damage, but is very expensive and attacks slowly. Requires additional space apart from other structures.<n/><n/><c val="ffff8a">Can attack ground and air units.
+Button/Tooltip/Lair=Evolved version of the Hatchery that allows additional upgrades and structures to be produced. Also spawns all Zerg units and receives gathered resources.<n/><n/>Increases the maximum number of larvae spawned by 3 and doubles their spawn rate.
+Button/Tooltip/LeaveOrbit=Descend back down into the battlefield to fight as a regular, full sized, air unit
+Button/Tooltip/LightningBomb=Deals <d ref="Effect,LightningBombDamage,Amount*Behavior,LightningBomb,Duration/Behavior,LightningBomb,Period"/> damage over <d ref="Behavior,LightningBomb,Duration"/> seconds to all enemy units or structure near the target.
+Button/Tooltip/MaelstromRounds=Shock Cannon deals +20 damage to primary target. Splash damage remains the same.
+Button/Tooltip/MatrixOverloadEnergizer=All friendly units gain a <d ref="Behavior,MatrixOverloadTarget,Modification.MoveSpeedMultiplier*100-100"/>% bonus to movement speed and a <d ref="Behavior,MatrixOverloadTarget,Modification.AttackSpeedMultiplier*100-100"/>% bonus to attack speed while positioned within an Energizer's power field. Effect lasts for up to <d ref="Behavior,MatrixOverloadTarget,Duration"/> seconds after leaving the power field.<n/><n/><c val="ffff8a">Passive ability. Capital ships are not affected.</c>
+Button/Tooltip/MengskUnits=Drop down elite Terran ground forces directly from the Hyperion
+Button/Tooltip/MindBolt=Kerrigan deals <d ref="Effect,MindBoltDamage,Amount"/> (<d ref="Effect,MindBoltDamage,Amount+Effect,MindBoltDamage,AttributeBonus[Massive]"/> vs Large, <d ref="Effect,MindBoltDamage,Amount+Effect,MindBoltDamage,AttributeBonus[Hover]"/> vs Capital Ships) damage to target unit or structure from long range, ignoring any shields the target has.
+Button/Tooltip/MorphToCorpser=Corpser Strain<n/><n/>Assault unit. Regenerates life quickly and moves slowly while burrowed. Can infest the enemy with Roachlings. <n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/MorphToDevourerMP=Anti-air flyer, attacks lower enemy armor temporarily<n/>Deals extra damage to armored and capital ships<n/><n/><c val="#ColorAttackInfo">Can attack air units.</c>
+Button/Tooltip/MorphToMutaliskBroodlord=Brood Lord Strain<n/><n/>Air unit. Bounces its shot to strike multiple targets. <n/>Can morph into a Brood Lord or a Corruptor.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/MorphToMutaliskViper=Viper Strain<n/><n/>Air unit. Bounces its shot to strike multiple targets. <n/>Can morph into a Viper or a Guardian.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/MorphToVile=Vile Strain<n/><n/>Assault unit. Regenerates life quickly and moves slowly while burrowed. Can debilitate the enemy.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/NPSwarm=Target unit is permanently controlled by the Swarm.<n/><n/><c val="FFFF80">Heroic units and Capital Ships are immune</c>
+Button/Tooltip/NanoRepair=Rapidly heals a friendly mechanical unit.<n/><n/><c val="f078ff">Heals 10 life per 1 energy.</c>
+Button/Tooltip/NoxiousCloud=Nearby enemy ground units take <d ref="(Effect,NoxiousFumesDamage,Amount) / Behavior,TimeScaleConversionBehavior,Duration)" precision="1"/> damage per second. And have their armor reduced by 50%
+Button/Tooltip/OracleRevelation=Causes enemy units and structures within the target area to grant vision until they die. Reveals cloaked or burrowed units and structures. Can be cast into the fog of war.
+Button/Tooltip/Orbit@AiurCarrier=Capital ship. Builds and launches Interceptors that attack enemy targets.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/Orbit@Carrier=Capital ship. Builds and launches Interceptors that attack enemy targets.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/Orbit@Leviathan=Colossal Zerg flyer. Can unleash multiple devastating attacks. <n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c><n/>
+Button/Tooltip/Orbit@Mothership=Ultimate Protoss vessel. Can use Photon Overcharge, Mass Recall, and Time Warp abilities. Cloaks nearby friendly units and structures.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/Orbit@Phoenix=Air superiority starfighter. Can use Graviton Beam.<n/><n/><c val="ffff8a">Can attack air units.</c>
+Button/Tooltip/Orbit@PurifierTempest=Purifier Faction<n/>Siege artillery craft. Attacks from long range. Can use Disintegration.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/Orbit@Scout=Versatile air and ground attacker. <n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/Orbit@Tempest=Purifier Faction<n/>Siege artillery craft. Attacks from long range. Can use Disintegration.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/OrbitalAssimilatorRich=Warped in over a Vespene Geyser to allow harvesting of vespene gas.
+Button/Tooltip/ParalyticSpines=Attacks decrease any biological target's attack speed by <d ref="(1 - Behavior,ParalyticSpines,Modification.AttackSpeedMultiplier) * 100"/>%.
+Button/Tooltip/ParticleForceAccelerators=The Annihilator can target air units and can fire its particle disruptors while walking.
+Button/Tooltip/PauseInterceptorProduction=Pauses all interceptor production for all hangars at once.
+Button/Tooltip/PhoenixSquadronComplement=This Carrier will spawn up to 2 Phoenix Squadrons and will replace them once lost, all for free
+Button/Tooltip/PickupUltralisk=Picks up one big unit such as a Thor, Ultralisk or Colossus. Must not be carrying any other units
+Button/Tooltip/PrimalSlash=Kerrigan leaps to her target and deals <d ref="Effect,PrimalSlash,Amount"/> (<d ref="Effect,PrimalSlash,Amount+Effect,PrimalSlash,AttributeBonus[Armored]"/> vs medium) damage. Can be used without a target to travel quickly.<n/><n/><c val="ffff8a">Passive: Kerrigan gains +10 damage.<n/>Passive: Attack range reduced by 3.</c>
+Button/Tooltip/Probe=Basic worker unit. Can gather resources and warp in Protoss structures. Does not cost supply.<n/><n/><c val="ffff8a">Can attack ground units.</c>
+Button/Tooltip/Probe/Append=<n/><n/><c val="FFFF80">Auto-cast will disable itself when<s val="ModCenterSize16"> this</s> base is fully saturated.</c>
+Button/Tooltip/Probe2=Basic worker unit. Can gather resources and warp in Protoss structures.<n/>Use this button to warp in Probes to any area with Pylon power<n/><n/><c val="ffff8a">Can attack ground units.</c>
+Button/Tooltip/PrototypeArmor=The brightest minds of the Khalai have crafted Fenix's praetor armor with superior techniques, giving him an astounding +10 life and shield armor
+Button/Tooltip/PsiBlades2=Attack damage is not decreased by enemy armor.
+Button/Tooltip/PsiBladesNerazim=Attack damage is not decreased by enemy armor.
+Button/Tooltip/PsiBladesPurifier=Attack damage is not decreased by enemy armor.
+Button/Tooltip/PsiBladesTaldarim=Attack damage is not decreased by enemy armor.
+Button/Tooltip/PsiStorm=Creates a storm of psionic energy that lasts 4 seconds, causing up to 120 damage to all enemy units in the target area. Does not damage friendly units.
+Button/Tooltip/PsionicFlight=Allows the Hybrid to fly for 20 seconds
+Button/Tooltip/PsionicLift=Enemies in target area are stunned for <d ref="Behavior,PsionicLift,Duration"/> seconds and take <d ref="Behavior,PsionicLift,Duration * Effect,PsionicLiftDamage,Amount"/> (+15 vs small) damage over time.<n/><n/><c val="ffff8a">Does not stun heroic units or capital ships.</c>
+Button/Tooltip/PurifierWeaponry=Fenix is equipped with the prototype weaponry from the Glacius facility. His powerful metal blades tear through enemies, dealing additional damage from each point of enemy armor rather than reducing it.
+Button/Tooltip/PylonAkhundelar=Provides supply.<n/>Supply allows you to warp in more units.<n/>Creates power for nearby structures.
+Button/Tooltip/QueenBurstHeal=Heals a unit or structure for 50 life over time.
+Button/Tooltip/RSVoidRayLineAttack=Deals <d ref="Effect,SOAMothershipLineAttackDamage,Amount"/> damage to all enemies in a straight line up to 10 range away.
+Button/Tooltip/ReaverFabricationSystems=The Solarite enhanced fabrication matricies within the Reaver can be configured to slowly produce one type of robotic unit at negligible costs.<n/><n/>Click on any unit buttons below to configure production
+Button/Tooltip/ReleaseInterceptors=Carrier launches up to <d ref="Effect,ReleaseInterceptorsInitialCP,PeriodCount"/> of its Interceptors at the target point with a <d ref="Behavior,ReleaseInterceptorsTimedLife,Duration"/> second timed life. Interceptors remain at the area until they expire.
+Button/Tooltip/RepairDroneBeacon=Ground beacon to control automated repair drones. Also provides a small power field for warping in ground forces.
+Button/Tooltip/ResearchBarrier=Allows the Immortal's Barrier to store up to <d ref="Abil,ImmortalOverload,Cost[0].Charge.CountMax"/> charges.
+Button/Tooltip/ResumeInterceptorProduction=Resumes interceptor production for all available hangars.
+Button/Tooltip/Roach=Assault unit. Regenerates life quickly when burrowed. Can move slowly while burrowed.<n/><n/><c val="ffff8a">Can attack ground units.</c>
+Button/Tooltip/RoachVile=Assault unit. Regenerates life quickly and moves slowly while burrowed. Attacks debilitate the target, slowing its attack and movement speeds.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/SCV=Basic worker unit. Can gather resources, build Terran structures, and repair. Gathers minerals more efficiently than other workers.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/SJHyperionBuildFighters=Construct a Tac Fighter for the Hyperion. Tac Fighters will automatically deploy and engage enemies around the Hyperion and are outfitted with Wraith weaponry<n/><n/>Maximum 10 Tac Fighters at a time
+Button/Tooltip/SOAMatrixOverload=All friendly units gain <d ref="Behavior,MatrixOverloadTarget,Modification.MoveSpeedMultiplier*100-100"/>% movement speed and <d ref="Behavior,MatrixOverloadTarget,Modification.AttackSpeedMultiplier*100-100"/>% attack speed within Pylon power fields. Effect lasts for up to <d ref="Behavior,MatrixOverloadTarget,Duration"/> seconds after leaving.<n/><n/><c val="ffff8a">Passive ability. Capital ships are not affected.</c>
+Button/Tooltip/SOAMothershipBlink=Slowly teleports the Mothership to target location. Granting a brief period of invulnerability
+Button/Tooltip/SOAMothershipLineAttack=Deals <d ref="Effect,SOAMothershipLineAttackDamage,Amount"/> damage to all ground enemies in a straight line up to 30 range away.
+Button/Tooltip/ScannerTruck=A Crazyhorse all-purpose truck, retrofitted with advanced radar technology<n/><n/>"Lurking eyes at your disposal"
+Button/Tooltip/Scourge=Flying suicide unit. Scourge hatch in fours from a single Larva.<n/><n/><c val="ffff8a">Can attack air units.</c>
+Button/Tooltip/ScourgeMP=Flying suicide unit. Scourge hatch in fours from a single Larva.<n/><n/><c val="ffff8a">Can attack air units.</c>
+Button/Tooltip/ScoutSquadronComplement=This Carrier will spawn a Scout Squadron and will replace it once lost, all for free
+Button/Tooltip/SentryTaldarimForceField=Creates a solid barrier that lasts for <d ref="Behavior,ForceFieldFate,Duration"/> seconds and impedes movement of ground units.<n/><n/><c val="#ColorAttackInfo">Large units shatter Force Fields on contact.</c>
+Button/Tooltip/ServitorDrones=Karax's servitor drones follow him around, attacking enemies and repairing allied mechanical units out of combat.
+Button/Tooltip/ShadowStride=Teleports the Avenger to a nearby target location. Ability can only be used once every <d ref="Abil,Blink,Cost[0].Cooldown.TimeUse"/> seconds.
+Button/Tooltip/ShieldBatteryRecharge=Restores target unit or structure's shields.<n/>Heals 5 + 5% of the target's shields per tick<n/><n/><c val="f078ff">Restores 10 shields per 1 energy.</c><n/><n/><c val="#ColorAttackInfo">Autocasting targets units and defenses, but not capital ships.</c>
+Button/Tooltip/SlaynMissileTurretRight=Powerful Anti-Capital defensive cannon deployed by the Tal'Darim in preparation for this battle. Cannot be replaced once lost.
+Button/Tooltip/Spectre2=Infiltration unit. Can use Ultrasonic Pulse and Cloak. Can also call down Tactical Nukes built at the Ghost Academy.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/StopFabrication=Disable this Reaver's fabrication matrix, stopping production of any and all free units.
+Button/Tooltip/SubjectOmega=The ultimate weapon of the final war.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c><n/><c val="FFE303">Detector</c>
+Button/Tooltip/TacFighterBehemothBC=Behemoth-Class Battlecruiser dedicated escort fighters. Excellent at engaging enemy spacecraft and long-range targets.<n/><n/><c val="ffff8a">Can attack air units.</c>
+Button/Tooltip/TerranEnergyShields=Terran energy shields can only regenerate when the ship already has full energy. However when they can regenerate, they do so rapidly and even while in combat.
+Button/Tooltip/TheSpearofAdun=A marvel of Khalai engineering, and the last of the three great arkships. Created to ensure the continuation of Protoss culture in the darkest of times.<n/><n/>The Spear of Adun was commissioned by the Conclave during the Golden Age of Expansion, following the suggestion of the three Grand Preservers: Shantira, Orlana and Rohana. After a tragic design failure caused two Motherships to crash into a neutron star, the Grand Preservers foresaw the need for the arkships, a way to save the Protoss Civilization. In order to ensure these were not employed as weapons of war, each of the Grand Preservers volunteered to go into long term stasis aboard each arkship as they were entombed beneath the surface of Aiur. Although its sister ships Pride of Altaris and Memory of Nezin were destroyed during the zerg invasion of Aiur, the Spear of Adun has been instrumental in carrying the Daelaam through the End War
+Button/Tooltip/UmojanLabFirebot=Automated biohazard disposal unit armed with napalm.
+Button/Tooltip/ViewHangarStatus=View the breakdown of Interceptors across all remaining hangars on this carrier.
+Button/Tooltip/Vision=Kerrigan has taught Zagara about vision, allowing her to detect nearby cloaked units<n/>Also allows Zagara to sense Psionic units such as Hybrid and Archons at a distance
+Button/Tooltip/VoidColossusChargedBlast=Attacks a single unit or structure for heavy damage. Can attack while moving. Has much longer range when firing at capital ships.
+Button/Tooltip/VoidHighTemplarMindBlast=Deals <d ref="Effect,VoidHighTemplarMindBlastDamage,Amount"/> damage to target enemy unit's life, ignoring any shields or armor they may have. Target is also unable to use energy-based abilities for the next <d ref="Behavior,MindBlasted,Duration"/> seconds of their miserable existence.<n/><n/><c val="FFFF00">Can't target robotic units.</c>
+Button/Tooltip/VoidHighTemplarPsiOrb=Unleashes a traveling Psionic Orb that deals <d ref="Effect,VoidHighTemplarPsiOrbDamage,Amount/Effect,VoidHighTemplarPsiOrbPersistent,PeriodicPeriodArray[0]"/> damage per second to all enemies along its path. Psionic enemies take double damage.
+Button/Tooltip/VoidLaser=Fires a powerful beam of pure void energy at a single target.
+Button/Tooltip/VoidRayPrismaticAlignmentBase=Increases damage dealt by the Void Ray as it continues to attack air units. Increases from <d ref="Effect,PrismaticBeamMUx1,Amount"/> (<d ref="Effect,PrismaticBeamMUx1,Amount+Effect,PrismaticBeamMUx1,AttributeBonus[Hover]"/> vs capital ships) all the way up to a maximum of <d ref="Effect,PrismaticBeamMUx3,Amount"/> (<d ref="Effect,PrismaticBeamMUx3,Amount+Effect,PrismaticBeamMUx3,AttributeBonus[Hover]"/> vs capital ships)
+Button/Tooltip/VoidRayVoidPrismaticRange=Increases the range of the Void Ray's Obliteration Beam by +3, and allows the beam to travel 25% faster to catch targets more easily.
+Button/Tooltip/VoidSentryChronoBeam=Friendly target gains 50% attack and 50% movement speed.<n/><n/><c val="FFFF80">Can not target large units.</c>
+Button/Tooltip/VoidSentryShieldRepair=Recharges the shields of a friendly Protoss ground unit. <n/><n/><c val="f078ff">Restores <d ref="Effect,VoidSentryShieldRepair,RechargeVitalRate"/> shields per <d ref="Effect,VoidSentryShieldRepair,RechargeVitalRate*Effect,VoidSentryShieldRepair,DrainVitalCostFactor"/> energy.</c>
+Button/Tooltip/VoidSentryShieldRepairDouble=Recharges the shields of two friendly Protoss ground units. <n/><n/><c val="f078ff">Restores <d ref="Effect,VoidSentryShieldRepair,RechargeVitalRate"/> shields per <d ref="Effect,VoidSentryShieldRepair,RechargeVitalRate*Effect,VoidSentryShieldRepair,DrainVitalCostFactor"/> energy.</c>
+Button/Tooltip/VoidStalkerDragoonArmor=The durable chassis of Dragoons provides them additional life over other striders.
+Button/Tooltip/VoidStalkerDragoonWeapon=Dragoons deal increased damage to large units and gain +4 range when attacking Large air units.
+Button/Tooltip/VoidStasis=Disables the target's attacks, abilities, movement, detection, production and tech for <d ref="Behavior,DarkTemplarVoidStasis,Duration"/> seconds. Units and structures in stasis cannot be affected by abilities and can only be attacked by blood hunters. After exiting stasis, the target is immune to being put back into void stasis for <d ref="Behavior,RecentlyputintoVoidStasis,Duration"/> seconds.<n/><n/><c val="#ColorAttackInfo">Can target ground units and structures.<n/>Heroic and Psionic units are immune.</c>
+Button/Tooltip/VoidVoidRayBeamBounce=Prismatic Beam splits and deals damage to additional nearby targets as the Destroyer continues to attack, up to a maximum of <d ref="Effect,VoidRayChargeBeamBounce3Search,MaxCount"/> beam splits.
+Button/Tooltip/VoidZealotShadowChargeStun=Stuns target enemy ground unit and all nearby enemy ground units <d ref="Behavior,VoidZealotShadowChargeStun,Duration" precision="1"/> seconds.</n></n><c val="#ColorAttackInfo">Large, Psionic, and Heroic units are slowed instead.</c>
+Button/Tooltip/VoodooShield=Reinforces Tosh's Psi Shield, fully restoring it and granting +400 maximum shields for a short period of time.
+Button/Tooltip/VorazunShadowFury=Rapidly teleport to random enemies within <d ref="Effect,VorazunShadowFurySearch,AreaArray[0].Radius"/> radius <d ref="Behavior,VorazunShadowFuryController,PeriodCount+1"/> times, attacking each of them for <d ref="Effect,VorazunShadowFuryDamage,Amount"/> damage. A single target can be hit more than once.<n/><n/><c val="FFFF00">Can target ground and air units.</c>
+Button/Tooltip/WarpPrism=Fragile yet spacious flying transport. Can load and unload up to <d ref="Abil,WarpPrismTransport,MaxCargoCount"/> units or a single Colossus. Can also deploy to create a power field.
+Button/Tooltip/WildMutation=Friendly zerg units in the target area gain a shield that absorbs up to <d ref="Accumulator,WildMutationShieldAmmount,Ratio * 100"/>% of their maximum life (up to <d ref="Behavior,WildMutation,Modification.VitalMaxArray[Shields]"/>) and <d ref="(Behavior,WildMutation,Modification.AttackSpeedMultiplier - 1) * 100"/>% increased attack speed for <d ref="Behavior,WildMutation,Duration"/> seconds.<n/><n/><c val="ffff8a">Does not affect heroic units.</c>
+Button/Tooltip/YamatoGun=Blasts a target with a devastating plasma cannon, causing 3500 damage.
+Campaign/Description/LegacyOfTheVoidLicenseOnly=Guide the Protoss as they begin the ultimate battle for survival against an ancient evil threatening all life in the universe. Experience the epic conclusion to the StarCraft II trilogy.
+Campaign/ShortName/LegacyOfTheVoid=Real-Scale Legacy of the Void
+Campaign/ShortName/LegacyOfTheVoidCollectorLicense=Real-Scale Legacy of the Void
+Campaign/ShortName/LegacyOfTheVoidLicenseOnly=Real-Scale Legacy of the Void
+DataCollection/Name/BH2=Behemoth Hangar
+DataCollection/Name/BehemothHangar=Behemoth Hangar
+DataCollection/Name/CH1=Carrier Hangar
+DataCollection/Name/CH2=Carrier Hangar
+DataCollection/Name/CH3=Carrier Hangar
+DataCollection/Name/CH4=Carrier Hangar
+DataCollection/Name/CH5=Carrier Hangar
+DataCollection/Name/CH6=Carrier Hangar
+DataCollection/Name/CH7=Carrier Hangar
+DataCollection/Name/CH8=Carrier Hangar
+DataCollection/Name/CS2HP=CS2HP
+DataCollection/Name/CapitalShips=Capital Ships
+DataCollection/Name/DevilDogSquad=Devil Dog Squad
+DataCollection/Name/FirebatSquad=Firebat Squad
+DataCollection/Name/HP2CS=HP2CS
+DataCollection/Name/HammerSecuritiesSquad=Hammer Securities Squad
+DataCollection/Name/HardpointModels=Hardpoint Models
+DataCollection/Name/Hardpoints=Hardpoints
+DataCollection/Name/MarauderSquad=Marauder Squad
+DataCollection/Name/MarineSquad=Marine Squad
+DataCollection/Name/MedicSquad=Medic Squad
+DataCollection/Name/Orbit=Orbital Units
+DataCollection/Name/PhoenixSquadron=Phoenix Squadron
+DataCollection/Name/ReaperSquad=Reaper Squad
+DataCollection/Name/ScoutSquadron=Scout Squadron
+DataCollection/Name/WarPigSquad=War Pig Squad
+DocInfo/DescLong=This mod contains all of the unit changes for Real-Scale, by Orcawarrior2 and Rhyme.<n/>All units are scaled to their cannon size and power. Capital Ships are scaled down by a factor of 1/3 for gameplay<n/>This mod is kept free from story dependencies, allowing it to be used in any campaign
+DocInfo/DescShort=Any
+DocInfo/Name=Real-Scale Units Mod
+DocInfo/Website=https://www.buymeacoffee.com/Orcawarrior2
+Dragoon/Info=HI THIS IS A TEST OF THE UNIT INFO BS
+Effect/Name/ATALaserBatteryLM=ATA Laser Battery 1
+Effect/Name/ATALaserBatteryLM2=ATA Laser Battery 2
+Effect/Name/ATASearch=ATA Search
+Effect/Name/ATASearchR=ATA Search
+Effect/Name/ATAWeaponSet=ATA Weapon Set
+Effect/Name/ATSLaserBattery=ATS Laser Battery
+Effect/Name/ATSLaserBattery2=ATS Laser Battery 2
+Effect/Name/ATSLaserBattery3=ATS Laser Battery 3
+Effect/Name/ATSLaserBattery4=ATS Laser Battery 4
+Effect/Name/ATSLaserBattery5=ATS Laser Battery 5
+Effect/Name/ATSLaserBattery6=ATS Laser Battery 6
+Effect/Name/ATSLaserBatteryCP1=ATS Laser Battery 1
+Effect/Name/ATSLaserBatteryCP2=ATS Laser Battery 2
+Effect/Name/ATSLaserBatteryCP3=ATS Laser Battery 3
+Effect/Name/ATSLaserBatteryCP4=ATS Laser Battery 4
+Effect/Name/ATSLaserBatteryCP5=ATS Laser Battery 5
+Effect/Name/ATSLaserBatteryCP6=ATS Laser Battery 6
+Effect/Name/ATSLaserBatteryLM=ATS Laser Battery 1
+Effect/Name/ATSPlasmaBatteryDamage=ATS Plasma Battery (Damage)
+Effect/Name/ATSPlasmaBatteryLaunchMissile=ATS Plasma Battery (Launch Missile)
+Effect/Name/AmonsFuryAB=Amon's Fury AB
+Effect/Name/AmonsFuryDoT=Amon's Fury DoT
+Effect/Name/AmonsFurySearch=Amon's Fury Search
+Effect/Name/AttackSearchSource=Attack Search Source
+Effect/Name/AutoHarvestVespene6=Auto Harvest Vespene 8
+Effect/Name/AutomatedAssimilatorRichMorph=Automated Assimilator Rich Morph
+Effect/Name/AvengerBlink=Blink (Teleport)
+Effect/Name/BH2@DestroyInterceptors=Destroy Fighters
+Effect/Name/BH2@LaunchInterceptor=Launch Fighters
+Effect/Name/BH2@TrackInterceptor=Track Fighters
+Effect/Name/BehemothFighterDamage=Behemoth Fighter Damage
+Effect/Name/BehemothFighterLM=Behemoth Fighter LM
+Effect/Name/BehemothHangar@DestroyInterceptors=Destroy Fighters
+Effect/Name/BehemothHangar@LaunchInterceptor=Launch Fighters
+Effect/Name/BehemothHangar@TrackInterceptor=Track Fighters
+Effect/Name/BioPlasmidDischargeDamage=Bio Plasmid Discharge (Air/Burrowed Damage)
+Effect/Name/BioPlasmidDischargeGroundDamage=Bio Plasmid Discharge (Ground Damage)
+Effect/Name/BioPlasmidDischargeSearch=Bio Plasmid Discharge Search
+Effect/Name/BioPlasmidDischargeSwitch=Bio Plasmid Discharge Switch
+Effect/Name/CH1@DestroyInterceptors=Destroy Interceptors
+Effect/Name/CH1@LaunchInterceptor=Launch Interceptor
+Effect/Name/CH1@TrackInterceptor=Track Interceptor
+Effect/Name/CH2@DestroyInterceptors=Destroy Interceptors
+Effect/Name/CH2@LaunchInterceptor=Launch Interceptor
+Effect/Name/CH2@TrackInterceptor=Track Interceptor
+Effect/Name/CH3@DestroyInterceptors=Destroy Interceptors
+Effect/Name/CH3@LaunchInterceptor=Launch Interceptor
+Effect/Name/CH3@TrackInterceptor=Track Interceptor
+Effect/Name/CH4@DestroyInterceptors=Destroy Interceptors
+Effect/Name/CH4@LaunchInterceptor=Launch Interceptor
+Effect/Name/CH4@TrackInterceptor=Track Interceptor
+Effect/Name/CH5@DestroyInterceptors=Destroy Interceptors
+Effect/Name/CH5@LaunchInterceptor=Launch Interceptor
+Effect/Name/CH5@TrackInterceptor=Track Interceptor
+Effect/Name/CH6@DestroyInterceptors=Destroy Interceptors
+Effect/Name/CH6@LaunchInterceptor=Launch Interceptor
+Effect/Name/CH6@TrackInterceptor=Track Interceptor
+Effect/Name/CH7@DestroyInterceptors=Destroy Interceptors
+Effect/Name/CH7@LaunchInterceptor=Launch Interceptor
+Effect/Name/CH7@TrackInterceptor=Track Interceptor
+Effect/Name/CH8@DestroyInterceptors=Destroy Interceptors
+Effect/Name/CH8@LaunchInterceptor=Launch Interceptor
+Effect/Name/CH8@TrackInterceptor=Track Interceptor
+Effect/Name/CS2HP@AddHardpointtoTracking=Add Hardpoint to Tracking
+Effect/Name/CS2HP@ExposeHardpointAB=Expose Hardpoint AB
+Effect/Name/CS2HP@ExposeHardpointRB=Expose Hardpoint RB
+Effect/Name/CS2HP@HardpointTracking=Hardpoint Tracking
+Effect/Name/CS2HP@HardpointstoShipDamageEnum2=Ship to Hardpoints Damage Enum
+Effect/Name/CS2HP@HardpointtoShipSpreadDamage2=Ship to Hardpoints Spread Damage
+Effect/Name/CS2HP@ShipDamageResponseSet=Ship Damage Response Set
+Effect/Name/CS2HP@ShipSelfDamage=Ship Self Damage
+Effect/Name/CS2HP@StartTrackingHardpoint=Start Tracking Hardpoint
+Effect/Name/CS2HP@UpdateHardpointsVulnerabilityEnum=Update Hardpoints Vulnerability Enum
+Effect/Name/CS2HP@UpdateHardpointsVulnerabilitySwitch=Update Hardpoints Vulnerability Switch
+Effect/Name/CarrierPurificationCannonDamage=Carrier Purification Cannon Damage
+Effect/Name/CarrierPurificationCannonSearch=Carrier Purification Cannon Search
+Effect/Name/ChangelingStab=Changeling Murder Kill
+Effect/Name/ChargedVoidBlastDamage=Charged Void Blast Damage
+Effect/Name/ChargedVoidBlastLM=Charged Void Blast LM
+Effect/Name/ChargerSuicideDamage=Suicide
+Effect/Name/ChargerSuicideSet=Suicide
+Effect/Name/ColossusPurifierThermalLances=Colossus Purifier Thermal Lances
+Effect/Name/ColossusPurifierThermalLancesDamage=Colossus Purifier Thermal Lances Damage
+Effect/Name/ColossusPurifierThermalLancesDamageDelay=Colossus Purifier Thermal Lances Damage Delay
+Effect/Name/ColossusPurifierThermalLancesForward=Colossus Purifier Thermal Lances Forward
+Effect/Name/ColossusPurifierThermalLancesReverse=Colossus Purifier Thermal Lances Reverse
+Effect/Name/ColossusPurifierThermalLancesSearch=Colossus Purifier Thermal Lances Search
+Effect/Name/ColossusPurifierThermalLancesSearchReverse=Colossus Purifier Thermal Lances Search Reverse
+Effect/Name/CreateRepairDroneBeacon=Create Repair Drone Beacon
+Effect/Name/DRBattlecruiserALMR=ATA Launch Missile
+Effect/Name/DRCannonsA=Revenger Cannon Damage
+Effect/Name/DarkTemplarShakurasDamage=Signifier Shakuras Glaive Damage
+Effect/Name/DarkTemplarShakurasLM=Signifier Shakuras Glaive LM
+Effect/Name/DarkTemplarVoidStasisCooldownAB=Dark Templar Void Stasis Cooldown AB
+Effect/Name/Deal10ShieldDamage=Deal 10 Shield Damage
+Effect/Name/DefensiveMatrixApplyBehavior2=Defensive Matrix Apply Behavior
+Effect/Name/DefensiveMatrixModifyUnit2=Defensive Matrix Modify Unit
+Effect/Name/DefensiveMatrixSet2=Defensive Matrix Set
+Effect/Name/DevolveUltraliskMorph=Devolve Ultralisk Morph
+Effect/Name/DevolveUltraliskRefund=Devolve Ultralisk Refund
+Effect/Name/DevolveUltraliskSet=Devolve Ultralisk Set
+Effect/Name/DirectTurretstoFire=Direct Turrets to Fire
+Effect/Name/DirectTurretstoSop=Direct Turrets to Sop
+Effect/Name/DoomsdayDetonateSet=Doomsday Detonate Set
+Effect/Name/DoomsdayStartAB=Doomsday Start AB
+Effect/Name/DropBigUnitDummySet=Drop Big Unit Dummy Set
+Effect/Name/EggExpand=Egg Expand
+Effect/Name/FabricatingInstigators=Fabricating Instigators
+Effect/Name/FabricatingProbes=Fabricating Probes
+Effect/Name/FabricatingSentinels=Fabricating Sentinels
+Effect/Name/FabricatingSentries=Fabricating Sentries
+Effect/Name/FlameThrowerSet=Flame Thrower (Set)
+Effect/Name/HP2CS@AddCapitalShiptoTracker=Add Capital Ship to Tracker
+Effect/Name/HP2CS@CapitalShipTracking=Capital Ship Tracking
+Effect/Name/HP2CS@HardpointstoShipDamageEnum=Hardpoints to Ship Damage Enum
+Effect/Name/HP2CS@HardpointtoShipSpreadDamage=Hardpoint to Ship Spread Damage
+Effect/Name/HP2CS@StartTrackingParentCapitalShip=Start Tracking Parent Capital Ship
+Effect/Name/HeroNukeCreepRemove=Hero Nuke Creep Remove
+Effect/Name/HeroNukeDetonationSet=Hero Nuke Detonation Set
+Effect/Name/HeroNukeFalloutCU=Hero Nuke Fallout CU
+Effect/Name/HighTemplarCrippleAB=High Templar Feedback Cripple 
+Effect/Name/HotSRaptorTeleport=HotS Raptor Teleport
+Effect/Name/HurricaneLaserCP=Hurricane Laser CP
+Effect/Name/HybridDominatorSacrifice=Hybrid Dominator Sacrifice
+Effect/Name/HybridDominatorSacrificeDamage=Hybrid Dominator Sacrifice Damage
+Effect/Name/HybridDominatorSacrificeDamage25=Hybrid Dominator Sacrifice Damage 25
+Effect/Name/HybridDominatorSacrificeDamage5=Hybrid Dominator Sacrifice Damage 5
+Effect/Name/HybridDominatorVoidWeaponSearch=Hybrid Dominator Void Weapon Search
+Effect/Name/HybridEssenceIncrease=Hybrid Essence Increase
+Effect/Name/HybridFormIncrease=Hybrid Form Increase
+Effect/Name/HybridGeneralImpactSet=Hybrid General Impact Set
+Effect/Name/HybridGeneralLM=Hybrid General LM
+Effect/Name/HybridReaverCriticalHitSwitch=Hybrid Reaver Critical Hit Switch
+Effect/Name/HybridShadowCharge=Shadow Charge
+Effect/Name/HyperionKorhalAAPersistant=Hyperion Korhal AA Persistant
+Effect/Name/HyperionKorhalAGPersistant=Hyperion Korhal AG Persistant
+Effect/Name/InstantOrbitApply=Instant Orbit Apply
+Effect/Name/InterceptorCreateAB=Interceptor Create Bombs AB
+Effect/Name/InterceptorReleaseHeightBoost=Interceptor Release Height Boost
+Effect/Name/InterceptorSuppressHeightBoost=Interceptor Suppress Height Boost
+Effect/Name/IonCannonsOrbit=Ion Cannons
+Effect/Name/IonCannonsU2=Ion Cannons
+Effect/Name/KaiserBladesDamage=Tyrant Blades Damage
+Effect/Name/KaraxRegenUnityBarrier=Karax Regen Unity Barrier
+Effect/Name/KillNearbyVoidShades=Kill Nearby Void Shades
+Effect/Name/KillVoidShade=Kill Void Shade
+Effect/Name/LaserBeamTripodInitialDamage2=Pulse Beam (Initial Damage)
+Effect/Name/LaserDrillTripodCreatePersistent2=Pulse Beam (Initial Persistant)
+Effect/Name/LaunchTacFighterMagazine=Launch Tac Fighter (Magazine)
+Effect/Name/LeviathanAirAttackSearchArea=Leviathan - Air Attack (Search Area)
+Effect/Name/LightningBombLMOrbit=Lightning Bomb Orbital LM
+Effect/Name/LightningBombSearch=Lightning Bomb Search
+Effect/Name/LokiYamatoU=Yamato Cannon (Ground Damage)
+Effect/Name/MindBlastAB=Mind Blast AB
+Effect/Name/MoebiusHybridFindSeekerMissileTarget=Moebius Hybrid Find Seeker Missile Target
+Effect/Name/MoebiusHybridFireSeekerMissiles=Moebius Hybrid Fire Seeker Missiles
+Effect/Name/MoebiusHybridFloorBurst=Moebius Hybrid Floor Burst
+Effect/Name/MoebiusHybridFloorBurstDamage=Moebius Hybrid Floor Burst Damage
+Effect/Name/MoebiusHybridFloorBurstLineLM=Moebius Hybrid Floor Burst Line LM
+Effect/Name/MoebiusHybridFloorBurstRandomDir=Moebius Hybrid Floor Burst Random Dir
+Effect/Name/MoebiusHybridFloorBurstSearch=Moebius Hybrid Floor Burst Search
+Effect/Name/MoebiusHybridPuddleAB=Moebius Hybrid Puddle AB
+Effect/Name/MoebiusHybridPuddleCP=Moebius Hybrid Puddle CP
+Effect/Name/MoebiusHybridPuddleDamage=Moebius Hybrid Puddle Damage
+Effect/Name/MoebiusHybridPuddleSearch=Moebius Hybrid Puddle Search
+Effect/Name/MoebiusHybridWeaponCP=Moebius Hybrid Weapon CP
+Effect/Name/MothershipBeamDamage2=Mothership Beam (Damage)
+Effect/Name/MothershipBeamDummy2=Mothership Beam Dummy
+Effect/Name/MothershipBeamPersistent2=Mothership Beam (Persistent)
+Effect/Name/MothershipBeamSearch=Mothership Beam (Search)
+Effect/Name/MothershipBeamSearch2=Mothership Beam (Search)
+Effect/Name/MothershipBeamSet2=Mothership Beam (Set)
+Effect/Name/MothershipSecondaryBeamPersistent2=Mothership Secondary Beam (Persistent)
+Effect/Name/NydusCanalAttackerMissileTargetSearch=Nydus Canal Attacker Missile Target Search
+Effect/Name/NydusCanalAttackerPersistentAttack=Nydus Canal Attacker Persistent Attack
+Effect/Name/PnPSingleTargetLockOnActorKeepAlivePersistent=PnPSingleTargetLockOnActorKeepAlivePersistent
+Effect/Name/PnPSingleTargetLockOnActorKeepAlivePersistentImpactDummy=PnPSingleTargetLockOnActorKeepAlivePersistentImpactDummy
+Effect/Name/PnPSingleTargetLockOnDamage=PnPSingleTargetLockOnDamage
+Effect/Name/PnPSingleTargetLockOnPersistent=PnPSingleTargetLockOnPersistent
+Effect/Name/PnPSingleTargetLockOnSearch=PnPSingleTargetLockOnSearch
+Effect/Name/PnPSingleTargetLockOnSecondaryPersistent=PnPSingleTargetLockOnSecondaryPersistent
+Effect/Name/PsiStormDamageInitial=Psi Storm (Damage Initial)
+Effect/Name/PsionicFlight=Psionic Flight
+Effect/Name/PulseBeamFinalDamage=Pulse Beam (Final Damage)
+Effect/Name/PulseBeamFinalPersistant=Pulse Beam (Final Persistant)
+Effect/Name/PurificationCannonDamageBlue=Purification Cannon (Damage) (Blue)
+Effect/Name/PurificationCannonDamageOrange=Purification Cannon (Damage) (Orange)
+Effect/Name/PurificationCannonPersistentBlue=Purification Cannon (Persistent) (Blue)
+Effect/Name/PurificationCannonPersistentOrange=Purification Cannon (Persistent) (Orange)
+Effect/Name/PurifierBeamSearch=Purifier Beam (Search)
+Effect/Name/RSVoidRayLineAttackCaster=RS Void Ray Line Attack Caster 
+Effect/Name/RSVoidRayLineAttackCasterImpactDummy=RS Void Ray Line Attack Caster Impact Dummy
+Effect/Name/RSVoidRayLineAttackDamage=RS Void Ray Line Attack Damage
+Effect/Name/RSVoidRayLineAttackInitial=RS Void Ray Line Attack Initial 
+Effect/Name/RSVoidRayLineAttackScan=RS Void Ray Line Attack Scan 
+Effect/Name/RSVoidRayLineAttackSearch=RS Void Ray Line Attack Search
+Effect/Name/RammingSpeedDamage=Ramming Speed Damage
+Effect/Name/RammingSpeedSet=Ramming Speed Set
+Effect/Name/Remove01EnergyFromCaster=Remove 0.5 Energy From Caster
+Effect/Name/RemoveSpawnBehaviors=Remove Spawn Behaviors
+Effect/Name/RichAssimilatorMorph=Rich Assimilator Morph
+Effect/Name/RipFieldGeneratorDamage=Rip Field Generator (Damage)
+Effect/Name/RipFieldGeneratorSearch=Rip Field Generator (Search)
+Effect/Name/SOAMothershipBlinkHide=SOA Mothership Blink Hide
+Effect/Name/SOAMothershipv4MultitargetSearch=SOA Mothership v4 Multitarget Search
+Effect/Name/SOAMothershipv4MultitargetSearchOrbit=SOA Mothership v4 Multitarget Search
+Effect/Name/ScienceVesselHardpointNanoRepairCP=Science Vessel Hardpoint Nano Repair CP
+Effect/Name/ScienceVesselHardpointNanoRepairControllerAB=Science Vessel Hardpoint Nano Repair Controller AB
+Effect/Name/ScienceVesselHardpointNanoRepairControllerRB=Science Vessel Hardpoint Nano Repair Controller RB
+Effect/Name/ScienceVesselHardpointNanoRepairHealTarget=Science Vessel Hardpoint Nano Repair Heal Target
+Effect/Name/ScienceVesselHardpointNanoRepairStartSet=Science Vessel Hardpoint Nano Repair Start Set
+Effect/Name/ScienceVesselHardpointNanoRepairStopSet=Science Vessel Hardpoint Nano Repair Stop Set
+Effect/Name/ScienceVesselHardpointNanoRepairTargetAB=Science Vessel Hardpoint Nano Repair Target AB
+Effect/Name/ScienceVesselHardpointNanoRepairTargetRB=Science Vessel Hardpoint Nano Repair Target RB
+Effect/Name/ScoutGroundPersistent=Scout Ground Persistent
+Effect/Name/ScoutHeavyOrbitAttackCP=Scout Heavy Orbit Attack CP
+Effect/Name/ScoutLightOrbit=Scout Light Orbit 
+Effect/Name/ScoutLightOrbitPersistent=Scout Light Orbit Persistent
+Effect/Name/ScoutOrbitHeavyDamage=Scout Orbit Heavy Damage
+Effect/Name/ScoutOrbitHeavyLMLeft=Scout Orbit Heavy LM Left
+Effect/Name/ScoutOrbitHeavyLMRight=Scout Orbit Heavy LM Right
+Effect/Name/SecretPowerAB=Secret Power AB
+Effect/Name/ShieldBatteryRechargeEnergy=Shield Battery Big Recharge Energy
+Effect/Name/ShieldBatteryRechargeShield=Shield Battery Big Recharge Shield
+Effect/Name/ShieldBatteryRechargeShieldSet=Shield Battery Big Recharge Shield Set
+Effect/Name/SoATurretPlasmaDisruptorLaunchMissile=SoA Turret Plasma Disruptor Launch Missile
+Effect/Name/SoATurretRepulsorCannonDamage=SoA Turret Repulsor Cannon Damage
+Effect/Name/Spawn10HydraliskShades=Spawn 10 Hydralisk Shades
+Effect/Name/Spawn10ZealotShades=Spawn 10 Zealot Shades
+Effect/Name/Spawn20ZerglingShades=Spawn 20 Zergling Shades
+Effect/Name/Spawn5MutaliskShades=Spawn 5 Mutalisk Shades
+Effect/Name/Spawn5StalkerShades=Spawn 5 Stalker Shades
+Effect/Name/SpawnZergShades=Spawn Zerg Shades
+Effect/Name/SpawnZergShades2=Spawn Protoss Shades
+Effect/Name/SquadAttack=Squad Attack
+Effect/Name/SquadAttackAB=Squad Attack AB
+Effect/Name/SquadAttackIterate=Squad Attack Iterate
+Effect/Name/SquadBunkerUnload=Squad Bunker Unload
+Effect/Name/SquadMainAttack=Squad Main Attack
+Effect/Name/SquadStop=Squad Stop
+Effect/Name/SquadStopIterate=Squad Stop Iterate
+Effect/Name/SquadUnit=Squad Unit
+Effect/Name/SquadUnitTeleport=Squad Unit Teleport
+Effect/Name/StartFabricatingInstigators=Start Fabricating Instigators
+Effect/Name/StartFabricatingProbes=Start Fabricating Probes
+Effect/Name/StartFabricatingSentinels=Start Fabricating Sentinels
+Effect/Name/StartFabricatingSentries=Start Fabricating Sentries
+Effect/Name/StopCommand=Stop Command
+Effect/Name/StopFabrication=Stop Fabrication
+Effect/Name/TacFightersCP=Tac Fighters
+Effect/Name/TempestDamageOrbit=Tempest Damage
+Effect/Name/TempestLaunchMissileOrbital=Tempest Launch Missile Orbital
+Effect/Name/TempestPurifierDamage=Tempest Purifier Damage
+Effect/Name/TempestPurifierDamageGround=Tempest Purifier Damage (Ground)
+Effect/Name/TempestPurifierDamageOrbit=Tempest Purifier Damage
+Effect/Name/TempestPurifierLaunchMissileOrbital=Tempest Purifier Launch Missile Orbital
+Effect/Name/VoidBoundAB=Void Bound AB
+Effect/Name/VoidBoundEndedInvulnerability=Void Bound Ended Invulnerability
+Effect/Name/VoidDissolve=Void Dissolve
+Effect/Name/VoidHighTemplarMindBlastSet=Mind Blast Set
+Effect/Name/VoidLaserCP=Void Laser CP
+Effect/Name/VoidLaserDamage=Void Laser Damage
+Effect/Name/VoidRayChaseBeamCP=Void Ray Chase Beam CP
+Effect/Name/VoidRayChaseBeamCU=Void Ray Chase Beam CU
+Effect/Name/VoidRayChaseBeamDamage=Void Ray Chase Beam Damage
+Effect/Name/VoidRayChaseBeamDamageSearch=Void Ray Chase Beam Damage Search
+Effect/Name/VoidRayChaseBeamDamageSet=Void Ray Chase Beam Damage Set
+Effect/Name/VoidRayChaseBeamInitialCP=Void Ray Chase Beam Initial CP
+Effect/Name/VoidRayChaseBeamIssueOrder=Void Ray Chase Beam Issue Order
+Effect/Name/VoidRayChaseBeamRU=Void Ray Chase Beam RU
+Effect/Name/VoidThrasherWaveStartDummy=Void Thrasher Wave Start Dummy
+Effect/Name/VoidZealotShadowChargeSwitch=Void Zealot Shadow Charge Switch
+Effect/Name/WildMutationGiveShield=Wild Mutation Give Shield
+Effect/Name/YamatoInitialTarget=Yamato Initial Target
+Effect/Name/YamatoSwitch=Yamato Switch
+Effect/Name/YamatoU2=Yamato Cannon (Ground Damage)
+Equipment/MinotaurBC/Name/0=ATA Laser Batteries
+Equipment/MinotaurBC/Name/1=ATS Laser Batteries
+Equipment/MinotaurBC/Tooltip/0=Hardpoints: 2
+Equipment/MinotaurBC/Tooltip/1=Hardpoints: 6
+Error/CantTargetCapital=Can't target capital ships
+Error/MustTargetCapital=Must target capital ships
+Error/NoTargetCapitalShips=Can't Target Capital Ships
+HeroAbil/Name/K5Leviathan=Implosion
+HeroAbil/Name/K5ZerglingRespawn=Improved Crawlers
+ItemClass/Name/BigUnit=Big Unit
+ItemClass/Name/Turret=Turret
+Karax/UnityBarrier=Unity Barriers: 
+Param/Value/lib_D3571409_126D0B03=R
+Param/Value/lib_D3571409_2F0E430C=Show Colossus Units again
+Param/Value/lib_D3571409_320959D4=Hide Capital Ships from view
+Param/Value/lib_D3571409_56E559B5=Capital Ships Shown
+Param/Value/lib_D3571409_5A37BB97=Average Human in Real-Scale
+Param/Value/lib_D3571409_88ACE7A5=CS2HP
+Param/Value/lib_D3571409_9BC61BAF=Colossi Units Hidden
+Param/Value/lib_D3571409_A1138E1E=<h/>Real-Scale Options
+Param/Value/lib_D3571409_B0B6369E=Capital Ships Hidden
+Param/Value/lib_D3571409_CADBA311=Average Human in Vanilla Game-Scale
+Param/Value/lib_D3571409_CF336710=Show Capital Ships again
+Param/Value/lib_D3571409_DC1E3F0A=Bananas don't belong in space you silly goose!
+Param/Value/lib_D3571409_EC82C99C=Colossi Units Shown
+Param/Value/lib_D3571409_F700CB25=Hide Colossus Units from view
+Param/Value/lib_D3571409_F958ECBB=HP2CS
+RS/Raptor/LeapName=Lag Less Leap
+RS/Raptor/LeapTooltip=The Raptor will leap towards targets between 2 and 5 range. Will not target structures because they kept teleporting inside of them and it was really imbalanced
+Reaver/Addons/Sentinel=S
+RequirementNode/Tooltip/CountUnitAlias_GatewayCompleteOnly4260347518TechTreeCheat=Gateway
+RequirementNode/Tooltip/CountUnitArmoryCompleteOnly609241497TechTreeCheat=Armory
+RequirementNode/Tooltip/CountUnitCyberneticsCoreCompleteOnly1190316994TechTreeCheat=Cybernetics Core
+RequirementNode/Tooltip/CountUnitFactoryTechLabCompleteOnlyAtUnit2589852481TechTreeCheat=Attached Tech Lab
+RequirementNode/Tooltip/CountUnitFusionCoreCompleteOnly3089280483=Fusion Core
+RequirementNode/Tooltip/CountUpgradeK5ImprovedOverlordsCompleteOnly296157760=Choose Improved Overlords for Kerrigan
+RequirementNode/Tooltip/CountUpgradeoverlordtransportCompleteOnly2398587713TechTreeCheat=Evolve Ventral Sacs at the Hatchery, Lair, or Hive
+RequirementNode/Tooltip/Eq2468430790CountUnitOrbit@TalDarimMothershipQueuedOrBetter=No Mothership in Orbit
+RequirementNode/Tooltip/Eq3998036366CountUnitHotSLeviathanQueuedOrBetter0=Limit 1 Leviathan at a time
+RequirementNode/Tooltip/GTE1418888770CountUpgradeKerriganLevelCompleteOnly70=Kerrigan Level 70
+RequirementNode/Tooltip/LT1757855296SumCountUnitScarabInProgressOnlyAtUnitCountUnitScarabQueuedOnlyAtUnit1=Reaver must not be training a scarab.
+RequirementNode/Tooltip/LT2587883893CountUnitInterceptorQueuedOrBetterAtUnit80=Carrier must have fewer than 80 Interceptors
+RequirementNode/Tooltip/LT3085779150CountUnitOrbit@AiurCarrierQueuedOrBetter5=Less than 5 Carriers in Orbit
+RequirementNode/Tooltip/LT704687028CountUnitCommentatorBot1QueuedOnly60=Carrier must have fewer than 60 Interceptors
+RequirementNode/Tooltip/LT940082481CountUnitOrbit@PurifierTempestQueuedOrBetter6=Less than 6 Tempests in Orbit
+Shields/Terran/Name=Terran Energy Shields
+Shields/Terran/Tooltip=Energy Shields can only regenerate when the unit's Energy is already full
+Skin/Name/Scout=Scout
+Subtitle/OrbitalUnit=Currently In Orbit
+UI/AchievementDisable=Achievements have been disabled due to mods 
+UI/Activity/Yamato=Commencing bombardment...
+UI/CampaignPurchase/PromoPurchaseLotVGetSwarm=*Limited time offer: Buy Legacy of the Void by April 25, 2016 and get a free digital copy of Heart of the Swarm.
+UI/ChangingOrbit=Changing Orbit
+UI/ChangingOrbit/Enter=Entering Orbit
+UI/ChangingOrbit/Leaving=Leaving Orbit
+UI/Configuring=Configuring
+UI/DAMAGE_CHAOS=Type: <c val="00cc00">Acid</c>
+UI/DAMAGE_HERO=Type: <c val="ff5500">Fire</c>
+UI/DAMAGE_MAGIC=Type: <c val="ffcc00">Explosive</c>
+UI/DAMAGE_MELEE=Type: <c val="aaaaaaaa">Physical</c>
+UI/DAMAGE_NORMAL=Type: <c val="0000ff">Psionic</c> 
+UI/DAMAGE_PIERCE=Type: <c val="FF00FF">Energy</c>
+UI/DAMAGE_SIEGE=Type: <c val="FF8000">Plasma</c>
+UI/DAMAGE_UNKNOWN=Type: <c val="aaaaaaaa">Physical</c>
+UI/Fabricating=Fabricating
+UI/HeartOfTheSwarmArchivesTooltip=The Master Archives will unlock once you have completed the campaign. Within you can replay missions with advanced units and upgrades.
+UI/LegacyOfTheVoidDescription=<s val="CampaignPanelLastMissionDescription">Far above the zerg infested jungles of Aiur, the young Hierarch of the unified protoss, Artanis, has assembled the Golden Armada to retake his people's ancient homeworld.<n/><n/>As the Templar forces prepare themselves for war, a small band of warriors fight a desperate battle to establish a beachhead within the ruins on the planet's surface.
+UI/LegacyOfTheVoidMainStorySubtitle=Main Story
+UI/Loading=Loading
+UI/TerranShield=Terran Energy Shields
+UI/TerranShieldsTooltip=Terran energy shields are only partially effective and do not regenerate
+Unit/Category/HybridUnits=Hybrid
+Unit/Category/TerranHardpoints=Terran Hardpoints
+Unit/LifeArmorName/InfestedVehiclePlating=Infested Vehicle Plating
+Unit/Name/Battlecruiser=Minotaur-Class Battlecruiser
+Unit/Name/BehemothATSBattery=Behemoth ATS Battery
+Unit/Name/BehemothBC=Behemoth-Class Battlecruiser
+Unit/Name/BehemothTauren=Behemoth-Class CattleBruiser
+Unit/Name/BunkerSQ=Bunker
+Unit/Name/DevilDogSquad=Devil Dog Squad
+Unit/Name/Devourer=Devourer
+Unit/Name/DevourerMP=Devourer
+Unit/Name/DisPear=Hybrid Dominator
+Unit/Name/FirebatSquad=Firebat Squad
+Unit/Name/Flagship=Tal'darim Mothership Core
+Unit/Name/GehennaBattlecruiser=Gorgon Battlecruiser
+Unit/Name/GenericProtossHardpoint=Generic Protoss Hardpoint
+Unit/Name/GenericTerranHardpoint=Generic Terran Hardpoint
+Unit/Name/GiantYeti=Ursadonny Vermillion
+Unit/Name/HammerSecuritiesSquad=Hammer Securities Squad
+Unit/Name/Hardpoints@AnnihilationCluster=Annihilation Cluster
+Unit/Name/Hardpoints@AssaultCluster=Assault Cluster
+Unit/Name/Hardpoints@BehemothHangar=Hangar
+Unit/Name/Hardpoints@DefenseMatrix=Defensive Lattice
+Unit/Name/Hardpoints@Engines=Engines
+Unit/Name/Hardpoints@FabricationMatrix=Fabrication Matrix
+Unit/Name/Hardpoints@GravitySling=Gravity Sling
+Unit/Name/Hardpoints@InterceptorHangar=Hangar
+Unit/Name/Hardpoints@KineticMatrix=Kinetic Matrix
+Unit/Name/Hardpoints@MinotaurATAHardpoint=ATA Battery
+Unit/Name/Hardpoints@MinotaurATSHardpoint=ATS Battery
+Unit/Name/Hardpoints@NanoRepairEmitter=Nano Beam
+Unit/Name/Hardpoints@ProtossEngines=Engines
+Unit/Name/Hardpoints@RevengerCannon=Revenger Cannon
+Unit/Name/Hardpoints@Sensors=Sensors
+Unit/Name/Hardpoints@VoidLenses=Void Lenses
+Unit/Name/Hardpoints@YamatoCannon=Yamato Cannon
+Unit/Name/HybridChannel=Hybrid Reaver
+Unit/Name/HybridCharger=Hybrid Charger
+Unit/Name/HybridDominator=Subject Alpha
+Unit/Name/HybridDominatorHoD2=Subject Beta
+Unit/Name/HybridDominatorHoD3=Subject Sigma
+Unit/Name/HybridDominatorHoD4=Subject Upsilon
+Unit/Name/HybridDominatorHoD5=Subject Gamma
+Unit/Name/HybridDominatorHoD6=Subject Zeta
+Unit/Name/HybridDominatorHoD7a=Subject Eta
+Unit/Name/HybridDominatorHoD7b=Subject Iota
+Unit/Name/HyperionKorhalFighter=Tactical Fighter
+Unit/Name/HyrbidCharger=Hybrid Charger
+Unit/Name/InfestedSiegeBreaker=Infested Siege Breaker
+Unit/Name/InfestedSiegeBreakerSieged=Infested Siege Breaker
+Unit/Name/InvisSoATurret=Spear of Adun Turret
+Unit/Name/IonCannonsWeaponOrbit=Ion Cannons Orbit
+Unit/Name/KaraxServitorWeaponA=Karax Servitor A
+Unit/Name/KaraxServitorWeaponB=Karax Servitor B
+Unit/Name/KorhalCannon=Drakken Pulse Cannon
+Unit/Name/LightningBombWeaponOrbit=Lightning Bomb Weapon (Orbit)
+Unit/Name/Loki=Loki
+Unit/Name/MarauderSquad=Marauder Squad
+Unit/Name/MarineSquad=Marine Squad
+Unit/Name/MedicSquad=Medic Squad
+Unit/Name/MoebiusHybridFloorBurstLineLMWeapon=Moebius Hybrid Floor Burst Line LM Weapon
+Unit/Name/NuclearFallout=Nuclear Fallout
+Unit/Name/Orbit@AiurCarrier=Carrier
+Unit/Name/Orbit@Carrier=Carrier
+Unit/Name/Orbit@Leviathan=Leviathan
+Unit/Name/Orbit@Mothership=Mothership
+Unit/Name/Orbit@Phoenix=Phoenix
+Unit/Name/Orbit@PurifierTempest=Tempest
+Unit/Name/Orbit@Scout=Scout
+Unit/Name/Orbit@TalDarimMothership=Tal'Darim Mothership
+Unit/Name/Orbit@Tempest=Tempest
+Unit/Name/OrbitalAssimilatorRich=Orbital Assimilator
+Unit/Name/PhoenixSquadron=Phoenix Squadron
+Unit/Name/Purifier=Purifier Mothership
+Unit/Name/PylonAkhundelar=Pylon
+Unit/Name/RSVoidRayLineAttackWeapon=RS Void Ray Line Attack Weapon
+Unit/Name/ReaperSquad=Reaper Squad
+Unit/Name/RepairDroneBeacon=Drone Beacon
+Unit/Name/SOAMothershipv4=Tal'Darim Mothership
+Unit/Name/ScannerTruck=Scanner Truck
+Unit/Name/ScoutOrbitWeaponLeft=Anti Orbit Left
+Unit/Name/ScoutOrbitWeaponRight=Anti Orbit Right
+Unit/Name/ScoutSquadron=Scout Squadron
+Unit/Name/ShapeBanana=Banana For Scale
+Unit/Name/SoARepulsorCannonWeapon=SoA Repulsor Cannon Weapon
+Unit/Name/SolarBombardmentZone=Solar Bombardment Zone
+Unit/Name/Spectre2=Spectre
+Unit/Name/SubjectOmega=Subject Omega
+Unit/Name/TacFighterBehemothBC=Tac Fighter
+Unit/Name/TacFighterHangar=Generic Terran Hardpoint
+Unit/Name/TalDarimMothership=Nyon's Mothership
+Unit/Name/TempestPurifierWeaponGround=Tempest Purifier Weapon (Ground)
+Unit/Name/TempestPurifierWeaponOrbit=Tempest Purifier Weapon
+Unit/Name/TempestWeaponOrbit=Tempest Weapon (Orbit)
+Unit/Name/TheSpearofAdun=The Spear of Adun
+Unit/Name/UmojanLabFirebot=Sanitization Bot
+Unit/Name/VoidRayChaseBeamUnit=Void Ray Chase Beam Unit
+Unit/Name/WarPigSquad=War Pig Squad
+Unit/Name/WeaponBehemothFighter=Weapon -- Behemoth Fighter
+Unit/Reaver/AddonIndicator=I
+Unit/ShieldArmorName/DefensiveMatrixShields=Terran Energy Shields
+Unit/ShieldArmorName/HybridShields=Void Shields
+Unit/ShieldArmorName/MassivePlasmaShields=Protoss Plasma Shields
+Unit/SubHighlight/Hardpoints@AnnihilationCluster=Provides ultimate abilities
+Unit/SubHighlight/Hardpoints@AssaultCluster=Provides fire support abilities
+Unit/SubHighlight/Hardpoints@DefenseMatrix=Provides defensive abilities
+Unit/SubHighlight/Hardpoints@FabricationMatrix=Provides economic abilties
+UnitKillRank/GorgonCruiser=Absolute Chonker
+UnitKillRank/LeviathanOrbital=Monstrosity
+UnitKillRank/PotVDehaka=Primal Pack Leader
+UnitSubtitle/BehemothBattlecruiser=Currently In Orbit
+UnitSubtitle/InfestedStukov=<s val="Arcade_Flavor">Infested Legend</s>
+Upgrade/Name/AutoCastWorkersPreferred=Auto-Cast Workers Preferred
+Upgrade/Name/Difficulty=Real-Scale Difficulty Level
+Upgrade/Name/DisablePrimalStartingLevels=Disable Primal Starting Levels
+Upgrade/Name/HotSRapidRegeneration=Rapid Resequencing
+Upgrade/Name/K5Implosion=K5 Implosion
+Upgrade/Name/K5ImprovedCrawlers=K5 Improved Crawlers
+Upgrade/Name/KerriganLevel=Kerrigan Level
+Upgrade/Name/PlayerLikesGateways=Player Likes Gateways
+Upgrade/Name/RSProtossGroundArmor=Protoss Ground Armor
+Upgrade/Name/RealScaleHybridDifficulty=Real Scale Hybrid Difficulty
+Upgrade/Name/ScourgeCheat=Scourge Cheat
+UserData/RealScaleOptions/HideCSButton_PulldownOptions=When Needed
+UserData/RealScaleOptions/HideCSButton_PulldownOptions_001=Always
+UserData/RealScaleOptions/HideCSButton_PulldownOptions_002=Never
+UserData/RealScaleOptions/HideCSButton_PulldownTooltips=Show button only when there are capital ships on the map
+UserData/RealScaleOptions/HideCSButton_PulldownTooltips_001=Always show the button
+UserData/RealScaleOptions/HideCSButton_PulldownTooltips_002=Never show the button
+UserData/RealScaleOptions/HideColsButton_PulldownOptions=When Needed
+UserData/RealScaleOptions/HideColsButton_PulldownOptions_001=Always
+UserData/RealScaleOptions/HideColsButton_PulldownOptions_002=Never
+Vital/TerranShields=Energy Shields: 
+Weapon/Name/ATALaserBatteries=ATA Laser Batteries
+Weapon/Name/ATALaserBattery2=ATA Laser Battery
+Weapon/Name/ATSLaserBatteries=ATS Laser Batteries
+Weapon/Name/BH2@InterceptorLaunch=Tac Fighter Launch
+Weapon/Name/BacklashRockets2=Backlash Rockets
+Weapon/Name/BattleCruiserGround1=ATS Laser Battery
+Weapon/Name/BehemothATSLaserBattery=ATS Laser Battery
+Weapon/Name/BehemothATSLaserBattery2=ATS Laser Battery
+Weapon/Name/BehemothATSLaserBattery3=ATS Laser Battery
+Weapon/Name/BehemothATSLaserBattery4=ATS Laser Battery
+Weapon/Name/BehemothATSLaserBattery5=ATS Laser Battery
+Weapon/Name/BehemothATSLaserBattery6=ATS Laser Battery
+Weapon/Name/BehemothFighterTorpedoes=Lanzer Torpedoes
+Weapon/Name/BehemothHangar@InterceptorLaunch=Tac Fighter Launch
+Weapon/Name/BehemothOTOLaserBattery=OTO Laser Battery
+Weapon/Name/CH1@InterceptorLaunch=Interceptor Launch
+Weapon/Name/CH2@InterceptorLaunch=Interceptor Launch
+Weapon/Name/CH3@InterceptorLaunch=Interceptor Launch
+Weapon/Name/CH4@InterceptorLaunch=Interceptor Launch
+Weapon/Name/CH5@InterceptorLaunch=Interceptor Launch
+Weapon/Name/CH6@InterceptorLaunch=Interceptor Launch
+Weapon/Name/CH7@InterceptorLaunch=Interceptor Launch
+Weapon/Name/CH8@InterceptorLaunch=Interceptor Launch
+Weapon/Name/ChangelingStab=Murder
+Weapon/Name/ChargedVoidBlast=Charged Void Blast
+Weapon/Name/ChargedVoidBlastDominator=Charged Void Blast
+Weapon/Name/ColossusTaldarimChargedBeam2=Charged Blast
+Weapon/Name/DevilDogSquad=Devil Dog Squad
+Weapon/Name/DevourerACS=Corrosive Acid
+Weapon/Name/DirectTurretstoFire=Rooty Tooty Point and Shooties
+Weapon/Name/DragoonAA=Phase Disruptor
+Weapon/Name/FirebatSquad=Firebat Squad
+Weapon/Name/FlagshipBeam=Terminator Core Beam
+Weapon/Name/GoliathA2=Hellfire Missiles
+Weapon/Name/GoliathAUpgraded2=Hellfire Missiles
+Weapon/Name/HammerSecuritiesSquad=Hammer Securities Squad
+Weapon/Name/HammerSecuritiesSquad@2=Hailstorm Launcher
+Weapon/Name/HybridBehemothAntiAirAttack=Void Laser
+Weapon/Name/HybridDominatorVoid=Psionic Shock
+Weapon/Name/HybridGeneral=Void Acid Bolt
+Weapon/Name/IonCannonsOrbit=Ion Cannons
+Weapon/Name/KhaydarinBeamAA=Khaydarin Beam
+Weapon/Name/KhaydarinChemoTherapy=Khaydarin Chemo-Therapy
+Weapon/Name/LanzerTorpedoesStrafe=Lanzer Torpedoes
+Weapon/Name/Leap=Leap
+Weapon/Name/MarauderSquad=Marauder Squad
+Weapon/Name/MarauderSquad@2=Hailstorm Launcher Copy
+Weapon/Name/MedicSquad=MedicSquad
+Weapon/Name/MohandarPrismaticBeam2=Prismatic Beam
+Weapon/Name/MothershipBeamOrbital=Purifier Beam
+Weapon/Name/ObliterationBeam=Obliteration Beam
+Weapon/Name/ObliterationBeamChaser=Obliteration Beam
+Weapon/Name/ParasiteSpore2=Parasite Spore
+Weapon/Name/PhoenixSquadron=Phoenix Squadron
+Weapon/Name/PhoenixSquadronAttack=Phoenix Squadron Attack
+Weapon/Name/PrismaticBeam2=Prismatic Beam
+Weapon/Name/PulseCannpn=Pulse Cannon
+Weapon/Name/PurificationCannon=Purification Cannon
+Weapon/Name/PurificationCannonOrange=Purification Cannon
+Weapon/Name/RAMHEADLONG=RAM HEADLONG
+Weapon/Name/ReaperSquad=Reaper Squad
+Weapon/Name/ReaperSquadCharge=Reaper Squad Charge
+Weapon/Name/SOAMothershipv4Weapon2=Terminator Beam
+Weapon/Name/SanitizationFlamethrower=Sanitization Flamethrower
+Weapon/Name/ScannerTruckDummyWeapon=Scanner Truck Dummy Weapon
+Weapon/Name/ScoutLightOrbit=Photon Blaster
+Weapon/Name/ScoutOrbit=Anti-Matter Missiles
+Weapon/Name/ScoutSquadron=Scout Squadron
+Weapon/Name/ScoutSquadronMissiles=Anti-Matter Missiles
+Weapon/Name/ScoutSquadronPhotonBlasters=Photon Blasters
+Weapon/Name/SelfDestructionCharge=Self-Destruction Charge
+Weapon/Name/SoATurretRepulsorCannon=Repulsor Cannon
+Weapon/Name/SpartanCompanyA2=Lanzer Torpedoes
+Weapon/Name/SpartanCompanyAUpgraded2=Lanzer Torpedoes
+Weapon/Name/TacFighters=Tac Fighters
+Weapon/Name/TacFightersDisplay=Tac Fighters
+Weapon/Name/TempestOrbit=Kinetic Overload
+Weapon/Name/TempestPurifierOrbit=Kinetic Overload
+Weapon/Name/TyrantBlades=Tyrant Blades
+Weapon/Name/VoidRayChargeBeamBaseOrbital=Prismatic Beam
+Weapon/Name/VoidRayChargeBeamBaseVsCap=Prismatic Beam
+Weapon/Name/WarPigSquad=War Pig Squad
+Weapon/Name/WraithAStrafe=Gemini Missiles
+Weapon/Name/WreckingCrewFighter2=Lanzer Torpedoes
+Weapon/Tip/ChangelingStab=Instantly murder a small biological unit, the changeling's disguised is lost afterwards
+Weapon/Tip/ColossusPurifierThermalLances=Minimum Range: 2
+Weapon/Tip/ColossusTaldarimChargedBeam=Minimum Range: 2<n/>+12 range vs capital ships.
+Weapon/Tip/DarkTemplarChampionWeapon=Deals splash damage
+Weapon/Tip/DarkTemplarTaldarim=Can attack units in stasis
+Weapon/Tip/Dragoon=+4 range vs large air targets
+Weapon/Tip/HybridE=<d ref="Weapon,HybridE,CriticalChance*100"/>% chance to throw target when attacking small units
+Weapon/Tip/KhaydarinBeam=Will not auto-target Small units
+Weapon/Tip/LanceMissileLaunchers=Minimum range of 10
+Weapon/Tip/Leap=Zergling leaps at a target between 2 and 5 range away. Does not target structures
+Weapon/Tip/PsiBlades=Damage is not reduced by armor
+Weapon/Tip/PulseCannpn=Can only target capital ships.<n/>Can fire at orbital targets.
+Weapon/Tip/RoachlingNeedleClaws=Damage is not reduced by the target's armor
+Weapon/Tip/ScoutSquadronMissiles=Used against enemy Capital Ships
+Weapon/Tip/ScoutSquadronPhotonBlasters=Used against enemy Squadrons
+Weapon/Tip/SlaynMissileTurret=Only targets Capital Ships
+Weapon/Tip/Tempest=Can only target Large units.
+Weapon/Tip/TempestPurifier=Can only target large units
+Weapon/Tip/ThermalLances=Minimum Range: 2
+Weapon/Tip/VoidRayChargeBeamBase=Can't target Small units<n/>+16 Range vs Capital Ships
+Weapon/Tip/VoidRayChargeBeamBaseOrbital=Can't target Small units<n/>+10 Range vs Capital Ships
+Weapon/Tip/VoidRayChargeBeamBaseVsCap=Can't target Small units
+eCmd_MustTargetCapital=Must target capital ships
+e_cmdCantTargetArmoredUnits=Can't target medium units
+e_cmdCantTargetLightUnits=Can't target small units
+e_cmdCantTargetMassiveUnits=Can't target large units
+e_cmdCantTargetUser1=Can't target objectives
+e_cmdMustTargetArmoredUnits=Must target medium units
+e_cmdMustTargetLightUnits=Must target small units
+e_cmdMustTargetMassiveUnits=Must target large units
+e_cmdMustTargetUser1=Must target an objective
+e_unitAttributeArmored=Medium
+e_unitAttributeBonusAgainstArmored=Medium
+e_unitAttributeBonusAgainstHover=Capital Ship
+e_unitAttributeBonusAgainstLight=Small
+e_unitAttributeBonusAgainstMassive=Large
+e_unitAttributeHover=Capital Ship
+e_unitAttributeLight=Small
+e_unitAttributeMassive=Large
+e_unitAttributeUser1=Objective
+ursadonny/rank=Anchorbeast

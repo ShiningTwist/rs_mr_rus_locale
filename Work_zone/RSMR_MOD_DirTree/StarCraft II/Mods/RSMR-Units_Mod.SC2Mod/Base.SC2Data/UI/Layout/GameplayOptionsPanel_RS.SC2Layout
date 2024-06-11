@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Desc>
+        <Frame type="Frame" name="RealScaleOptions">
+            <Anchor side="Top" relative="$parent" pos="Min" offset="0"/>
+			<Anchor side="Bottom" relative="$parent" pos="Max" offset="0"/>
+			<Anchor side="Left" relative="$parent" pos="Min" offset="0"/>
+			<Anchor side="Right" relative="$parent" pos="Max" offset="0"/>
+            <Width val="3000"/>
+			<Height val="2000"/>
+
+            <Frame type="Image" name="FullscreenBlackout">
+                <Anchor relative="$parent"/>
+                <Color val="0, 0, 0"/>
+                <Alpha val="180"/>
+            </Frame>
+            
+            <Frame type="Image" name="LeftBGGlowPattern">
+                <Anchor side="Top" relative="$parent/RSOptionsPanel" pos="Mid" offset="0"/>
+                <Anchor side="Bottom" relative="$parent/RSOptionsPanel" pos="Mid" offset="0"/>
+                <Anchor side="Right" relative="$parent/RSOptionsPanel" pos="Min" offset="10"/>
+                <Texture val="@UI/Glues_Battlenet_DialogBox_BackGlow"/>
+            </Frame>
+            
+            <Frame type="Image" name="RightBGGlowPattern">
+                <Anchor side="Top" relative="$parent/RSOptionsPanel" pos="Mid" offset="0"/>
+                <Anchor side="Bottom" relative="$parent/RSOptionsPanel" pos="Mid" offset="0"/>
+                <Anchor side="Left" relative="$parent/RSOptionsPanel" pos="Max" offset="-10"/>
+                <Texture val="@UI/Glues_Battlenet_DialogBox_BackGlow"/>
+                <TextureCoords top="0.0" left="1.0" bottom="1.0" right="0.0"/>
+            </Frame>
+
+            <Frame type="Frame" name="RSOptionsPanel">
+                <Anchor side="Top" relative="$parent" pos="Mid" offset="0"/>
+                <Anchor side="Left" relative="$parent" pos="Mid" offset="0"/>
+                <Anchor side="Bottom" relative="$parent" pos="Mid" offset="0"/>
+                <Anchor side="Right" relative="$parent" pos="Mid" offset="0"/>
+                <Width val="1400"/>
+                <Height val="1170"/>
+
+                <Frame type="Frame" name="BackgroundFrame" template="StandardTemplates/GlueDialogTemplate">
+                    <Anchor relative="$parent"/>
+
+                    <Frame type="Label" name="TitleLabel">
+                        <Anchor side="Top" relative="$parent" pos="Min" offset="35"/>
+                        <Text val="Real-Scale Options"/>
+                    </Frame>
+                </Frame>
+
+                <Frame type="Image" name="OuterBackground" template="StandardTemplates/StandardOuterBorderTemplate">
+                        <Anchor relative="$parent"/>
+                </Frame>
+
+                <Frame type="Button" name="RestoreButton" template="StandardBattlenetTemplates/StandardBattlenetMiniButtonTemplate">
+                    <Anchor side="Top" relative="$parent" pos="Min" offset="17"/>
+                    <Anchor side="Right" relative="$parent" pos="Max" offset="-16"/>
+                    <Width val="340"/>
+                    <Text val="@UI/RestoreDefaults"/>
+                </Frame>
+
+                <Frame type="Button" name="OkButton" template="StandardBattlenetTemplates/BattlenetAlternateButtonTemplate">
+                    <Anchor side="Bottom" relative="$parent/BackgroundFrame" pos="Max" offset="-30"/>
+                    <Anchor side="Right" relative="$parent/BackgroundFrame" pos="Mid" offset="-3"/>
+                    <Width val="315"/>
+                    <Text val="@UI/OptionsDialogOk_Control"/>
+                </Frame>
+
+                <Frame type="Button" name="CancelButton" template="StandardBattlenetTemplates/BattlenetStandardButtonTemplate">
+                    <Anchor side="Bottom" relative="$parent/BackgroundFrame" pos="Max" offset="-30"/>
+                    <Anchor side="Left" relative="$parent/BackgroundFrame" pos="Mid" offset="3"/>
+                    <Width val="315"/>
+                    <Text val="@UI/OptionsDialogCancel_Control"/>
+                </Frame>
+
+                <Constant name="GameplayColumnLeftMarginGap" val="30"/>
+                <Constant name="GameplayColumnRightMarginGap" val="518"/>
+                <Constant name="GameplayCheckBoxVerticalGap" val="10"/>
+
+                <Frame type="Frame" name="GameplayOptionsPanel">
+                    <Anchor side="Top" relative="$parent/BackgroundFrame/TitleLabel" pos="Max" offset="5"/>
+                    <Anchor side="Bottom" relative="$this/Placeholder_04CheckBox" pos="Max" offset="5"/>
+                    <Anchor side="Left" relative="$parent" pos="Min" offset="10"/>
+                    <Anchor side="Right" relative="$parent" pos="Max" offset="-10"/>
+
+                    <Frame type="Label" name="Header" template="GameplayOptionsPanel/GameplayHeaderLabelTemplate">
+                        <Anchor side="Top" relative="$parent" pos="Min" offset="0"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnLeftMarginGap"/>
+                        <Text val=""/>
+                    </Frame>
+
+                    <Frame type="CheckBox" name="TopDownZoomCheckBox" template="StandardTemplates/StandardCheckBoxTemplate">
+                        <Anchor side="Top" relative="$parent/Header" pos="Max" offset="20"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnLeftMarginGap"/>
+                        <Tooltip val="When enabled, zooming out all the way causes the camera angle to shift into a top-down view of the game"/>
+                    </Frame>
+
+                    <Frame type="Label" name="TopDownZoomLabel" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/TopDownZoomCheckBox" pos="Min" offset="0"/>
+                        <Anchor side="Bottom" relative="$parent/TopDownZoomCheckBox" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/TopDownZoomCheckBox" pos="Max" offset="10"/>
+                        <Text val="Top Down Zoom"/>
+                    </Frame>
+
+                    <Frame type="CheckBox" name="AutocastWorkersCheckBox" template="StandardTemplates/StandardCheckBoxTemplate">
+                        <Anchor side="Top" relative="$parent/TopDownZoomCheckBox" pos="Max" offset="#GameplayCheckBoxVerticalGap"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnLeftMarginGap"/>
+                        <Tooltip val="When enabled, town halls will start with worker training on autocast mode"/>
+                    </Frame>
+
+                    <Frame type="Label" name="AutocastWorkersLabel" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/AutocastWorkersCheckBox" pos="Min" offset="0"/>
+                        <Anchor side="Bottom" relative="$parent/AutocastWorkersCheckBox" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/AutocastWorkersCheckBox" pos="Max" offset="10"/>
+                        <Text val="Autocast Workers"/>
+                    </Frame>
+
+                    <Frame type="CheckBox" name="SmartAutocastWorkersCheckBox" template="StandardTemplates/StandardCheckBoxTemplate">
+                        <Anchor side="Top" relative="$parent/AutocastWorkersCheckBox" pos="Max" offset="#GameplayCheckBoxVerticalGap"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnLeftMarginGap"/>
+                        <Tooltip val="When enabled, the game will disable autocast worker training when saturation is reached"/>
+                    </Frame>
+
+                    <Frame type="Label" name="SmartAutocastWorkersLabel" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/SmartAutocastWorkersCheckBox" pos="Min" offset="0"/>
+                        <Anchor side="Bottom" relative="$parent/SmartAutocastWorkersCheckBox" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/SmartAutocastWorkersCheckBox" pos="Max" offset="10"/>
+                        <Text val="Smart Worker Autocast"/>
+                    </Frame>
+
+                    <Frame type="CheckBox" name="ScaledownCapitalShipsCheckBox" template="StandardTemplates/StandardCheckBoxTemplate">
+                        <Anchor side="Top" relative="$parent/SmartAutocastWorkersCheckBox" pos="Max" offset="#GameplayCheckBoxVerticalGap"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnLeftMarginGap"/>
+                        <Tooltip val="When enabled, capital ships are shown at 1/3rd of their canonical size to make the game more visible"/>
+                    </Frame>
+
+                    <Frame type="Label" name="ScaledownCapitalShipsLabel" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/ScaledownCapitalShipsCheckBox" pos="Min" offset="0"/>
+                        <Anchor side="Bottom" relative="$parent/ScaledownCapitalShipsCheckBox" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/ScaledownCapitalShipsCheckBox" pos="Max" offset="10"/>
+                        <Text val="Scale Down Capital Ships"/>
+                    </Frame>
+
+                    <Frame type="CheckBox" name="CoolPersonModeCheckBox" template="StandardTemplates/StandardCheckBoxTemplate">
+                        <Anchor side="Top" relative="$parent/ScaledownCapitalShipsCheckBox" pos="Max" offset="#GameplayCheckBoxVerticalGap"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnLeftMarginGap"/>
+                        <Tooltip val="Only turn this on if you're cool enough"/>
+                    </Frame>
+
+                    <Frame type="Label" name="CoolPersonModeLabel" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/CoolPersonModeCheckBox" pos="Min" offset="0"/>
+                        <Anchor side="Bottom" relative="$parent/CoolPersonModeCheckBox" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/CoolPersonModeCheckBox" pos="Max" offset="10"/>
+                        <Text val="Cool person mode"/>
+                    </Frame>
+
+                    <Frame type="CheckBox" name="Placeholder_01CheckBox" template="StandardTemplates/StandardCheckBoxTemplate">
+                        <Anchor side="Top" relative="$parent/CoolPersonModeCheckBox" pos="Max" offset="#GameplayCheckBoxVerticalGap"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnLeftMarginGap"/>
+                        <Tooltip val="Placeholder_01"/>
+                        <Visible val="false" />
+                    </Frame>
+
+                    <Frame type="Label" name="Placeholder_01Label" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/Placeholder_01CheckBox" pos="Min" offset="0"/>
+                        <Anchor side="Bottom" relative="$parent/Placeholder_01CheckBox" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/Placeholder_01CheckBox" pos="Max" offset="10"/>
+                        <Text val="Placeholder_01"/>
+                        <Visible val="false" />
+                    </Frame>
+
+                    <Frame type="CheckBox" name="Placeholder_02CheckBox" template="StandardTemplates/StandardCheckBoxTemplate">
+                        <Anchor side="Top" relative="$parent/Placeholder_01CheckBox" pos="Max" offset="#GameplayCheckBoxVerticalGap"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnLeftMarginGap"/>
+                        <Tooltip val="Placeholder_02"/>
+                        <Visible val="false" />
+                    </Frame>
+
+                    <Frame type="Label" name="Placeholder_02Label" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/Placeholder_02CheckBox" pos="Min" offset="0"/>
+                        <Anchor side="Bottom" relative="$parent/Placeholder_02CheckBox" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/Placeholder_02CheckBox" pos="Max" offset="10"/>
+                        <Text val="Placeholder_02"/>
+                        <Visible val="false" />
+                    </Frame>
+
+                    <Frame type="CheckBox" name="Placeholder_03CheckBox" template="StandardTemplates/StandardCheckBoxTemplate">
+                        <Anchor side="Top" relative="$parent/Placeholder_02CheckBox" pos="Max" offset="#GameplayCheckBoxVerticalGap"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnLeftMarginGap"/>
+                        <Tooltip val="Placeholder_03"/>
+                        <Visible val="false" />
+                    </Frame>
+
+                    <Frame type="Label" name="Placeholder_03Label" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/Placeholder_03CheckBox" pos="Min" offset="0"/>
+                        <Anchor side="Bottom" relative="$parent/Placeholder_03CheckBox" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/Placeholder_03CheckBox" pos="Max" offset="10"/>
+                        <Text val="Placeholder_03"/>
+                        <Visible val="false" />
+                    </Frame>
+
+                    <Frame type="CheckBox" name="Placeholder_04CheckBox" template="StandardTemplates/StandardCheckBoxTemplate">
+                        <Anchor side="Top" relative="$parent/Placeholder_03CheckBox" pos="Max" offset="#GameplayCheckBoxVerticalGap"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnLeftMarginGap"/>
+                        <Tooltip val="Placeholder_04"/>
+                        <Visible val="false" />
+                    </Frame>
+
+                    <Frame type="Label" name="Placeholder_04Label" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/Placeholder_04CheckBox" pos="Min" offset="0"/>
+                        <Anchor side="Bottom" relative="$parent/Placeholder_04CheckBox" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/Placeholder_04CheckBox" pos="Max" offset="10"/>
+                        <Text val="Placeholder_04"/>
+                        <Visible val="false" />
+                    </Frame>
+
+                    <Frame type="Label" name="HideCSButtonLabel" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/TopDownZoomCheckBox" pos="Min" offset="3"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnRightMarginGap"/>
+                        <Text val="Show the Capital Ships Visibility Button"/>
+                    </Frame>
+
+                    <Frame type="Pulldown" name="HideCSButtonPulldown" template="StandardTemplates/StandardPulldownTemplate">
+                        <Anchor side="Top" relative="$parent/HideCSButtonLabel" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/HideCSButtonLabel" pos="Min" offset="0"/>
+                        <Tooltip val="Controls when the 'Hide capital ships' button is shown or not"/>
+                    </Frame>
+
+                    <Frame type="Label" name="HideColossiButtonLabel" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/HideCSButtonPulldown" pos="Max" offset="20"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnRightMarginGap"/>
+                        <Text val="Show the Colossi Visibility Button"/>
+                    </Frame>
+
+                    <Frame type="Pulldown" name="HideColossiButtonPulldown" template="StandardTemplates/StandardPulldownTemplate">
+                        <Anchor side="Top" relative="$parent/HideColossiButtonLabel" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/HideColossiButtonLabel" pos="Min" offset="0"/>
+                        <Tooltip val="Controls when the 'Hide colossus units' button is shown or not"/>
+                    </Frame>
+
+                    <Frame type="Label" name="FlyerHelperLabel" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/HideColossiButtonPulldown" pos="Max" offset="20"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnRightMarginGap"/>
+                        <Text val="@UI/FlyerHelper_Colon"/>
+                        <Visible val="false" />
+                    </Frame>
+
+                    <Frame type="Pulldown" name="FlyerHelperPulldown" template="StandardTemplates/StandardPulldownTemplate">
+                        <Anchor side="Top" relative="$parent/FlyerHelperLabel" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/FlyerHelperLabel" pos="Min" offset="0"/>
+                        <Tooltip val="@UI/GameplayOptionsTooltips/FlyerHelper"/>
+                        <Visible val="false" />
+                    </Frame>
+                </Frame>
+            </Frame>
+        </Frame>
+</Desc>

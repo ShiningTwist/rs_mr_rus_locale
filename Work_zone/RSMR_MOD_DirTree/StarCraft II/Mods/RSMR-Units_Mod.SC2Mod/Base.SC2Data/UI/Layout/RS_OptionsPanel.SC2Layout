@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Desc>
+        <Frame type="Frame" name="RealScaleOptions">
+            <Anchor side="Top" relative="$parent" pos="Min" offset="0"/>
+			<Anchor side="Bottom" relative="$parent" pos="Max" offset="0"/>
+			<Anchor side="Left" relative="$parent" pos="Min" offset="0"/>
+			<Anchor side="Right" relative="$parent" pos="Max" offset="0"/>
+            <Width val="3000"/>
+			<Height val="2000"/>
+
+            <Frame type="Image" name="FullscreenBlackout">
+                <Anchor relative="$parent"/>
+                <Color val="0, 0, 0"/>
+                <Alpha val="180"/>
+            </Frame>
+            
+            <Frame type="Image" name="LeftBGGlowPattern">
+                <Anchor side="Top" relative="$parent/RSOptionsPanel" pos="Mid" offset="0"/>
+                <Anchor side="Bottom" relative="$parent/RSOptionsPanel" pos="Mid" offset="0"/>
+                <Anchor side="Right" relative="$parent/RSOptionsPanel" pos="Min" offset="10"/>
+                <Texture val="@@UI/Glues_Battlenet_DialogBox_BackGlow"/>
+            </Frame>
+            
+            <Frame type="Image" name="RightBGGlowPattern">
+                <Anchor side="Top" relative="$parent/RSOptionsPanel" pos="Mid" offset="0"/>
+                <Anchor side="Bottom" relative="$parent/RSOptionsPanel" pos="Mid" offset="0"/>
+                <Anchor side="Left" relative="$parent/RSOptionsPanel" pos="Max" offset="-10"/>
+                <Texture val="@@UI/Glues_Battlenet_DialogBox_BackGlow"/>
+                <TextureCoords top="0.0" left="1.0" bottom="1.0" right="0.0"/>
+            </Frame>
+
+            <Frame type="Frame" name="RSOptionsPanel">
+                <Anchor side="Top" relative="$parent" pos="Mid" offset="0"/>
+                <Anchor side="Left" relative="$parent" pos="Mid" offset="0"/>
+                <Anchor side="Bottom" relative="$parent" pos="Mid" offset="0"/>
+                <Anchor side="Right" relative="$parent" pos="Mid" offset="0"/>
+                <Width val="1400"/>
+                <Height val="1170"/>
+
+                <Frame type="Frame" name="BackgroundFrame" template="StandardTemplates/GlueDialogTemplate">
+                    <Anchor relative="$parent"/>
+
+                    <Frame type="Label" name="TitleLabel">
+                        <Anchor side="Top" relative="$parent" pos="Min" offset="35"/>
+                        <Text val="Real-Scale Options and Add-Ons"/>
+                    </Frame>
+                </Frame>
+
+                <Frame type="Image" name="OuterBackground" template="StandardTemplates/StandardOuterBorderTemplate">
+                        <Anchor relative="$parent"/>
+                </Frame>
+
+                <Frame type="Button" name="RestoreButton" template="StandardBattlenetTemplates/StandardBattlenetMiniButtonTemplate">
+                    <Anchor side="Top" relative="$parent" pos="Min" offset="17"/>
+                    <Anchor side="Right" relative="$parent" pos="Max" offset="-16"/>
+                    <Width val="340"/>
+                    <Text val="@UI/RestoreDefaults"/>
+                </Frame>
+
+                <Frame type="Button" name="OkButton" template="StandardBattlenetTemplates/BattlenetAlternateButtonTemplate">
+                    <Anchor side="Bottom" relative="$parent/BackgroundFrame" pos="Max" offset="-30"/>
+                    <Anchor side="Right" relative="$parent/BackgroundFrame" pos="Mid" offset="-3"/>
+                    <Width val="315"/>
+                    <Text val="@UI/OptionsDialogOk_Control"/>
+                </Frame>
+
+                <Frame type="Button" name="CancelButton" template="StandardBattlenetTemplates/BattlenetStandardButtonTemplate">
+                    <Anchor side="Bottom" relative="$parent/BackgroundFrame" pos="Max" offset="-30"/>
+                    <Anchor side="Left" relative="$parent/BackgroundFrame" pos="Mid" offset="3"/>
+                    <Width val="315"/>
+                    <Text val="@UI/OptionsDialogCancel_Control"/>
+                </Frame>
+
+                <Constant name="GameplayColumnLeftMarginGap" val="30"/>
+                <Constant name="GameplayColumnRightMarginGap" val="518"/>
+                <Constant name="GameplayCheckBoxVerticalGap" val="10"/>
+
+                <!-- ============== Gameplay Options (Mostly Harmless) ============== -->
+                <Frame type="Frame" name="GameplayOptionsPanel">
+                    <Anchor side="Top" relative="$parent/BackgroundFrame/TitleLabel" pos="Max" offset="5"/>
+                    <Anchor side="Bottom" relative="$this/HideColossiButtonPulldown" pos="Max" offset="15"/>
+                    <Anchor side="Left" relative="$parent" pos="Min" offset="10"/>
+                    <Anchor side="Right" relative="$parent" pos="Max" offset="-10"/>
+
+                    <Frame type="Label" name="SectionName" template="GameplayOptionsPanel/GameplayHeaderLabelTemplate">
+                        <Anchor side="Top" relative="$parent" pos="Min" offset="0"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnLeftMarginGap"/>
+                        <Text val="Gameplay Options"/>
+                    </Frame>                    
+                    <Frame type="Label" name="Header" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/SectionName" pos="Max" offset="5"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnLeftMarginGap"/>
+                        <Text val="Quality of life changes and improvements for the feeling of playing with Real-Scale units"/>
+                    </Frame>
+                    <!-- ======= COLUMN 1 : CHECKBOXES -->
+                    <!-- ======= AUTOCAST WORKERS ======= -->
+                    <!-- Allow Autocast -->
+                    <Frame type="CheckBox" name="AutocastWorkersCheckBox" template="StandardTemplates/StandardCheckBoxTemplate">
+                        <Anchor side="Top" relative="$parent/Header" pos="Max" offset="#GameplayCheckBoxVerticalGap"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnLeftMarginGap"/>
+                        <Tooltip val="When enabled, town halls will start with worker training on autocast mode"/>
+                    </Frame>
+                    <Frame type="Label" name="AutocastWorkersLabel" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/AutocastWorkersCheckBox" pos="Min" offset="0"/>
+                        <Anchor side="Bottom" relative="$parent/AutocastWorkersCheckBox" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/AutocastWorkersCheckBox" pos="Max" offset="10"/>
+                        <Text val="Autocast Workers"/>
+                    </Frame>
+                    <!-- Smart Autocast -->
+                    <Frame type="CheckBox" name="SmartAutocastWorkersCheckBox" template="StandardTemplates/StandardCheckBoxTemplate">
+                        <Anchor side="Top" relative="$parent/AutocastWorkersCheckBox" pos="Max" offset="#GameplayCheckBoxVerticalGap"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnLeftMarginGap"/>
+                        <Tooltip val="When enabled, the game will disable autocast worker training when saturation is reached"/>
+                    </Frame>
+                    <Frame type="Label" name="SmartAutocastWorkersLabel" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/SmartAutocastWorkersCheckBox" pos="Min" offset="0"/>
+                        <Anchor side="Bottom" relative="$parent/SmartAutocastWorkersCheckBox" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/SmartAutocastWorkersCheckBox" pos="Max" offset="10"/>
+                        <Text val="Smart Worker Autocast"/>
+                    </Frame>
+                    <!-- ======= RE-SCALING ======= -->
+                    <!-- Capital Ships Scaledown -->
+                    <Frame type="CheckBox" name="ScaledownCapitalShipsCheckBox" template="StandardTemplates/StandardCheckBoxTemplate">
+                        <Anchor side="Top" relative="$parent/SmartAutocastWorkersCheckBox" pos="Max" offset="#GameplayCheckBoxVerticalGap"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnLeftMarginGap"/>
+                        <Tooltip val="When enabled, capital ships are shown at 1/3rd of their canonical size to make the game more visible"/>
+                    </Frame>
+                    <Frame type="Label" name="ScaledownCapitalShipsLabel" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/ScaledownCapitalShipsCheckBox" pos="Min" offset="0"/>
+                        <Anchor side="Bottom" relative="$parent/ScaledownCapitalShipsCheckBox" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/ScaledownCapitalShipsCheckBox" pos="Max" offset="10"/>
+                        <Text val="Scale Down Capital Ships"/>
+                    </Frame>
+                    <!-- Power Factor Scaling -->
+                    <Frame type="CheckBox" name="DynamicRescalingCheckBox" template="StandardTemplates/StandardCheckBoxTemplate">
+                        <Anchor side="Top" relative="$parent/ScaledownCapitalShipsCheckBox" pos="Max" offset="#GameplayCheckBoxVerticalGap"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnLeftMarginGap"/>
+                        <Tooltip val="Scale all units by a power factor. This focuses on improving gameplay by dialing back oversized units, while keeping the relative size differences in units as apparent as is feasible. Power scale is not lore accurate"/>
+                    </Frame>
+                    <Frame type="Label" name="DynamicRescalingLabel" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/DynamicRescalingCheckBox" pos="Min" offset="0"/>
+                        <Anchor side="Bottom" relative="$parent/DynamicRescalingCheckBox" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/DynamicRescalingCheckBox" pos="Max" offset="10"/>
+                        <Text val="Power Factor Scaling"/>
+                    </Frame>
+                    <!-- ======= CS Range Indicators ======= -->
+                    <Frame type="CheckBox" name="RangeIndicatorsVisibilityCheckBox" template="StandardTemplates/StandardCheckBoxTemplate">
+                        <Anchor side="Top" relative="$parent/DynamicRescalingCheckBox" pos="Max" offset="#GameplayCheckBoxVerticalGap"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnLeftMarginGap"/>
+                        <Tooltip val="Whether or not to display the weapon range of Capital Ships"/>
+                    </Frame>
+                    <Frame type="Label" name="RangeIndicatorsVisibilityLabel" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/RangeIndicatorsVisibilityCheckBox" pos="Min" offset="0"/>
+                        <Anchor side="Bottom" relative="$parent/RangeIndicatorsVisibilityCheckBox" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/RangeIndicatorsVisibilityCheckBox" pos="Max" offset="10"/>
+                        <Text val="Capital Ship Range Indicators"/>
+                    </Frame>
+                    <!-- ======= COLUMN 2 : PULLDOWNS -->
+                    <!-- Camera Choice -->
+                    <Frame type="Label" name="CameraChoiceLabel" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/AutocastWorkersCheckBox" pos="Min" offset="3"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnRightMarginGap"/>
+                        <Text val="Game Camera Zoom Setting"/>
+                    </Frame>
+                    <Frame type="Pulldown" name="CameraChoicePulldown" template="StandardTemplates/StandardPulldownTemplate">
+                        <Anchor side="Top" relative="$parent/CameraChoiceLabel" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/CameraChoiceLabel" pos="Min" offset="0"/>
+                        <Tooltip val="Choose which game camera to use, affecting how zooming in and out works"/>
+                    </Frame>
+                    <!-- ======= HIDE BIG THINGS BUTTON VISIBILITY -->
+                    <!-- Hide CS Button Visibility -->
+                    <Frame type="Label" name="HideCSButtonLabel" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/CameraChoicePulldown" pos="Max" offset="20"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnRightMarginGap"/>
+                        <Text val="Show the Capital Ships Visibility Button"/>
+                    </Frame>
+                    <Frame type="Pulldown" name="HideCSButtonPulldown" template="StandardTemplates/StandardPulldownTemplate">
+                        <Anchor side="Top" relative="$parent/HideCSButtonLabel" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/HideCSButtonLabel" pos="Min" offset="0"/>
+                        <Tooltip val="Controls when the 'Hide Capital Ships' button is shown or not"/>
+                    </Frame>
+                    <!-- Hide Colossus Button Visibility -->
+                    <Frame type="Label" name="HideColossiButtonLabel" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/HideCSButtonPulldown" pos="Max" offset="20"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnRightMarginGap"/>
+                        <Text val="Show the Colossi Visibility Button"/>
+                    </Frame>
+                    <Frame type="Pulldown" name="HideColossiButtonPulldown" template="StandardTemplates/StandardPulldownTemplate">
+                        <Anchor side="Top" relative="$parent/HideColossiButtonLabel" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/HideColossiButtonLabel" pos="Min" offset="0"/>
+                        <Tooltip val="Controls when the 'Hide Colossus Units' button is shown or not"/>
+                    </Frame>
+                </Frame>
+
+                <!-- ============== Gameplay Modifications (Bigger Impact to Gameplay) ============== -->
+                <Frame type="Frame" name="GameplayModificationsPanel">
+                    <Anchor side="Top" relative="$parent/GameplayOptionsPanel" pos="Max" offset="5"/>
+                    <Anchor side="Bottom" relative="$this/UnlockExtraUnitsLabel" pos="Max" offset="15"/>
+                    <Anchor side="Left" relative="$parent" pos="Min" offset="10"/>
+                    <Anchor side="Right" relative="$parent" pos="Max" offset="-10"/>
+                    <Frame type="Label" name="SectionHeader" template="GameplayOptionsPanel/GameplayHeaderLabelTemplate">
+                        <Anchor side="Top" relative="$parent" pos="Min" offset="0"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnLeftMarginGap"/>
+                        <Text val="Gameplay Modifications"/>
+                    </Frame>
+                    <Frame type="Label" name="Header" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/SectionHeader" pos="Max" offset="5"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnLeftMarginGap"/>
+                        <Text val="Dramatic campaign modifications that will have a large impact on your experience"/>
+                    </Frame>
+                    <!-- ======= TECH ADJUSTMENTS ======= -->
+                    <!-- Unlock All Units -->
+                    <Frame type="CheckBox" name="UnlockAllUnitsCheckBox" template="StandardTemplates/StandardCheckBoxTemplate">
+                        <Anchor side="Top" relative="$parent/Header" pos="Max" offset="#GameplayCheckBoxVerticalGap"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnLeftMarginGap"/>
+                        <Tooltip val="Unlock all standard campaign units regardless of progression"/>
+                    </Frame>
+                    <Frame type="Label" name="UnlockAllUnitsLabel" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/UnlockAllUnitsCheckBox" pos="Min" offset="0"/>
+                        <Anchor side="Bottom" relative="$parent/UnlockAllUnitsCheckBox" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/UnlockAllUnitsCheckBox" pos="Max" offset="10"/>
+                        <Text val="Unlock All Units"/>
+                    </Frame>
+                    <!-- Unlock Extra Units -->
+                    <Frame type="CheckBox" name="UnlockExtraUnitsCheckBox" template="StandardTemplates/StandardCheckBoxTemplate">
+                        <Anchor side="Top" relative="$parent/UnlockAllUnitsCheckBox" pos="Max" offset="#GameplayCheckBoxVerticalGap"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnLeftMarginGap"/>
+                        <Tooltip val="Unlock additional unit types that are not typically available in a campaign setting. These extra units will be unlocked as you progress through the campaign and unlock similar vanilla units"/>
+                    </Frame>
+                    <Frame type="Label" name="UnlockExtraUnitsLabel" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/UnlockExtraUnitsCheckBox" pos="Min" offset="0"/>
+                        <Anchor side="Bottom" relative="$parent/UnlockExtraUnitsCheckBox" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/UnlockExtraUnitsCheckBox" pos="Max" offset="10"/>
+                        <Text val="Unlock Extra Units"/>
+                    </Frame>
+                </Frame>
+
+                <!-- ============== Persistent Statistics (Zero Impact to Gameplay) ============== -->
+                <Frame type="Frame" name="PersistentStatsPanel">
+                    <Anchor side="Top" relative="$parent/GameplayModificationsPanel" pos="Max" offset="5"/>
+                    <Anchor side="Bottom" relative="$parent" pos="Max" offset="5"/>
+                    <Anchor side="Left" relative="$parent" pos="Min" offset="10"/>
+                    <Anchor side="Right" relative="$parent" pos="Max" offset="-10"/>
+
+                    <Frame type="Label" name="SectionHeader" template="GameplayOptionsPanel/GameplayHeaderLabelTemplate">
+                        <Anchor side="Top" relative="$parent" pos="Min" offset="0"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnLeftMarginGap"/>
+                        <Text val="Persistent Statistics"/>
+                    </Frame>
+                    <Frame type="Label" name="Header" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/SectionHeader" pos="Max" offset="5"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnLeftMarginGap"/>
+                        <Text val="Cumulative statistics that will persist through reloads, resets and even between campaigns"/>
+                    </Frame>
+                    <!-- Cumulative Deaths Counter -->
+                    <Frame type="CheckBox" name="ShowDeathsCounterCheckBox" template="StandardTemplates/StandardCheckBoxTemplate">
+                        <Anchor side="Top" relative="$parent/Header" pos="Max" offset="#GameplayCheckBoxVerticalGap"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnLeftMarginGap"/>
+                        <Tooltip val="Show a cumulative counter of all units you have ever lost"/>
+                    </Frame>
+                    <Frame type="Label" name="ShowDeathsCounterLabel" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/ShowDeathsCounterCheckBox" pos="Min" offset="0"/>
+                        <Anchor side="Bottom" relative="$parent/ShowDeathsCounterCheckBox" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/ShowDeathsCounterCheckBox" pos="Max" offset="10"/>
+                        <Text val="Total Units Lost"/>
+                    </Frame>
+                    <!-- Cumulative Kills Counter -->
+                    <Frame type="CheckBox" name="ShowKillsCounterCheckBox" template="StandardTemplates/StandardCheckBoxTemplate">
+                        <Anchor side="Top" relative="$parent/ShowDeathsCounterCheckBox" pos="Max" offset="#GameplayCheckBoxVerticalGap"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnLeftMarginGap"/>
+                        <Tooltip val="Show a cumulative counter of all enemies you have ever killed"/>
+                    </Frame>
+                    <Frame type="Label" name="ShowKillsCounterLabel" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/ShowKillsCounterCheckBox" pos="Min" offset="0"/>
+                        <Anchor side="Bottom" relative="$parent/ShowKillsCounterCheckBox" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/ShowKillsCounterCheckBox" pos="Max" offset="10"/>
+                        <Text val="Total Enemies Killed"/>
+                    </Frame>
+                    <!-- Kills to Death Ratio -->
+                    <Frame type="CheckBox" name="ShowKDRatioCheckBox" template="StandardTemplates/StandardCheckBoxTemplate">
+                        <Anchor side="Top" relative="$parent/ShowKillsCounterCheckBox" pos="Max" offset="#GameplayCheckBoxVerticalGap"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnLeftMarginGap"/>
+                        <Tooltip val="Calculate and show your complete kills to deaths ratio"/>
+                    </Frame>
+                    <Frame type="Label" name="ShowKDRatioLabel" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/ShowKDRatioCheckBox" pos="Min" offset="0"/>
+                        <Anchor side="Bottom" relative="$parent/ShowKDRatioCheckBox" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/ShowKDRatioCheckBox" pos="Max" offset="10"/>
+                        <Text val="Kills to Deaths Ratio"/>
+                    </Frame>
+                    <!-- ======= COLUMN 2 : PULLDOWNS/BUTTONS -->
+                    <!-- When to show the stats -->
+                    <Frame type="Label" name="StatsVisibilityLabel" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/ShowDeathsCounterCheckBox" pos="Min" offset="3"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnRightMarginGap"/>
+                        <Text val="Statistics Visibility"/>
+                    </Frame>
+                    <Frame type="Pulldown" name="StatsVisibilityPulldown" template="StandardTemplates/StandardPulldownTemplate">
+                        <Anchor side="Top" relative="$parent/StatsVisibilityLabel" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/StatsVisibilityLabel" pos="Min" offset="0"/>
+                        <Tooltip val="Choose when the cumulative statistics box is shown"/>
+                    </Frame>
+                    <!-- The scope from which to pull stats -->
+                    <Frame type="Label" name="StatsScopeLabel" template="GameplayOptionsPanel/GameplayLabelTemplate">
+                        <Anchor side="Top" relative="$parent/StatsVisibilityPulldown" pos="Max" offset="20"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnRightMarginGap"/>
+                        <Text val="Statistics Scope"/>
+                    </Frame>
+                    <Frame type="Pulldown" name="StatsScopePulldown" template="StandardTemplates/StandardPulldownTemplate">
+                        <Anchor side="Top" relative="$parent/StatsScopeLabel" pos="Max" offset="0"/>
+                        <Anchor side="Left" relative="$parent/StatsScopeLabel" pos="Min" offset="0"/>
+                        <Tooltip val="Choose the scope of where all cumulative statistics are polled from"/>
+                    </Frame>
+                    <!-- Button to reset stored stats -->
+                    <Frame type="Button" name="ResetStatsButton" template="StandardBattlenetTemplates/StandardBattlenetMiniButtonTemplate">
+                        <Anchor side="Top" relative="$parent/StatsScopePulldown" pos="Max" offset="20"/>
+                        <Anchor side="Left" relative="$parent" pos="Min" offset="#GameplayColumnRightMarginGap"/>
+                        <Width val="240"/>
+                        <Text val="Reset Statistics"/>
+                        <Tooltip val="Resets all cumulative statistics within the currently selected statistics scope"/>
+                    </Frame>
+                </Frame>
+            </Frame>
+        </Frame>
+</Desc>
