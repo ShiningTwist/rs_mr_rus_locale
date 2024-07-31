@@ -255,36 +255,36 @@ Behavior/Name/YamatoDestroyed=Yamato Cannon Down
 Behavior/Name/YamatoDestroyed2=Yamato Cannon B Destroyed
 Behavior/PrimaryName/PurityofEssence=Purity of Essence
 Behavior/PrimaryName/PurityofForm=Purity of Form
-Behavior/Tooltip/AberrationArmorAuraTarget=This unit is taking reduced damage by hiding underneath an Aberration.
-Behavior/Tooltip/AmonsFury=This unit has 50% higher movement and attack speed, but is taking lethal amounts damage over time
-Behavior/Tooltip/ArtanisResurgenceDisable=This unit can only gain the benefit of Resurgence once every 60 seconds.
-Behavior/Tooltip/BH2@HangarDestroyed=This battlecruiser has lost a hangar bay. Decreasing its tac fighter build rate and capacity.
-Behavior/Tooltip/BattlefieldRepair=This capital ship is performing repair and vulnerable, the repair will fail if the ship is attacked.
-Behavior/Tooltip/BehemothHangar@HangarDestroyed=This battlecruiser has lost a hangar bay. Decreasing its tac fighter build rate and capacity.
-Behavior/Tooltip/CH1@HangarDestroyed=This carrier has lost a hangar bay. Decreasing its interceptor build rate and capacity.
-Behavior/Tooltip/CH2@HangarDestroyed=This carrier has lost a hangar bay. Decreasing its interceptor build rate and capacity.
-Behavior/Tooltip/CH3@HangarDestroyed=This carrier has lost a hangar bay. Decreasing its interceptor build rate and capacity.
-Behavior/Tooltip/CH4@HangarDestroyed=This carrier has lost a hangar bay. Decreasing its interceptor build rate and capacity.
-Behavior/Tooltip/CH5@HangarDestroyed=This carrier has lost a hangar bay. Decreasing its interceptor build rate and capacity.
-Behavior/Tooltip/CH6@HangarDestroyed=This carrier has lost a hangar bay. Decreasing its interceptor build rate and capacity.
-Behavior/Tooltip/CH7@HangarDestroyed=This carrier has lost a hangar bay. Decreasing its interceptor build rate and capacity.
-Behavior/Tooltip/CH8@HangarDestroyed=This carrier has lost a hangar bay. Decreasing its interceptor build rate and capacity.
-Behavior/Tooltip/CarrierHangar1Disabled=This carrier has temporarily lost a hangar bay. Decreasing its firepower and interceptor build rate.
-Behavior/Tooltip/CorrosiveAcid=Devourer attacks have lowered this units armor and attack damage temporarily
-Behavior/Tooltip/DefensiveMatrix=This unit takes -40% damage from any attacks.<n/><n/>Lasts <d ref="Behavior,DefensiveMatrix,Duration"/> seconds or until the unit is out of shield.
-Behavior/Tooltip/DefensiveMatrixNew=This unit takes -80% damage from any attacks at the cost of rapidly draining its energy<n/><n/>Lasts <d ref="Behavior,DefensiveMatrix,Duration"/> seconds or until the unit is out of energy.
-Behavior/Tooltip/DetectionDisabled=This Capital Ship has lost its scanner system and is no longer a detector.
-Behavior/Tooltip/DropChamberADestroyed=This Leviathan has lost a drop pod chamber, reducing the amount of drop pods it can deploy.
-Behavior/Tooltip/DropChamberBDestroyed=This Leviathan has lost a drop pod chamber, reducing the amount of drop pods it can deploy.
-Behavior/Tooltip/DropChamberCDestroyed=This Leviathan has lost a drop pod chamber, reducing the amount of drop pods it can deploy.
-Behavior/Tooltip/DropChamberDDestroyed=This Leviathan has lost a drop pod chamber, reducing the amount of drop pods it can deploy.
-Behavior/Tooltip/EnergizedVoidCarapace=Hybrid Dominators gain +10 energy armor once it's health drops below 50%<n/>Allowing the Hybrid to use their remaining energy as a secondary shield
-Behavior/Tooltip/EnginesDestroyed=This Capital Ship has lost its engines and has its movement speed reduced to 20%
-Behavior/Tooltip/EnginesDestroyedHalf=This Capital Ship has lost its engines and has its movement speed reduced
-Behavior/Tooltip/EnginesDestroyedThird=This Capital Ship has lost its engines and has its movement speed reduced
-Behavior/Tooltip/FabricationPaused=This Reaver is currently unable to fabricate robotic units. Most likely this is because there is no available supply.
-Behavior/Tooltip/FalloutSickness=Nuclear fallout is reducing this unit's movement speed and sight radius. Units cannot burrow and structures cannot be built in nuclear fallout
-Behavior/Tooltip/ForceofWill=Artanis's shields take a maximum of <d ref="Behavior,ForceofWill,DamageResponse.ClampMaximum"/> damage from any single attack.<n/>Spell damage is not affected
+Behavior/Tooltip/AberrationArmorAuraTarget=Этот юнит получает меньше урона, пока прячется под Аберрацией.
+Behavior/Tooltip/AmonsFury=Этот юнит передвигается и атакует на 50% быстрее, но получает смертельный урон со временем, пока не закончится действие эффекта.
+Behavior/Tooltip/ArtanisResurgenceDisable=Этот юнит может возродиться с помощью способности "Возрождение" только раз в 60 секунд.
+Behavior/Tooltip/BH2@HangarDestroyed=Этот крейсер потерял ангар. Вместимость и скорость сборки перехватчиков снижены.
+Behavior/Tooltip/BattlefieldRepair=Этот корабль ремонтируется. Ремонт прервётся, если корабль будет атакован.
+Behavior/Tooltip/BehemothHangar@HangarDestroyed=Этот крейсер потерял ангар. Вместимость и скорость сборки перехватчиков и снижены.
+Behavior/Tooltip/CH1@HangarDestroyed=Этот авианосец потерял ангар. Вместимость и скорость сборки перехватчиков снижены.
+Behavior/Tooltip/CH2@HangarDestroyed=Этот авианосец потерял ангар. Вместимость и скорость сборки перехватчиков снижены.
+Behavior/Tooltip/CH3@HangarDestroyed=Этот авианосец потерял ангар. Вместимость и скорость сборки перехватчиков снижены.
+Behavior/Tooltip/CH4@HangarDestroyed=Этот авианосец потерял ангар. Вместимость и скорость сборки перехватчиков снижены.
+Behavior/Tooltip/CH5@HangarDestroyed=Этот авианосец потерял ангар. Вместимость и скорость сборки перехватчиков снижены.
+Behavior/Tooltip/CH6@HangarDestroyed=Этот авианосец потерял ангар. Вместимость и скорость сборки перехватчиков снижены.
+Behavior/Tooltip/CH7@HangarDestroyed=Этот авианосец потерял ангар. Вместимость и скорость сборки перехватчиков снижены.
+Behavior/Tooltip/CH8@HangarDestroyed=Этот авианосец потерял ангар. Вместимость и скорость сборки перехватчиков снижены.
+Behavior/Tooltip/CarrierHangar1Disabled=Этот авианосец временно лишился ангара. Огневая мощь и скорость сборки перехватчиков снижены.
+Behavior/Tooltip/CorrosiveAcid=Атаки Пожирателя временно снизили броню и урон этого юнита.
+Behavior/Tooltip/DefensiveMatrix=Этот юнит получает на 40% меньше урона.<n/><n/>Длится <d ref="Behavior,DefensiveMatrix,Duration"/> секунд или до тех пор, пока юнит не выйдет из-под щита.
+Behavior/Tooltip/DefensiveMatrixNew=Этот юнит получает на 80% меньше урона, ценой быстрого истощения его энергии.<n/><n/>Длится <d ref="Behavior,DefensiveMatrix,Duration"/> секунд или пока не кончится энергия юнита.
+Behavior/Tooltip/DetectionDisabled=Этот крупный корабль потерял свою систему сканирования и больше не является детектором.
+Behavior/Tooltip/DropChamberADestroyed=Этот Левиафан потерял десантную камеру, теперь он выпускает меньше десантных капсул.
+Behavior/Tooltip/DropChamberBDestroyed=Этот Левиафан потерял десантную камеру, теперь он выпускает меньше десантных капсул.
+Behavior/Tooltip/DropChamberCDestroyed=Этот Левиафан потерял десантную камеру, теперь он выпускает меньше десантных капсул.
+Behavior/Tooltip/DropChamberDDestroyed=Этот Левиафан потерял десантную камеру, теперь он выпускает меньше десантных капсул.
+Behavior/Tooltip/EnergizedVoidCarapace=Гибрид-доминатор получает +10 энергетической брони, когда его здоровье падает ниже 50%<n/>Позволяет Гибриду использовать оставшуюся энергию в качестве дополнительного щита.
+Behavior/Tooltip/EnginesDestroyed=Этот корабль потерял двигатели, скорость передвижения снижена до 20%.
+Behavior/Tooltip/EnginesDestroyedHalf=Этот корабль потерял двигатели, его скорость передвижения снижена.
+Behavior/Tooltip/EnginesDestroyedThird=Этот корабль потерял двигатели, скорость передвижения снижена.
+Behavior/Tooltip/FabricationPaused=Этот Опустошитель в настоящее время не может произвести роботизированные юниты. Скорее всего, потому что недостаточно пси (пилонов).
+Behavior/Tooltip/FalloutSickness=Ядерные осадки снижают скорость передвижения и радиус обзора этого юнита. Юниты не могут зарываться в землю и строить конструкции в условиях ядерных осадков.
+Behavior/Tooltip/ForceofWill=Щиты Артаниса получают максимум <d ref="Behavior,ForceofWill,DamageResponse.ClampMaximum"/> урона от любой одиночной атаки.<n/>Урон от заклинаний не затрагивается.
 Behavior/Tooltip/GlaiveSplits=How many additional glaive wurms are created from the intial impact. A value of 0 here behaves the same as a standard Mutalisk glaive wurm.
 Behavior/Tooltip/GravitySlingLost=This Tempest has lost its Gravity Sling, reducing its weapon range
 Behavior/Tooltip/HybridDestroyerFlight=This hybrid is flying
