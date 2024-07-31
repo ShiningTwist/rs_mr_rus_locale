@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 ## [unreleased]
 
+### 🚀 Features
+
+- *(behavior)* Перевести 258-287 строки в FILE 1
+
 ### 📚 Documentation
 
 - Релизнуть README
