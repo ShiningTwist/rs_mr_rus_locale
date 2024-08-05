@@ -4,14 +4,10 @@
 
 [Full Changelog](https://github.com/ShiningTwist/rs_mr_rus_locale/compare/4aa51c44983e4aba7b0229e78393cc7312c7d1fc...HEAD)
 
-**Closed issues:**
+**Implemented enhancements:**
 
-- ci: тест работы скрипта [\#8](https://github.com/ShiningTwist/rs_mr_rus_locale/issues/8)
-- ci: тест работы скрипта [\#7](https://github.com/ShiningTwist/rs_mr_rus_locale/issues/7)
-- ci: тест работы скрипта [\#6](https://github.com/ShiningTwist/rs_mr_rus_locale/issues/6)
-- ci: тест работы скрипта [\#5](https://github.com/ShiningTwist/rs_mr_rus_locale/issues/5)
-- ci: тест работы скрипта [\#4](https://github.com/ShiningTwist/rs_mr_rus_locale/issues/4)
-- ci: тест работы скрипта [\#3](https://github.com/ShiningTwist/rs_mr_rus_locale/issues/3)
+- feat\(behavior\): перевести 288-323 строки в FILE 1 [\#10](https://github.com/ShiningTwist/rs_mr_rus_locale/issues/10)
+- feat\(behavior\): перевести 258-287 строки в FILE 1 [\#2](https://github.com/ShiningTwist/rs_mr_rus_locale/issues/2)
 
 
 
