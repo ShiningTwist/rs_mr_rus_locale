@@ -7,6 +7,11 @@ All notable changes to this project will be documented in this file.
 ### 🚀 Features
 
 - *(behavior)* Перевести 258-287 строки в FILE 1
+- *(behavior)* Перевести 288-323 строки в FILE 1
+
+### 🐛 Bug Fixes
+
+- *(behavior)* Исправить 259 строку в FILE 1
 
 ### 📚 Documentation
 
