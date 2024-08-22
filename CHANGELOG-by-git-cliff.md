@@ -6,6 +6,12 @@ All notable changes to this project will be documented in this file.
 
 ### 🚀 Features
 
+- *(file-4)* Перенести в FILE 4 перевод от RuPrev
+
+## [0.1.0-alpha.1] - 2024-08-17
+
+### 🚀 Features
+
 - *(behavior)* Перевести 258-287 строки в FILE 1
 - *(behavior)* Перевести 288-323 строки в FILE 1
 - *(file-3)* Перенести в FILE 3 строки от RuPrev
