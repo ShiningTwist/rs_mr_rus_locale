@@ -18,7 +18,6 @@
 ## Установка локализации
 
 Распаковать **rsmr-rus.zip** и закинуть содержимое в папку игры **Starcraft 2**, поверх файлов мода **RSMR**, согласившись на слияние папок и перезапись файлов. 
- _(готовый архив станет доступен после первого релиза)_
 
 
 ## Принять участие в переводе
@@ -32,9 +31,10 @@
 * Автор кампании SCMR:
 Mass Recall Team (Jones, Telenil, Jimm, Gradius, Ultraling, Kostyarik, Re1deR, herdal8, christdaugherty, OmegaWeaponX85, MavercK, Superfield и другие).
 * Автор модификации RSMR:
-GiantGrantGames:
-    - https://www.youtube.com/giantgrantgames
-    - Discord сервер для скачивания этой и других модификаций автора: https://discord.com/invite/UCDyZyr6gg
+    - Издательство и дизайн: GiantGrantGames (Discord @giantgrantgames, https://discord.gg/HhveQqvb, https://www.youtube.com/watch?v=mzjbcoFP5hQ&list=PLWIRRgIfniFvhxfkFjhXqar0hDg6S281b)  
+    - Orcawarrior2 (Discord @orcawarrior2, (https://www.buymeacoffee.com/Orcawarrior2)
+    - Eclairtle (Discord @eclairtleqaq)
+    - MindHawk (Discord @mindhawk, https://www.twitch.tv/lemindhawk)
 * Перевод кампании и мода:
   + В части, совпадающей с Mass Recall, использованы материалы команды SC2 Russian Preview: https://sc2ruspreview.blogspot.com/p/mass-recall.html:
       * Озвучка: официальная русская локализация из StarCraft Remastered
@@ -47,11 +47,10 @@ GiantGrantGames:
     
 
 ## Контакты
-Профиль на github: https://github.com/ShiningTwist              
-Discord личка: https://discord.com/invite/W9f8YbsJ 
+Github https://github.com/ShiningTwist              
+Discord @monhaw
 
 ## Лицензия
 
-Этот репозиторий со всем содержимым находится под лицензией GNU General Public License v3.0 - см. файл [LICENSE](LICENSE) для подробностей.
-
+Этот репозиторий со всем содержимым распространяется под лицензией GNU General Public License v3.0 - см. файл [LICENSE](LICENSE) для подробностей.
 
