@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 ## [unreleased]
 
+### 📚 Documentation
+
+- Update readme.md
+
+## [0.1.0-alpha.2] - 2024-08-22
+
 ### 🚀 Features
 
 - *(file-4)* Перенести в FILE 4 перевод от RuPrev
