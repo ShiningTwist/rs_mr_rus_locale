@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 ## [unreleased]
 
+### 🚀 Features
+
+- *(file-5)* Перенести в FILE 5 ассеты от RuPrev
+
 ### 📚 Documentation
 
 - Update readme.md
