@@ -2,7 +2,15 @@
 
 ## [Unreleased](https://github.com/ShiningTwist/rs_mr_rus_locale/tree/HEAD)
 
-[Full Changelog](https://github.com/ShiningTwist/rs_mr_rus_locale/compare/0.1.0-alpha.2...HEAD)
+[Full Changelog](https://github.com/ShiningTwist/rs_mr_rus_locale/compare/0.1.0-alpha.3...HEAD)
+
+**Implemented enhancements:**
+
+- feat\(file-5\): перенести в FILE 5 ассеты от RuPrev [\#17](https://github.com/ShiningTwist/rs_mr_rus_locale/issues/17)
+
+## [0.1.0-alpha.3](https://github.com/ShiningTwist/rs_mr_rus_locale/tree/0.1.0-alpha.3) (2024-08-27)
+
+[Full Changelog](https://github.com/ShiningTwist/rs_mr_rus_locale/compare/0.1.0-alpha.2...0.1.0-alpha.3)
 
 **Implemented enhancements:**
 
