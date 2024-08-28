@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 ## [unreleased]
 
+### 📚 Documentation
+
+- Обновил readme
+
+## [0.1.0-alpha.3] - 2024-08-27
+
 ### 🚀 Features
 
 - *(file-5)* Перенести в FILE 5 ассеты от RuPrev
