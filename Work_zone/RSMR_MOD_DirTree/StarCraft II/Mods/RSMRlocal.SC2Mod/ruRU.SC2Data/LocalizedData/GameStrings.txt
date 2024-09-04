@@ -1189,7 +1189,7 @@ Param/Value/lib_AA0EBE8C_015D8BC4=<c val="FFFF00">Новая боевая еди
 Param/Value/lib_AA0EBE8C_015E2E92=<s val="CreditsHeading"><c val="FF0000">Зератул был убит.</c></s>
 Param/Value/lib_AA0EBE8C_0160042F=<c val="FFFF00">Новая боевая единица</c>:<n/>Челнок
 Param/Value/lib_AA0EBE8C_01A77766=<s val="AA_MissionList_T">Терраны05. Милиция Конфедерации</s>
-Param/Value/lib_AA0EBE8C_01D4842B=Check to include two extra missions in episode 1 that were cut from the original game.
+Param/Value/lib_AA0EBE8C_01D4842B=Установите, чтобы включить две дополнительные миссии в эпизоде 1, которые были вырезаны из оригинальной игры.
 Param/Value/lib_AA0EBE8C_01D890E4=- Доставить Тассадара и двух зилотов ко входу в комплекс <n/>- Тассадар должен выжить
 Param/Value/lib_AA0EBE8C_0236F2A7=Рейнор, Дюк и Тассадар должны выжить
 Param/Value/lib_AA0EBE8C_025004E1=- Встретить Керриган и отвести её к командному центру Антиги <n/>- Защитить мятежников Антиги<n/>- Рейнор и Керриган должны остаться в живых
@@ -1381,7 +1381,7 @@ Param/Value/lib_AA0EBE8C_1D23427B=Храм зел-нага — Шакурас
 Param/Value/lib_AA0EBE8C_1D30AED3=Секретный уровень активирован.
 Param/Value/lib_AA0EBE8C_1D4C1FD9=<c val="9DFF9D">Дверь закрыта</c>
 Param/Value/lib_AA0EBE8C_1D63DF01=Новый Рой
-Param/Value/lib_AA0EBE8C_1D769EA7=<s val="SCR_OptionsLabelLeft">Classic/Starcraft:Remastered</s>
+Param/Value/lib_AA0EBE8C_1D769EA7=<s val="SCR_OptionsLabelLeft">Класический/StarCraft:Remastered</s>
 Param/Value/lib_AA0EBE8C_1D97AFA3=Изменение заднего фона меню
 Param/Value/lib_AA0EBE8C_1D9B1D1D=<s val="AA_MissionList_T">Зерги 4b. В Пустоту</s>
 Param/Value/lib_AA0EBE8C_1DEAA40A=Уничтожить силы протоссов 
@@ -1428,7 +1428,7 @@ Param/Value/lib_AA0EBE8C_2276DCBB=- Уничтожить пси-аннулято
 Param/Value/lib_AA0EBE8C_22B6A007=<s val="AchievementFrameName">Команда «Mass Recall»</s><n/><n/>   Joonas "Jones" Teerimäki<n/>   Fabrice "Telenil" Egal<n/>   Iurii "Jimm" Kharkovenko<n/>   Andrew "Gradius" Ray<n/>   Konstantin "Kostyarik" Monakhov<n/>   Andrey "Re1deR" Korotaev<n/>   OmegaWeaponX85<n/><n/><n/><s val="AchievementFrameName">Дизайн карт</s><n/><n/>сценарии<n/><n/>   Jones<n/>   Telenil<n/>   Jimm<n/>   Gradius<n/>   Ultraling<n/>   Kostyarik<n/>   Re1deR<n/>   OmegaWeaponX85<n/>  herdal8<n/>   christdaugherty<n/>   Superfield<n/>   J.Logan<n/>   Tolkfan<n/><n/>сценарии ИИ<n/><n/>   Telenil<n/>   Jones<n/>   OmegaWeaponX85<n/><n/>дополнительные сценарии ИИ<n/><n/>   Ultraling  (эпизод I)<n/>   christdaugherty (эпизод III)<n/><n/>terraining<n/><n/>   Jones<n/>   Jimm<n/>   OmegaWeaponX85
 Param/Value/lib_AA0EBE8C_22BFC2FC=<s val="AA_MissionList_T">Протоссы03. В поисках Демиоха</s>
 Param/Value/lib_AA0EBE8C_22C4A80D=Дополнительные сценарии
-Param/Value/lib_AA0EBE8C_22C6776F=Long considered the most lucrative terran mining world in the Koprulu sector, the large red planet of Moria is rich with minerals and fuel sources. The first settlers on Moria were the passengers of the supercarrier Argo, one of the four colony ships that brought terrans to the sector. After crash-landing on the planet, the Argo's passengers stripped the supercarrier of essential materials and did their best to survive on their new home, unaware that two other terran colony worlds, Tarsonis and Umoja, also existed.<n/><n/>Sixty years later, the advent of second-generation subwarp engines on Tarsonis allowed these three disparate colonies to develop relations. As commercial treaties were formed, a mining and manufacturing boom took Moria by storm. Dozens of small family-run guilds scrambled to claim as much land as possible, and soon hundreds of refineries, factories, and mining facilities sprouted up on Moria and its two moons. Over time, the larger guilds used a variety of shady tactics to eliminate competition until two organizations came to dominate the planet's economic activities: the Morian Mining Coalition and the Kelanis Shipping Guild.<n/><n/>These two powers gradually gained political influence over Moria and its associated operations on nearby planets, moons, and asteroids. Elsewhere in the sector, the Terran Confederacy, a powerful government formed by Tarsonis and its colonies, began extending its influence to other worlds. Fearful that the Confederacy might use its military strength to regulate their profitable operations, the Morian Mining Coalition and the Kelanis Shipping Guild eventually merged to form the Kel-Morian Combine. This corrupt corporate partnership pledged military aid to any mining guilds threatened by the Confederacy. From that day forward, the thin line that had once existed on Moria between commercial entities and independent government vanished.<n/><n/>Rising tensions between the Confederacy and the Combine later led to the outbreak of the Guild Wars. This brutal conflict raged for nearly four years, and it eventually ended with a skewed peace agreement that granted the Confederacy control over nearly all of the Combine's affiliated mining guilds. Moria itself, however, was unscathed by the wars, and despite the crooked terms of the peace treaty, the planet remained under Combine control.<n/><n/>When chaos erupted in the Koprulu sector following the emergence of the Zerg and the Protoss, the Combine went to great lengths to stay out of the conflict.
+Param/Value/lib_AA0EBE8C_22C6776F=Большая красная планета Мория, богатая полезными ископаемыми и энергоносителями, давно считается лучшей для добычи полезных ископаемых во всём секторе Копрулу. Первыми поселенцами на ней стали пассажиры транспорта «Арго», одного из четырёх колонизационных кораблей, привёзших в сектор Копрулу терранов. После крушения корабля пассажиры сняли с него все необходимые материалы и стали делать всё возможное, чтобы выжить на новой планете; тогда им было неизвестно о существовании двух других планет, колонизированных терранами: Тарсониса и Умоджи.<n/><n/>Шестьдесят лет спустя изобретение на Тарсонисе подпространственных двигателей второго поколения позволило этим трём разделённым планетам установить отношения друг с другом. С развитием межпланетной торговли на Мории начался шахтёрский и промышленный бум. Десятки малых семейных гильдий пытались захватить как можно больше территорий — скоро Морию и два её спутника усеяли сотни обогатительных комбинатов, фабрик и шахт. Со временем крупные гильдии, используя самые разные сомнительные методы, устранили своих конкурентов. В итоге доминирующее положение в экономике планеты заняли две организации: Морийская шахтёрская коалиция и Кораблестроительная гильдия Келаниса.
 Param/Value/lib_AA0EBE8C_22D49E3F=<c val="98FB98">Мод SCMRmod <n/><n/>основан на StarCraft 2: Brood War моде от Maverck<n/><n/><n/>Версия SCMR от<n/><n/>Jones<n/>Telenil<n/>Jimm<n/>Gradius<n/>Re1deR<n/>Kostyarik<n/>Superfield<n/>christdaugherty<n/>OmegaWeaponX85
 Param/Value/lib_AA0EBE8C_22D53CD0=ВНИМАНИЕ: Ракетные турели отключены.
 Param/Value/lib_AA0EBE8C_23134B1D=<s val="ModLeftSize16Bold">ЗАДАНИЕ:</s><n/><s val="ModLeftSize40Bold">ВЫЗОВ</s>
@@ -1888,7 +1888,7 @@ Param/Value/lib_AA0EBE8C_6270FA38=ТЕРРАНЫ x03: "Руины Тарсони
 Param/Value/lib_AA0EBE8C_628B9269=<s val="CreditsHeading"><c val="FF0000">Дюран был убит...</c></s>
 Param/Value/lib_AA0EBE8C_62E0FDA9=Рой необходимо контролировать. Создайте надзирателей, чтобы контролировать больше войск.
 Param/Value/lib_AA0EBE8C_62EA6BF3=<s val="SCR_OptionsLabelLeft">Overmind's Zerg</s>
-Param/Value/lib_AA0EBE8C_62FA1981=Temple Ready
+Param/Value/lib_AA0EBE8C_62FA1981=Готовность храма
 Param/Value/lib_AA0EBE8C_635C7D0E=<s val="MRScoreScreenTitle">Построено</s>
 Param/Value/lib_AA0EBE8C_63618D40=Керриган должна выжить
 Param/Value/lib_AA0EBE8C_6394D6D5=Конфедерация
@@ -1992,9 +1992,9 @@ Param/Value/lib_AA0EBE8C_71D71D8A=Алдарис (Новичок)
 Param/Value/lib_AA0EBE8C_71DF0626=<s val="AA_MissionList_P"> 7. Родина</s>
 Param/Value/lib_AA0EBE8C_722199B9=После получения сообщения вы можете использовать клавишу «ПРОБЕЛ», чтобы переместить камеру на источник передачи.
 Param/Value/lib_AA0EBE8C_727597F2=Солнце
-Param/Value/lib_AA0EBE8C_72D52A8F=PROTOSS 3: "Higher Ground"
-Param/Value/lib_AA0EBE8C_72E025BB=Gather Data Files from the Confederate space installation
-Param/Value/lib_AA0EBE8C_72F9CBA0=TERRAN  CAMPAIGN:  REBEL  YELL<n/><n/>In  the  decade  since  the  end  of  the  Guild  Wars,  the  oppressive  Terran  Confederacy  has  stood  unchallenged  in  its  supremacy  over  colonized  space.<n/><n/>All  of  that  changed  four  days  ago  when  a  large  alien  fleet  emerged  from  warp-space  and  laid  waste  to  the  unsuspecting  Confederate  colony  of  Chau  Sara.<n/><n/>The  Confederacy,  fearing  that  the  alien  fleet's  next  target  will  be  the  colony  of  Mar  Sara,  has  sent  you  to  intervene.  Acting  as  Magistrate,  you  are  to  safeguard  the  colonists  and  keep  their  state  of  panic  from  escalating  any  further.
+Param/Value/lib_AA0EBE8C_72D52A8F=ПРОТОССЫ 3: "Позиционное преимущество"
+Param/Value/lib_AA0EBE8C_72E025BB=Соберите файлы данных на космической станции Конфедерации
+Param/Value/lib_AA0EBE8C_72F9CBA0=КАМПАНИЯ ТЕРРАНОВ: ВОССТАНИЕ<n/><n/>После окончания войны с шахтёрскими гильдиями Конфедерация терранов десять лет полностью контролировала колонизированную часть космоса.<n/><n/>Однако четыре дня назад из гиперпространства появилась флотилия кораблей пришельцев и уничтожила колонию Конфедерации на Чау-Саре.<n/><n/>Опасаясь, что следующей целью пришельцев может стать Мар-Сара, Конфедерация поручила вам вмешаться в ситуацию. Как магистрат вы должны обеспечить безопасность колонистов и не допустить паники среди населения.
 Param/Value/lib_AA0EBE8C_73097257=Спасти все ульи от разрушения
 Param/Value/lib_AA0EBE8C_7323A785=Нанести Сверхразуму серьёзные ранения
 Param/Value/lib_AA0EBE8C_732EF6BF=Улей был разрушен.
@@ -2149,7 +2149,7 @@ Param/Value/lib_AA0EBE8C_8717A731=высокая орбита Тарсониса
 Param/Value/lib_AA0EBE8C_87680D99=<c val="98FB98">Продолжение истории:<n/><n/>Эпизод IV — Противостояние</c>
 Param/Value/lib_AA0EBE8C_878CD908=Кел-Морийский горнодобывающий комплекс
 Param/Value/lib_AA0EBE8C_87A4DE4F=<s val="ModLeftSize16Bold">ЗАДАНИЕ:</s><n/><s val="ModLeftSize40Bold">НА ОСТРИЕ</s>
-Param/Value/lib_AA0EBE8C_87ACA745="Wasteland Patrol"
+Param/Value/lib_AA0EBE8C_87ACA745=<s val="ModLeftSize16Bold">ВИДЕОРОЛИК:</s><n/><s val="ModLeftSize40Bold">ПАТРУЛИРОВАНИЕ В ПУСТОШАХ</s>
 Param/Value/lib_AA0EBE8C_880D3391=Секретная база.<n/>Колония на Антиге Прайм.
 Param/Value/lib_AA0EBE8C_883D9EBF=<s val="AA_MissionList_T">Протоссы 6b. Решающая битва (B)</s>
 Param/Value/lib_AA0EBE8C_8852E975=<s val="AA_MissionList_T">Протоссы 3. Немезида</s>
@@ -2352,7 +2352,7 @@ Param/Value/lib_AA0EBE8C_A565639B=СТУКОВ 5: "Тень Мёбиуса"
 Param/Value/lib_AA0EBE8C_A5E45E33=Оставшись с разбитым флотом, Арктур Менгск вернулся обратно на Корхал зализывать раны и планировать восстановление Доминиона терранов...
 Param/Value/lib_AA0EBE8C_A5E6BA67=<s val="StandardMediumButtonGreen">ВПЕРЁД</s>
 Param/Value/lib_AA0EBE8C_A60B6D3E=Сбежать из тюрьмы «Фонда Мёбиуса»
-Param/Value/lib_AA0EBE8C_A66DD81B=Norad II crash site -- Antigan wilderness
+Param/Value/lib_AA0EBE8C_A66DD81B=Место крушения Норад II — Дикая местность Антиги
 Param/Value/lib_AA0EBE8C_A685BD01=Доставить Дюрана к каждому маяку
 Param/Value/lib_AA0EBE8C_A6BE4C31=<s val="AA_Header1"><c val="80FF80">Эпизод V</c></s>
 Param/Value/lib_AA0EBE8C_A6CFB3C6=<s val="AA_MissionList_T"> 8S. Операция "Тихий крик"</s>
@@ -2439,7 +2439,7 @@ Param/Value/lib_AA0EBE8C_B0259D08=<s val="AA_MissionList_T">Терраны05. З
 Param/Value/lib_AA0EBE8C_B032F26A=К югу от флота ОЗД у «пси-аннулятора»<n/>Ледяные равнины Браксиса<n/>1 час спустя
 Param/Value/lib_AA0EBE8C_B038A482=- Найти заражённого Стукова.<n/>- Используя медика, ввести нанотехнологическую сыворотку.<n/>- Рейнор и Талдарин должны выжить.
 Param/Value/lib_AA0EBE8C_B07175B3=Медики ОЗД лечат быстрее, чем их коллеги из Конфедерации или Доминиона. В академии медики могут обучиться применять <c val="FFFF2D">«Световую гранату»</c>, ослепляющую врагов, и <c val="FFFF2D"> «Восстановление» </c>, снимающее негативные эффекты с дружественной единицы.
-Param/Value/lib_AA0EBE8C_B0C0CF3F=<s val="SCR_OptionsTitle">RESET CAMPAIGN</s>
+Param/Value/lib_AA0EBE8C_B0C0CF3F=<s val="SCR_OptionsTitle">СБРОС КАМПАНИИ</s>
 Param/Value/lib_AA0EBE8C_B0F4DAD3=          Совет:<n/>               Танки могут переключиться в режим осады<n/>               для увеличения дальности и силы выстрела. <n/>               В режиме осады танки не могут передвигаться.<n/>
 Param/Value/lib_AA0EBE8C_B0F6F9DF=ТЕРРАНЫ 4: "База "Джейкобс"
 Param/Value/lib_AA0EBE8C_B128F6D8=<c val="FFFF00">Новая боевая единица</c><n/>«Стервятник»
@@ -2463,7 +2463,7 @@ Param/Value/lib_AA0EBE8C_B3AAF2CA=<s val="AA_MissionList_T">Терраны 4a. �
 Param/Value/lib_AA0EBE8C_B3C8978B=Флагман «Гиперион».<n/>Низкая орбита Тарсониса, <n/>главной планеты Конфедерации. <n/><n/><n/><n/>Сигнал, усиленный несколькими пси-излучателями, достиг дальних уголков сектора терранов и привлёк мириады зергов на главную планету Конфедерации Тарсонис.<n/>Зерги смели оборонительные укрепления Конфедерации и разорили крупнейшие города и промышленные центры на Тарсонисе.
 Param/Value/lib_AA0EBE8C_B3CABDA7=Подчинённая стая
 Param/Value/lib_AA0EBE8C_B3D0B96B=Протоссы-беженцы
-Param/Value/lib_AA0EBE8C_B3F1B61C=<c val="FFFF00">Scourge</c> are fast flying creatures that serve as anti-air support. They charge towards enemy air units and explode on contact, dealign massive damage to the target. One Scourge leaves a wraith or a dropship very vulnerable, two destroy it.	
+Param/Value/lib_AA0EBE8C_B3F1B61C=<c val="FFFF00">Слепень</c> лёгкая летающая живая бомба. Слепни чрезвычайно уязвимы, но быстры и имеют мощную атаку по маленькой области, представляя серьёзную угрозу для воздушных единиц противника. Рождаются парами.
 Param/Value/lib_AA0EBE8C_B3F4A250=Мутировать пещеру гидралисков
 Param/Value/lib_AA0EBE8C_B402A5C1=<s val="SCR_OptionsLabelLeft">Пользовательские модели ОЗД</s>
 Param/Value/lib_AA0EBE8C_B4081954=Дождаться прибытия Феникса
@@ -2505,7 +2505,7 @@ Param/Value/lib_AA0EBE8C_B8B377CC=- Доставить Керриган к су�
 Param/Value/lib_AA0EBE8C_B9261067= - Уничтожить физические лаборатории<n/><n/>или<n/><n/> - Уничтожить ракетные шахты
 Param/Value/lib_AA0EBE8C_B93799CE=Пустоши Мар-Сары
 Param/Value/lib_AA0EBE8C_B947F950=И одна, на тёмной платформе, на орбите обугленной планеты Чар, Сара Керриган, Королева Клинков, сидела и управляла хищным Роем. Не имея возможности избавиться от ощущения, что где-то на горизонте надвисла большая угроза.
-Param/Value/lib_AA0EBE8C_B9D1952D=Meanwhile,  the  entirety  of  the  extended  Zerg  Swarm  teleported  through  space-time  and  began  its  long  awaited  invasion  of  the  hated  Protoss  Homeworld  of  Aiur.
+Param/Value/lib_AA0EBE8C_B9D1952D=Тем временем, большая часть Роя зергов телепортировалась во времени и пространстве, чтобы начать долгожданное вторжение на родной мир ненавистных протоссов — Айур.
 Param/Value/lib_AA0EBE8C_BA26D51F=<s val="AA_MissionList_T">Протоссы 5b. Давний враг</s>
 Param/Value/lib_AA0EBE8C_BA307A5E=Одиночный
 Param/Value/lib_AA0EBE8C_BA506E47=Сохранить возможность вызывать тёмных тамплиеров
@@ -2531,7 +2531,7 @@ Param/Value/lib_AA0EBE8C_BC6E502C=Гнездо Сверхразума
 Param/Value/lib_AA0EBE8C_BC9DAAC6=Айур
 Param/Value/lib_AA0EBE8C_BCC15628=<s val="AA_MissionList_P"> 1. Бегство с Айура</s>
 Param/Value/lib_AA0EBE8C_BCEBEB70= из 100 газа
-Param/Value/lib_AA0EBE8C_BD76EB23=Hold off the Protoss forces while the drone harvests the Khaydarin Crystal
+Param/Value/lib_AA0EBE8C_BD76EB23=Сдерживать войска протоссов, пока рабочий добывает кристалл
 Param/Value/lib_AA0EBE8C_BD8C53B3=До прибытия кораблей
 Param/Value/lib_AA0EBE8C_BDB46E3A=Создать омут рождения
 Param/Value/lib_AA0EBE8C_BDB9C405=- Кто здесь главный?<n/>- Где поддержка с воздуха?<n/><n/>- Итак, Жерар, полагаю, у вас есть достаточно веская причина<n/>- отрывать меня от выполнения обязанностей.<n/>- Ваша водка подождёт, друг мой Алексей.<n/>- Подойдите, вы должны сами увидеть это.<n/>- Мне известно всё о зергах, Жерар.<n/>- Мы все видели эти записи сотню...<n/>- Ничего вы не видели!<n/>- Одно дело — препарировать мёртвого зерга в лаборатории.<n/>- Другое дело — натравлять их на людей.<n/>- Вы обязаны раскрыть глаза прежде, чем действовать.<n/>- Обратного пути не будет.<n/>- Вы готовы пройти этот путь до конца, Алексей?<n/>- Да... Да, я готов идти до конца, друг мой адмирал.<n/>- Хорошо, хорошо. Я знал, что могу рассчитывать на вас.<n/>- Адмирал, база колонистов будет уничтожена в течение нескольких минут. Должны ли мы вмешаться?<n/>- Выводите нас на орбиту, мистер Мальмстин. Мы увидели достаточно.
@@ -2565,10 +2565,10 @@ Param/Value/lib_AA0EBE8C_C221935B=Рейнор должен выжить
 Param/Value/lib_AA0EBE8C_C2245ED6=        Началась добыча газа веспен.<n/>
 Param/Value/lib_AA0EBE8C_C237C25E=<s val="SCR_OptionsTitle">НАСТРОЙКА ЗВУКА</s>
 Param/Value/lib_AA0EBE8C_C23A36E7=<s val="AA_Header1"><c val="BFBFFF">Эпизод IV</c></s>
-Param/Value/lib_AA0EBE8C_C2631209=Check to create a permanent effect on the ground when a structure is destroyed.
+Param/Value/lib_AA0EBE8C_C2631209=Установите, чтобы создать постоянный эффект на земле, когда структура разрушается.
 Param/Value/lib_AA0EBE8C_C27BDE91=Штаб магистрата.<n/>Колония на Мар-Саре.<n/>2:25 по времени сектора Копрулу, 12.12.2499 г.
 Param/Value/lib_AA0EBE8C_C2AF50C6=Йотун
-Param/Value/lib_AA0EBE8C_C2B20C60=<c val="9FFF9F">Dearest Helena,<n/><n/>By now the news of our defeat has reached the Earth. The creatures we were sent here to tame are untameable, and the colonies we were sent to reclaim have proven to be stronger than we anticipated.<n/><n/>Whatever you may hear about what has happened out here, know this: Alexei did not die gloriously in battle. I killed him. My pride killed him. And now my pride has consumed me as well.<n/><n/>You will never see me again, Helena. Tell our children that I love them, and that their father died in defense of their future.<n/><n/>Au revoir.</c><n/>
+Param/Value/lib_AA0EBE8C_C2B20C60=<c val="9FFF9F">Милая моя Элена! Весть о нашем поражении уже должна была достигнуть Земли... Попытки приручить зергов оказались бессмысленными... А колонии, в которых мы должны были подавить мятеж, оказались сильнее, чем мы думали.</c>
 Param/Value/lib_AA0EBE8C_C2B68F85=Менгск
 Param/Value/lib_AA0EBE8C_C2E8F939=СКАНИРОВАНИЕ АКТИВИРОВАНО.
 Param/Value/lib_AA0EBE8C_C3234FC8=Антига Прайм
@@ -2586,8 +2586,8 @@ Param/Value/lib_AA0EBE8C_C4F4C8E1=<s val="SCR_OptionsLabelLeft">Эффект п�
 Param/Value/lib_AA0EBE8C_C53E167A=Корпус «Нова»
 Param/Value/lib_AA0EBE8C_C5534A5A=<s val="SCR_OptionsLabelLeft">Протоссы-неразимы</s>
 Param/Value/lib_AA0EBE8C_C56C951C=<s val="SCR_OptionsLabelLeft">Профили планет</s>
-Param/Value/lib_AA0EBE8C_C5711164=<s val="SCR_OptionsLabelLeft">Default/SC2</s>
-Param/Value/lib_AA0EBE8C_C57344B5=Protoss Expeditionary Fleet<n/>Low orbit around Char<n/>49 hours later
+Param/Value/lib_AA0EBE8C_C5711164=<s val="SCR_OptionsLabelLeft">По умолчанию/SC2</s>
+Param/Value/lib_AA0EBE8C_C57344B5=Экспедиционный флот протоссов<n/>Низкая орбита планеты Чар<n/>49 часов спустя
 Param/Value/lib_AA0EBE8C_C5F454EA=Время до прибытия Феникса:
 Param/Value/lib_AA0EBE8C_C64FA654=<s val="AA_MissionList_T">терраны06. Рог изобилия</s>
 Param/Value/lib_AA0EBE8C_C6964B66=Защитить хризалиду
@@ -2875,7 +2875,7 @@ Param/Value/lib_AA0EBE8C_EB329C06=Ульев спасено
 Param/Value/lib_AA0EBE8C_EB385304=Неизвестная луна
 Param/Value/lib_AA0EBE8C_EB52B424=Уничтожить терранов
 Param/Value/lib_AA0EBE8C_EB847E8F=Флагман «Гиперион».<n/>Низкая орбита Тарсониса,<n/>главной планеты Конфедерации.
-Param/Value/lib_AA0EBE8C_EB8B9ACF=<c val="FFFF00">Mutalisks</c> are fast flying creatures that excel at harassing opponents. Though a few mutalisks are not particularly powerful, they become a formidable force when in large numbers.		
+Param/Value/lib_AA0EBE8C_EB8B9ACF=<c val="FFFF00">Муталиски</c> составляют основу воздушных войск зергов, нанося молниеносные удары и так же молниеносно отступая. Они могут атаковать как воздушные, так и наземные цели, выбрасывая прожорливого симбионта-чакрума, который при взрыве поражает нескольких противников.
 Param/Value/lib_AA0EBE8C_EBA5B185=Встретить Рейнора
 Param/Value/lib_AA0EBE8C_EBC0B486=<s val="AA_MissionList_T">Протоссы01. Врата Таледона</s>
 Param/Value/lib_AA0EBE8C_EBE20F69=ЭПИЛОГ<n/><n/>Вскоре после поражения Дюгалля, оставшиеся корабли ОЗД были захвачены войсками Керриган и уничтожены. Ни одно судно ОЗД не достигло Земли, чтобы сообщить о том, что произошло.
