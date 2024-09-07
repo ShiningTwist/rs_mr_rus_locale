@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 ## [unreleased]
 
+### 🚀 Features
+
+- *(file-3)* Перенести в FILE 3 еще 18 строк от RuPrev
+- *(file-3)* Перенести в FILE 3 non-locale строки от RuPrev
+
 ### 📚 Documentation
 
 - Обновил readme
