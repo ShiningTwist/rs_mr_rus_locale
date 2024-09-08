@@ -6,6 +6,8 @@
 
 **Implemented enhancements:**
 
+- feat\(file-3\): перенести в FILE 3 еще 18 строк от RuPrev [\#19](https://github.com/ShiningTwist/rs_mr_rus_locale/issues/19)
+- feat\(file-3\): перенести в FILE 3 non-locale строки от RuPrev [\#18](https://github.com/ShiningTwist/rs_mr_rus_locale/issues/18)
 - feat\(file-5\): перенести в FILE 5 ассеты от RuPrev [\#17](https://github.com/ShiningTwist/rs_mr_rus_locale/issues/17)
 
 ## [0.1.0-alpha.3](https://github.com/ShiningTwist/rs_mr_rus_locale/tree/0.1.0-alpha.3) (2024-08-27)
