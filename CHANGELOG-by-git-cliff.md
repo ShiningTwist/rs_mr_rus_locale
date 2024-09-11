@@ -7,7 +7,7 @@ All notable changes to this project will be documented in this file.
 ### 🚀 Features
 
 - *(file-3)* Перенести в FILE 3 еще 18 строк от RuPrev
-- *(file-3)* Перенести в FILE 3 non-locale строки от RuPrev
+- *(file-3)* Перенести в FILE 3 строки FILE 2-en от RuPrev
 
 ### 📚 Documentation
 
