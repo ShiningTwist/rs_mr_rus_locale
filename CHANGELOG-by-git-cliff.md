@@ -9,6 +9,13 @@ All notable changes to this project will be documented in this file.
 - *(file-3)* Перенести в FILE 3 еще 18 строк от RuPrev
 - *(file-3)* Перенести в FILE 3 строки FILE 2-en от RuPrev
 
+### 🚜 Refactor
+
+- *(file-4)* Сменить основу в FILE 4 на enUs регион
+- *(file-3)* Сменить основу в FILE 3 на enUs регион
+- *(file-5)* Сменить основу на enUs регион, FILE 5
+- *(file-6)* Сменить основу на enUs регион, FILE 6
+
 ### 📚 Documentation
 
 - Обновил readme
