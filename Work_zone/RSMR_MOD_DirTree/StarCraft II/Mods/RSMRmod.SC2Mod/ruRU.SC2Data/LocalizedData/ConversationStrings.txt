@@ -1,6 +1,4 @@
-﻿Conversation/Name/UnknownConversation=Unknown Conversation
-Conversation/UnknownConversation/Group00001=User Choices
-Conversation/UnknownConversation/Line00001=What's my line again?
+﻿Character/Name/Stukov=
 UI/CreditText/MassRecall/=
 UI/CreditText/MassRecall/3DmodelsTextures=custom 3D models & textures
 UI/CreditText/MassRecall/AIUltraling=Ultraling  (episode I)
