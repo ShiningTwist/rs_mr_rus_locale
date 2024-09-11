@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 ## [unreleased]
 
+### 🐛 Bug Fixes
+
+- *(file-3)* Сменить основу в FILE 3 на enUs регион
+
+## [0.1.1] - 2024-09-11
+
 ### 🚀 Features
 
 - *(file-3)* Перенести в FILE 3 еще 18 строк от RuPrev
