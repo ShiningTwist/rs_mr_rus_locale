@@ -19,6 +19,7 @@ All notable changes to this project will be documented in this file.
 ### 📚 Documentation
 
 - Обновил readme
+- Обновил readme, бонус готов
 
 ## [0.1.0-alpha.3] - 2024-08-27
 
