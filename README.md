@@ -1,15 +1,17 @@
-# rs\_mr\_rus_locale
-Русская локализация для Real Scale Mass Recall
+# rs\_mr\_rus_locale  
+Русская локализация для Real Scale Mass Recall  
 
 
-## Описание проекта
+## Описание проекта  
 
-Этот репозиторий посвящен переводу на русский язык мода Real Scale Mass Recall для игры Starcraft 2
++ Этот репозиторий посвящен переводу на русский язык мода Real Scale Mass Recall для игры Starcraft 2  
++ Переведены текст и озвучка   
++ BONUS: если вы русскоязычный игрок, то после установки перевода вы увидите больше информации и более точную инфу, чем когда вы играете без перевода. Подробнее тут: [тык] (https://github.com/ShiningTwist/rs_mr_rus_locale/wiki#важное-предупреждение)  
 
 
-## Требования
+## Требования  
 
-У вас должна иметься оригинальная игра Starcraft 2 с установленным Real Scale Mass Recall. Сам мод можно скачать с [Discord сервера](https://discord.com/invite/UCDyZyr6gg) автора, либо по прямой ссылке с [Google Drive](https://drive.google.com/drive/folders/1PwvujsEzCTnpe642MrFnImB1U1ZjozKw?usp=drive_link).
+У вас должна быть оригинальная игра Starcraft 2 с установленным модом Real Scale Mass Recall. Сам мод можно скачать с [Discord сервера](https://discord.com/invite/UCDyZyr6gg) автора, либо по прямой ссылке с [Google Drive](https://drive.google.com/drive/folders/1PwvujsEzCTnpe642MrFnImB1U1ZjozKw?usp=drive_link).
 
 
 ## Скачивание и установка
@@ -51,3 +53,5 @@ Discord @monhaw
 ## Лицензия
 
 Этот репозиторий со всем содержимым распространяется под лицензией GNU General Public License v3.0 - см. файл [LICENSE](LICENSE) для подробностей.
+
+
