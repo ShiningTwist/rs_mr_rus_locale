@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 ## [unreleased]
 
+### ⚙️ Miscellaneous Tasks
+
+- Добавить бонус-помощь для FILE 2
+
+## [0.1.2] - 2024-09-11
+
 ### 🐛 Bug Fixes
 
 - *(file-3)* Сменить основу в FILE 3 на enUs регион
