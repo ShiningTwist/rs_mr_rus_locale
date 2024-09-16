@@ -1,0 +1,25 @@
+UnitKillRank/Captain=Капитан
+UnitKillRank/Commodore=Командор
+UnitKillRank/Corporal=капрал
+UnitKillRank/Corsair=Пилот неразимов
+UnitKillRank/DarkTemplar=Воин неразимов
+UnitKillRank/Drone=Рабочий
+UnitKillRank/Elite=Элита
+
+UnitKillRank/FirstSergeant=Старший сержант
+UnitKillRank/Flyer=Летун
+UnitKillRank/HighTemplar=Наставник тамплиеров
+
+UnitKillRank/Judicator=Судья
+
+UnitKillRank/LtCommander=Командир-лейтенант
+UnitKillRank/Major=Майор
+UnitKillRank/MasterSergeant=Мастер сержант
+UnitKillRank/Medic=Старший лейтенант
+
+UnitKillRank/Overlord=Владыка улья
+UnitKillRank/Private=Рядовой
+UnitKillRank/Queen=Страж улья
+UnitKillRank/Raszagal=Матриарх
+
+Weapon/Tip/Devourer=</c><c val="ffff8a">Взрывной.</c><n/><n/><c val="#ColorZergLabel">Пожиратели плюются едкой кислотой по воздушным целям, которая прожигает усиленную броню крупных кораблей. Один залп кислоты может задеть несколько целей. Споры, содержащиеся в кислоте, снижают боевые способности цели.</c>
