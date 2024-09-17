@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 ## [unreleased]
 
+### 🚀 Features
+
+- *(file-3)* Перенести в FILE 3 эксклюз. строки от RuPrev
+
 ### ⚙️ Miscellaneous Tasks
 
 - Добавить бонус-помощь для FILE 2
