@@ -4244,6 +4244,9 @@ Param/Value/lib_AA0EBE8C_FF6F3583=Рейнор, Талдарин и Стуков
 Param/Value/lib_AA0EBE8C_FF88B6A5=Зератул и Джеймс Рейнор разошлись разными путями и с того момента о них никто ничего не слышал.
 Param/Value/lib_AA0EBE8C_FFCD0F7B=<s val="AA_MissionList_Z"> 4. Агент Роя</s>
 Param/Value/lib_AA0EBE8C_FFCFDF28=Основной кластер улья Керриган — Тарсонис
+Param/Value/lib_D3571409_0D18CDA6=Скрыть крупные корабли из поля зрения 
+Param/Value/lib_D3571409_802A2FF7=Скрыть крупные корабли из поля зрения
+Param/Value/lib_D3571409_B8397416=Снова показать крупные корабли
 PhysicsLab=Физическая лаборатория
 Planet/Name/Aiur=Айур
 Planet/Name/AntigaPrime=Антига Прайм
