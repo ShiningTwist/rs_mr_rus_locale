@@ -7,6 +7,8 @@ All notable changes to this project will be documented in this file.
 ### 🚀 Features
 
 - *(file-3)* Перенести в FILE 3 эксклюз. строки от RuPrev
+- *(unit)* Перевести текст Гантритора
+- *(ui)* Перевести кнопку скрытия капиталок
 
 ### ⚙️ Miscellaneous Tasks
 
