@@ -9,6 +9,8 @@ All notable changes to this project will be documented in this file.
 - *(file-3)* Перенести в FILE 3 эксклюз. строки от RuPrev
 - *(unit)* Перевести текст Гантритора
 - *(ui)* Перевести кнопку скрытия капиталок
+- *(ui)* ATTENTION перевести "keep X in the fight" строки
+- *(ui)* ATTENTION перевести строки с "Brutal"
 
 ### ⚙️ Miscellaneous Tasks
 
