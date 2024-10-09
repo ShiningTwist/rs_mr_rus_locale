@@ -12,6 +12,10 @@ All notable changes to this project will be documented in this file.
 - *(ui)* ATTENTION перевести "keep X in the fight" строки
 - *(ui)* ATTENTION перевести строки с "Brutal"
 
+### 🐛 Bug Fixes
+
+- *(file-3)* Исправить перевод 2 строк в FILE 3
+
 ### ⚙️ Miscellaneous Tasks
 
 - Добавить бонус-помощь для FILE 2
