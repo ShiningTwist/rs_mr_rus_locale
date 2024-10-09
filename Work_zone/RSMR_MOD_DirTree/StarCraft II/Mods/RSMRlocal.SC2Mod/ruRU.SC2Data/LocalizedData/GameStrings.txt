@@ -273,7 +273,7 @@ Behavior/Tooltip/SuperStim=Дюран находится под действие
 Behavior/Tooltip/VileAcidSlowFlatAmount=Единица постоянно получает урон, а скорость атаки и передвижения замедляется.
 Behavior/Tooltip/VileAcidSlowFlatAmountHeroic=Единица постоянно получает урон, а скорость атаки и передвижения замедляется.
 Behavior/Tooltip/VileAcidSlowFlatAmountStructure=Единица постоянно получает урон, а скорость атаки замедляется.
-Borked=This Validator Is Borked
+Borked=(!ZZZ)This Validator Is Borked
 Button/Name/AleksanderSeekerMissile=Ракета «Ошеломитель»
 Button/Name/ArbiterMPRecall2=Вызов
 Button/Name/ArbiterMPStasisField2=Поле стазиса
@@ -2424,8 +2424,8 @@ Param/Value/lib_AA0EBE8C_0691281A=<s val="SCR_OptionsPanelHeader">Эффекты
 Param/Value/lib_AA0EBE8C_06B288B1=<s val="ArmoryDescription">Специальная трансляция СНВ<n/><n/>Коронация Арктура I, императора Доминиона терранов.</s>
 Param/Value/lib_AA0EBE8C_06BF8A17=<s val="SCR_OptionsLabelLeft">Отключить</s>
 Param/Value/lib_AA0EBE8C_06DD77CB=<c val="FFFF00">Новая боевая единица</c>:<n/>Опустошитель
-Param/Value/lib_AA0EBE8C_07199753=Dark Templars posses energies that can nullify the Overmind's power to revive his servants. This power appears to work on Kerrigan's ressurection as well. As a result, Kerrigan will be unable to revive if she is killed by a Dark Templar, resulting in defeat. Be careful.
 Param/Value/lib_AA0EBE8C_06ED6EEE=Сохранить боеспособность Керриган до конца миссии
+Param/Value/lib_AA0EBE8C_07199753=(!ZZZ)Dark Templars posses energies that can nullify the Overmind's power to revive his servants. This power appears to work on Kerrigan's ressurection as well. As a result, Kerrigan will be unable to revive if she is killed by a Dark Templar, resulting in defeat. Be careful.
 Param/Value/lib_AA0EBE8C_076CFADF=Керриган
 Param/Value/lib_AA0EBE8C_07964D8B=<s val="AA_MissionList_T">Терраны01. Потеряные души</s>
 Param/Value/lib_AA0EBE8C_07CB9D8E=Пропустить обучение
@@ -2501,7 +2501,7 @@ Param/Value/lib_AA0EBE8C_115CB92C=- Уничтожить церебралов з
 Param/Value/lib_AA0EBE8C_117C8AE3=Рой зергов.<n/>Высокая орбита Айура, <n/>родной планеты протоссов.<n/>
 Param/Value/lib_AA0EBE8C_11D444AA=Все герои должны выжить
 Param/Value/lib_AA0EBE8C_11F78C0D=Очередь
-Param/Value/lib_AA0EBE8C_12267408=1st Colonial Infantry Regiment
+Param/Value/lib_AA0EBE8C_12267408=(!ZZZ)1st Colonial Infantry Regiment
 Param/Value/lib_AA0EBE8C_125B05BD=<c val="98FB98">Additional Models<n/><n/>Project Koprulu<n/>Solstice<n/>Alevice<n/>Kat<n/><n/>Installer and Launcher<n/><n/>7thAce<n/>
 Param/Value/lib_AA0EBE8C_126DAF66=<s val="SCR_OptionsPanelHeader">Закадровые голоса</s>
 Param/Value/lib_AA0EBE8C_1281C426=<s val="ModLeftSize16Bold">ЗАДАНИЕ:</s><n/><s val="ModLeftSize40Bold">КЕЛ-МОРИЙСКИЙ СИНДИКАТ</s>
@@ -2721,8 +2721,8 @@ Param/Value/lib_AA0EBE8C_2F35BB20=<s val="CreditsHeading"><c val="FF0000"><c val
 Param/Value/lib_AA0EBE8C_2F3DD9DA=Сохранить боеспособность Феникса до конца миссии.
 Param/Value/lib_AA0EBE8C_2F951903=<c val="FFFF00">Новая боевая единица</c>:<n/>Огнемётчик 
 Param/Value/lib_AA0EBE8C_2FE62F44=- Доставить Дюрана к пси-аннулятору <n/>- Дюран должен выжить
-Param/Value/lib_AA0EBE8C_301DD449=Дюран возрождается
-Param/Value/lib_AA0EBE8C_3065E29A=<c val="00FF00">Вы получили дополнительную ядерную ракету.</c>
+Param/Value/lib_AA0EBE8C_301DD449=(!ZZZ)Дюран возрождается
+Param/Value/lib_AA0EBE8C_3065E29A=(!ZZZ)<c val="00FF00">Вы получили дополнительную ядерную ракету.</c>
 Param/Value/lib_AA0EBE8C_30710D17=<c val="9DFF9D">ПЕРЕДАЧА ФАЙЛОВ</c>
 Param/Value/lib_AA0EBE8C_3087815E=Кимерийские пираты, полуразрушенный научный комплекс
 Param/Value/lib_AA0EBE8C_30D5FFF8=+1 Граната
@@ -2763,7 +2763,7 @@ Param/Value/lib_AA0EBE8C_36237A40=Тайное собрание наёмнико
 Param/Value/lib_AA0EBE8C_36667476=<s val="AA_MissionList_T">Лаунчер кампании «Возмездие»</s>
 Param/Value/lib_AA0EBE8C_36704730=ЗЕРГ x07: "Паутина"
 Param/Value/lib_AA0EBE8C_369A2C83=Доставить четырёх медиков к Сверхразуму
-Param/Value/lib_AA0EBE8C_369F6BEC=Destroy Enemy Command Centers to Receive Reinforcements.
+Param/Value/lib_AA0EBE8C_369F6BEC=(!ZZZ)Destroy Enemy Command Centers to Receive Reinforcements.
 Param/Value/lib_AA0EBE8C_36C6E946=<c val="FFFF00">Планета</c><n/>
 Param/Value/lib_AA0EBE8C_36E4C53A=Колония Чау-Сара
 Param/Value/lib_AA0EBE8C_376A30F3=<c val="FFFF00">Элитный зерг:</c><n/>Пожиратель
@@ -2804,7 +2804,7 @@ Param/Value/lib_AA0EBE8C_3C72B2FA=Колония Мар-Сара
 Param/Value/lib_AA0EBE8C_3C889116=Фениксу, Рейнору и сторонникам Тассадара удалось уйти от войск Конклава, а тёмным тамплиерам — скрыться во время неразберихи.
 Param/Value/lib_AA0EBE8C_3CB55A19=Протекторат протоссов
 Param/Value/lib_AA0EBE8C_3CB76548=<c val="FFFF00">Опустошители</c> можно построить на <c val="FFFF00">заводе робототехники</c>.
-Param/Value/lib_AA0EBE8C_3CBC5FC0=Керриган возрождается
+Param/Value/lib_AA0EBE8C_3CBC5FC0=(!ZZZ)Керриган возрождается
 Param/Value/lib_AA0EBE8C_3CE1148E=Храм активирован.
 Param/Value/lib_AA0EBE8C_3CE52C06=Главный кластер улья, Сверхразум
 Param/Value/lib_AA0EBE8C_3CEA5DF9=<c val="98FB98">дополнительная музыка:<n/><n/>"Trainstation PT.2", "Guard Down", "Half-Life 2 Song 19" от Kelly Bailey <n/>(The Orange Box Original Soundtrack)<n/><n/>"The Maw", "Under Cover of Night" от Martin O'Donnell & Michael Salvatori <n/>(Halo Original Soundtrack)<n/><n/>"Chapel of Evil" от Russell Shaw<n/>(Fable: The Lost Chapters Original Soundtrack) </c>
@@ -2939,7 +2939,7 @@ Param/Value/lib_AA0EBE8C_4E4FBBD9=через три дня
 Param/Value/lib_AA0EBE8C_4E6168A0=<c val="98FB98">Спасибо Bizzar Bizzar за тестирование</c>
 Param/Value/lib_AA0EBE8C_4EAD6544=Геостационарная орбита над планетой Чар
 Param/Value/lib_AA0EBE8C_4F01253E=<c val="6513EC"><c val="FF0000"></c>ВНИМАНИЕ: Керриган была тяжело ранена. Она переместилась к ближайшему кластеру улья, во время восстановления она уязвима.</c>
-Param/Value/lib_AA0EBE8C_4F039C58=<s val="SCR_OptionsTitle">BRUTAL DIFFICULTY</s>
+Param/Value/lib_AA0EBE8C_4F039C58=(!ZZZ)<s val="SCR_OptionsTitle">BRUTAL DIFFICULTY</s>
 Param/Value/lib_AA0EBE8C_4F45F84C=<c val="FFFF00">Торраск</c> — самый мощный из всех фенотипов зергов. Их толстые панцири делают их практически невосприимчивыми к пулям, а массивные клинки не имеют равных в наземном бою. Были подтверждены слухи, что церебралы способны создавать этих существ, но лишь немногие из них могут себе это позволить.
 Param/Value/lib_AA0EBE8C_4F8F5D60=СОВЕТ: <n/> Вы можете выбрать несколько единиц, зажав левую кнопку мыши <n/> и обведя рамку вокруг них. <n/><n/> Кроме того, вы можете зажать CTRL и нажать <n/> на единицу, чтобы выбрать несколько единиц этого типа.
 Param/Value/lib_AA0EBE8C_4FA79D3C=<s val="AA_MissionList_T">Терраны 3. Игра с огнём</s>
@@ -2986,7 +2986,7 @@ Param/Value/lib_AA0EBE8C_554FB212=ПРОТОССЫ x8: "Обратный отс�
 Param/Value/lib_AA0EBE8C_55C85663=Флагман ОЗД «Александр», <n/>высокая орбита Браксиса, <n/>периферийного аванпоста Доминиона.
 Param/Value/lib_AA0EBE8C_55E69096=Комплекс Фланнум — Колония Чау-Сара
 Param/Value/lib_AA0EBE8C_56235D20=Основной кластер улья Керриган
-Param/Value/lib_AA0EBE8C_56A68EAE=Xel'Naga Temple Site
+Param/Value/lib_AA0EBE8C_56A68EAE=(!ZZZ)Xel'Naga Temple Site
 Param/Value/lib_AA0EBE8C_56BE727D=Единицы терранов
 Param/Value/lib_AA0EBE8C_56D0E6E6=<s val="SCR_OptionsPanelHeader">Всплывающие <n/>окна</s>
 Param/Value/lib_AA0EBE8C_56D4CFD0=Через тринадцать часов после эвакуации Мар-Сары боевые корабли протоссов вышли на орбиту колонии и нанесли массированный бомбовый удар.<n/><n/>Вся жизнь на поверхности была уничтожена.
@@ -3092,7 +3092,7 @@ Param/Value/lib_AA0EBE8C_6246B201=Рестарт
 Param/Value/lib_AA0EBE8C_6270FA38=ТЕРРАНЫ x03: "Руины Тарсониса"
 Param/Value/lib_AA0EBE8C_628B9269=<s val="CreditsHeading"><c val="FF0000">Дюран был убит...</c></s>
 Param/Value/lib_AA0EBE8C_62E0FDA9=Рой необходимо контролировать. Создайте надзирателей, чтобы контролировать больше войск.
-Param/Value/lib_AA0EBE8C_62EA6BF3=<s val="SCR_OptionsLabelLeft">Overmind's Zerg</s>
+Param/Value/lib_AA0EBE8C_62EA6BF3=(!ZZZ)<s val="SCR_OptionsLabelLeft">Overmind's Zerg</s>
 Param/Value/lib_AA0EBE8C_62FA1981=Готовность храма
 Param/Value/lib_AA0EBE8C_635C7D0E=<s val="MRScoreScreenTitle">Построено</s>
 Param/Value/lib_AA0EBE8C_63618D40=Керриган должна выжить
@@ -3113,7 +3113,7 @@ Param/Value/lib_AA0EBE8C_65624479=Город Тарсонис, недалеко 
 Param/Value/lib_AA0EBE8C_65ABA5F5=- Заразить три поселения с помощью Стукова.<n/>- Стуков должен выжить.
 Param/Value/lib_AA0EBE8C_65B0732E=<s val="ModLeftSize16Bold">ЗАДАНИЕ:</s><n/><s val="ModLeftSize40Bold">НАЁМНИКИ</s>
 Param/Value/lib_AA0EBE8C_65B68EC5=<s val="CreditsHeading"><c val="FF0000">Хризалида была уничтожена.</c></s>
-Param/Value/lib_AA0EBE8C_65B8E464=Colonial supply base
+Param/Value/lib_AA0EBE8C_65B8E464=(!ZZZ)Colonial supply base
 Param/Value/lib_AA0EBE8C_65BB7D55=- Создать омут рождения<n/>- Создать пещеру гидралисков<n/>- Защитить хризалиду
 Param/Value/lib_AA0EBE8C_65C7DD18=<s val="SCR_OptionsLabelLeft">Ядерное оружие</s>
 Param/Value/lib_AA0EBE8C_65E66B0E=Экспедиционный флот<n/>Высокая орбита Шакураса<n/>12 часов спустя
@@ -3138,7 +3138,7 @@ Param/Value/lib_AA0EBE8C_693A7C60=Судьи взяли Тассадара по�
 Param/Value/lib_AA0EBE8C_694AC77B=Планетарная оборона Доминиона
 Param/Value/lib_AA0EBE8C_69A9151F=Сохранить боеспособность Рашжагал до конца миссии
 Param/Value/lib_AA0EBE8C_69CABC7B=пользовательские 3D модели и текстуры 
-Param/Value/lib_AA0EBE8C_69CBAC26=<c val="FF0000">Внимание:</c> Темные тамплиеры могут навсегда убить Керриган.
+Param/Value/lib_AA0EBE8C_69CBAC26=(!ZZZ)<c val="FF0000">Внимание:</c> Темные тамплиеры могут навсегда убить Керриган.
 Param/Value/lib_AA0EBE8C_69CDD911=<s val="ModLeftSize16Bold">ЗАДАНИЕ:</s><n/><s val="ModLeftSize40Bold">НАСЛЕДИЕ ЗЕЛ-НАГА</s>
 Param/Value/lib_AA0EBE8C_6A095056=<c val="FFFF00">Новая боевая единица:</c><n/>Муталиск
 Param/Value/lib_AA0EBE8C_6A0D6EBF=<s val="SCR_OptionsTitle">ОПЦИИ</s>
@@ -3159,7 +3159,7 @@ Param/Value/lib_AA0EBE8C_6C8F4D5F=<s val="SCR_OptionsLabelLeft">Скорость
 Param/Value/lib_AA0EBE8C_6CA6595C=<c val="FFFF00">Тёмные тамплиеры </c> — элитные воины. Они используют тёмную энергию Пустоты, которая позволяет им становиться невидимыми. Вооружены мощными клинками искривления, очень опасны в бою и способны нанести врагам значительный урон.
 Param/Value/lib_AA0EBE8C_6CF9E903=<s val="AA_MissionList_T">Эпилог 2. Пелена забвения</s>
 Param/Value/lib_AA0EBE8C_6D1E0E7B=Столица тёмных тамплиеров, Талематрос — Шакурас
-Param/Value/lib_AA0EBE8C_6D575610=Confederate Planetary HQ "Jacobs Installation"
+Param/Value/lib_AA0EBE8C_6D575610=(!ZZZ)Confederate Planetary HQ "Jacobs Installation"
 Param/Value/lib_AA0EBE8C_6D704DC7=Используя медика, ввести нанотехнологическую сыворотку
 Param/Value/lib_AA0EBE8C_6D7A96DD=На высоком уровне сложности после уничтожения реактора наземные единицы будут удалены. Авиация останется доступной.
 Param/Value/lib_AA0EBE8C_6D7BF519=<s val="AA_MissionList_T">Терраны03. Резня на Станции-12</s>
@@ -3181,7 +3181,7 @@ Param/Value/lib_AA0EBE8C_6F8161D5=КАМПАНИЯ ТЕРРАНОВ: ВОССТ�
 Param/Value/lib_AA0EBE8C_6FAADF62=<s val="AA_Header1"><c val="80FF80">Эпизод I</c></s>
 Param/Value/lib_AA0EBE8C_6FAFEC6F= 9. Инсуррекция
 Param/Value/lib_AA0EBE8C_70206C87=Карта от Gradius. Отзывы отправляйте на grad42@gmail.com.
-Param/Value/lib_AA0EBE8C_7084AC4B=<s val="SCR_OptionsLabelLeft">Khalai Protoss</s>
+Param/Value/lib_AA0EBE8C_7084AC4B=(!ZZZ)<s val="SCR_OptionsLabelLeft">Khalai Protoss</s>
 Param/Value/lib_AA0EBE8C_70940894=<s val="Lost"><c val="80FF80">«Люблю хорошую пустыню. Есть что-то, что западает в душу, когда озираешь громадные безжизненные пространства пустошей. Раскалённый ветер уносит все заботы этого мира, оставляя лишь освещённую лучами солнца хрупкую изнанку души. Это потрясающее ощущение. А, ну и конечно, отменный загар, на который так ведутся тёлки.»<n/><n/>    — Грегори Рэй, писатель и самопровозглашённый «Звёздный Гуру».</c></s>
 Param/Value/lib_AA0EBE8C_70A70BC1=Уничтожить колонии зергов
 Param/Value/lib_AA0EBE8C_70C05F3D= Королева Роя (Новичок)
@@ -3326,7 +3326,7 @@ Param/Value/lib_AA0EBE8C_82A02459=Уничтожить протоссов
 Param/Value/lib_AA0EBE8C_82A9FA45=<c val="98FB98">Дополнительные 3D модели и текстуры от<n/><n/>GhostNova, Thrikodias, GnaReffotsirk,<n/>XibadivS, Cacho56, SoulFilcher,<n/>Snowflake Entertainment / Project Revolution,<n/>buhhy, TaylorMouse, ZeShmoutt, <n/>Hammer107, Kailniris2, Kanitala, <n/>MSeverns, Skulluse, SyCoAttack, <n/>TooMuchTuch, Delphinium1987, Frankiealaplaaja, <n/>Kostyarik, Re1deR, Gradius, Jones
 Param/Value/lib_AA0EBE8C_82B38166=<s val="CreditsHeading"><c val="FF0000">Норад II был уничтожен... </c></s>
 Param/Value/lib_AA0EBE8C_82BA4D6F=Уничтожить колонию ксеноморфов
-Param/Value/lib_AA0EBE8C_82BFE1ED=<s val="AllianceGreen">You have chosen brutal difficulty. Be advised: this difficulty setting is experimental and should be considered only by veterans of the game. This is meant to be the ultimate challenge and you should be prepared for an unforgiving experience.<n/><n/>You have been warned.</c>
+Param/Value/lib_AA0EBE8C_82BFE1ED=(!ZZZ)<s val="AllianceGreen">You have chosen brutal difficulty. Be advised: this difficulty setting is experimental and should be considered only by veterans of the game. This is meant to be the ultimate challenge and you should be prepared for an unforgiving experience.<n/><n/>You have been warned.</c>
 Param/Value/lib_AA0EBE8C_82CF1123=Доставить Зератула к вратам искривления
 Param/Value/lib_AA0EBE8C_82DA2FFA=<s val="AA_MissionList_T">Терраны01. На поле битвы</s>
 Param/Value/lib_AA0EBE8C_82F2EFB2=<s val="AA_MissionList_T">Зерги03. Путь к победе</s>
@@ -3344,7 +3344,7 @@ Param/Value/lib_AA0EBE8C_83D29D35=Храм Зел-Нага
 Param/Value/lib_AA0EBE8C_83E32126=<s val="ArmoryDescription">Братья терраны.<n/><n/>Обращаюсь к вам в свете недавних событий, чтобы воззвать к рассудку. Пусть никто из людей не пренебрегает опасностями нашего времени. Пока мы сражаемся друг с другом, раздробленные мелкими дрязгами нашей общей истории, на нас катится прибой великого конфликта. И этот прибой грозит сломать всё, чего мы достигли. Настало время нам — как группам людей, так и отдельным личностям — оставить в стороне давнюю вражду и объединиться.</s>
 Param/Value/lib_AA0EBE8C_8418F5F2=Наблюдатель
 Param/Value/lib_AA0EBE8C_844A0395=<s val="AA_MissionList_P"> 4. Кристалл Урадж</s>
-Param/Value/lib_AA0EBE8C_84C9B15B=<s val="StandardMediumButtonGreen">Brood War</s>
+Param/Value/lib_AA0EBE8C_84C9B15B=(!ZZZ)<s val="StandardMediumButtonGreen">Brood War</s>
 Param/Value/lib_AA0EBE8C_84EC6645=<s val="SCR_OptionsPanelHeader">Модели</s>
 Param/Value/lib_AA0EBE8C_84F29F0A=Флот протоссов на низкой орбите Браксиса.
 Param/Value/lib_AA0EBE8C_850690F7=Высокая орбита Корхала, главной планеты ОЗД.
@@ -3367,7 +3367,7 @@ Param/Value/lib_AA0EBE8C_886387E5=<s val="InfoPaneUnitInfo_Terr"><c val="FFFFFF"
 Param/Value/lib_AA0EBE8C_886A096F= Командор (эксперт)
 Param/Value/lib_AA0EBE8C_88A95980=Защитить хризалиду
 Param/Value/lib_AA0EBE8C_88D1CE03=Командный флот ОЗД
-Param/Value/lib_AA0EBE8C_88F92F64=Mar Sara wasteland
+Param/Value/lib_AA0EBE8C_88F92F64=(!ZZZ)Mar Sara wasteland
 Param/Value/lib_AA0EBE8C_890AE52E=Авианосец «Гантритор»<n/><n/>Родина Протоссов — Айур
 Param/Value/lib_AA0EBE8C_89127815=- Уничтожить базу протоссов за 30 минут <n/>- Взять в плен матриарха и Зератула
 Param/Value/lib_AA0EBE8C_89969006=Сыны Корхала
@@ -3453,7 +3453,7 @@ Param/Value/lib_AA0EBE8C_9693F4C8=Флот матриарха
 Param/Value/lib_AA0EBE8C_969C9C78=<c val="FFFF00">Новая единица </c><n/>
 Param/Value/lib_AA0EBE8C_96B58B07=<s val="AA_MissionList_T">Протоссы 5a. Вызов</s>
 Param/Value/lib_AA0EBE8C_96C9D93F=<s val="AA_MissionList_T">Протоссы03. Ослабление агрессоров</s>
-Param/Value/lib_AA0EBE8C_96EBB771=(Don't listen to her! We need 15,000 minerals.)
+Param/Value/lib_AA0EBE8C_96EBB771=(!ZZZ)(Don't listen to her! We need 15,000 minerals.)
 Param/Value/lib_AA0EBE8C_9703D912=База корпуса «Альфа»
 Param/Value/lib_AA0EBE8C_9731779F=Тёмный архонт
 Param/Value/lib_AA0EBE8C_973444A7=<s val="AA_MissionList_T"> 10. Удар молота</s>
@@ -3488,12 +3488,12 @@ Param/Value/lib_AA0EBE8C_9B28E337=<s val="AchievementFrameName">Команда M
 Param/Value/lib_AA0EBE8C_9B68FA39=Сохранить боеспособность Феникса до конца миссии.
 Param/Value/lib_AA0EBE8C_9B8FA270=<c val="FFFF00">Новая боевая единица</c>: Арбитр
 Param/Value/lib_AA0EBE8C_9BC743A9=Вам предстоит вторгнуться в пространство Доминиона и свергнуть его диктатора, императора Менгска.
-Param/Value/lib_AA0EBE8C_9BDAC2A1=<s val="Warning">Just kidding!</s>
+Param/Value/lib_AA0EBE8C_9BDAC2A1=(!ZZZ)<s val="Warning">Just kidding!</s>
 Param/Value/lib_AA0EBE8C_9BE72F18=Вскоре после падения Тарсониса, главной планеты терранов, основные силы флотилии протоссов покинули сектор.
-Param/Value/lib_AA0EBE8C_9C0BCBE8=New Sydney
+Param/Value/lib_AA0EBE8C_9C0BCBE8=(!ZZZ)New Sydney
 Param/Value/lib_AA0EBE8C_9C63CB64=<c val="FFFF00"> Научное судно </c>является единицей поддержки. Оно способно <c val="FFFF00"> обнаружить скрытые единицы </c>, такие как вражеские «миражи». Также оно имеет способности:<n/><c val="FFFF00">«Защитная Матрица» </c>, которая может защитить дружественную единицу от повреждений.  <n/><c val="FFFF00"> «Облучение» </c>, которое наносит крупный урон всем биологическим единицам.<n/><c val="FFFF00">«Волна ЭМИ»</c>, которая аннулирует энергетические щиты и энергию. <n/> Научное судно можно построить в<c val="FFFF00"> космопорте </c>.
 Param/Value/lib_AA0EBE8C_9C7063AD=<s val="AA_MissionList_T">Протосс03a. Пещера зергов</s>
-Param/Value/lib_AA0EBE8C_9C890AFB=<c val="FF0000">FISSION MAILED...</c>
+Param/Value/lib_AA0EBE8C_9C890AFB=(!ZZZ)<c val="FF0000">FISSION MAILED...</c>
 Param/Value/lib_AA0EBE8C_9C8E152C=НОВОЕ ЗАДАНИЕ:<n/><n/>Добраться до ангара.
 Param/Value/lib_AA0EBE8C_9C93E893=<c val="FFFF00">Высший тамплиер </c> — элитный воин с развитыми псионными способностями. Его основное оружие <c val="FFFF00">«Псионный шторм»</c>, разрушительный вихрь энергии, который наносит большой урон всем единицам, попавшим в указанную область. Также может использовать способность <c val="FFFF00">«Иллюзия»</c>, которая создаёт две иллюзии указанной единицы. Два высших тамплиера могут слиться в <c val="FFFF00">архонта</c>. <n/>Высшего тамплиера можно призвать во <c val="FFFF00">вратах</c>.
 Param/Value/lib_AA0EBE8C_9CA5B85E=<s val="SCR_OptionsLabelLeft">Тайлсет Нового Геттисберга</s>
@@ -3528,10 +3528,10 @@ Param/Value/lib_AA0EBE8C_9F4E148F=<c val="98FB98">дополнительная �
 Param/Value/lib_AA0EBE8C_9F67CAFA=<s val="ModLeftSize16Bold">ЗАДАНИЕ:</s><n/><s val="ModLeftSize40Bold">АГЕНТ РОЯ</s>
 Param/Value/lib_AA0EBE8C_9FB83B44=Уничтожить пси-аннулятор
 Param/Value/lib_AA0EBE8C_9FE5A188=<s val="AA_MissionList_T">Зерги10. Затишье перед бурей</s>
-Param/Value/lib_AA0EBE8C_9FF6863B=Brutal
-Param/Value/lib_AA0EBE8C_A075B4BA=<c val="ffffff">Weather: </c><n/>Determines the number of maps that include ambient weather effects.<n/><c val="FF0000">(Requires mid to high level video settings)</c>
+Param/Value/lib_AA0EBE8C_9FF6863B=(!ZZZ)Brutal
+Param/Value/lib_AA0EBE8C_A075B4BA=(!ZZZ)<c val="ffffff">Weather: </c><n/>Determines the number of maps that include ambient weather effects.<n/><c val="FF0000">(Requires mid to high level video settings)</c>
 Param/Value/lib_AA0EBE8C_A095FD23=Мар-Сара
-Param/Value/lib_AA0EBE8C_A09F404B=<c val="9FFF9F">You will never see me again, Helena. Tell our children that I love them, and that their father died in defense of their future.<n/><n/>Au revoir.</c>
+Param/Value/lib_AA0EBE8C_A09F404B=(!ZZZ)<c val="9FFF9F">You will never see me again, Helena. Tell our children that I love them, and that their father died in defense of their future.<n/><n/>Au revoir.</c>
 Param/Value/lib_AA0EBE8C_A0B59FF6=<s val="ModLeftSize16Bold">ЗАДАНИЕ:</s><n/><s val="ModLeftSize40Bold">КРИСТАЛЛ УРАДЖ</s>
 Param/Value/lib_AA0EBE8C_A0F56177=Кошмар! (Безумец)
 Param/Value/lib_AA0EBE8C_A1349CE1=<c val="9DFF9D">АВТОМАТИЧЕСКАЯ СИСТЕМА БЕЗОПАСНОСТИ ДЕАКТИВИРОВАНА</c>
@@ -3552,7 +3552,7 @@ Param/Value/lib_AA0EBE8C_A2FD654F=Примечание: Ракетные тур�
 Param/Value/lib_AA0EBE8C_A3B25F66=<s val="AA_MissionList_Z"> 7. Паутина</s>
 Param/Value/lib_AA0EBE8C_A40CC077=Керриган осталась на Чаре, чтобы выследить и уничтожить оставшихся протоссов, и теперь рыскает по пылающим пустошам планеты в поисках своей неуловимой добычи.
 Param/Value/lib_AA0EBE8C_A46120DA=Сбежавший зерг
-Param/Value/lib_AA0EBE8C_A4679686= has been severely wounded and will be unavailable for the rest of the mission.
+Param/Value/lib_AA0EBE8C_A4679686=(!ZZZ)has been severely wounded and will be unavailable for the rest of the mission.
 Param/Value/lib_AA0EBE8C_A4ADF384=Все герои должны выжить
 Param/Value/lib_AA0EBE8C_A4AE42FA=- Защитить хризалиду<n/>- Уничтожить терранов
 Param/Value/lib_AA0EBE8C_A4BD74C9=Главный улей.<n/>Планета Чар.
@@ -3597,7 +3597,7 @@ Param/Value/lib_AA0EBE8C_A90D02B1=<c val="FFFF00">Маскировка</c>
 Param/Value/lib_AA0EBE8C_A9765113=Расположение пси-аннулятора
 Param/Value/lib_AA0EBE8C_A98BB957=Окрестность города Лос-Андарес — колония Чау-Сара
 Param/Value/lib_AA0EBE8C_A9D8BC43=ЭПИЛОГ<n/><n/>После успешной военной кампании ОЗД стал доминирующей силой в секторе Копрулу. Благодаря запущенной пропаганде «Галактическая война за господство» удалось получить реальную поддержку, даже от своих бывших недоброжелателей.<n/><n/>Проект «Чёрный флаг» стал успешным. Совместно с псиониками удалось повлиять на зарождающийся Сверхразум. Тем не менее, ОЗД, вынужденный защищать Браксис, Чар и Корхал, нажил множество врагов, и его силы были на пределе.<n/>
-Param/Value/lib_AA0EBE8C_A9FE1E4B=<c val="00FF00">Tip: </c> You need 2 pilots to capture each battlecruiser. You can select your pilots using the "idle worker" command.
+Param/Value/lib_AA0EBE8C_A9FE1E4B=(!ZZZ)<c val="00FF00">Tip: </c> You need 2 pilots to capture each battlecruiser. You can select your pilots using the "idle worker" command.
 Param/Value/lib_AA0EBE8C_AA2A3E1D=<s val="AA_MissionList_T">Видео: Война зергов</s>
 Param/Value/lib_AA0EBE8C_AA3ED49D=<c val="FFFF00">Новая боевая единица:</c><n/>Авианосец
 Param/Value/lib_AA0EBE8C_AA5C19DE=<c val="9DFF9D">ДОСТУП К СЕТИ ДОМИНИОНА</c>
@@ -3693,7 +3693,7 @@ Param/Value/lib_AA0EBE8C_B520987C=Долетев до пограничной к�
 Param/Value/lib_AA0EBE8C_B56910B8=- Выбраться из тюрьмы «Фонда Мёбиуса».<n/>- Сбежать со «Станции Скайгерр».<n/>- Стуков должен выжить.
 Param/Value/lib_AA0EBE8C_B5759FEF=Бывший научно-исследовательский комплекс Доминиона — Тарсонис
 Param/Value/lib_AA0EBE8C_B5C6F745=Не позволить тёмным тамплиерам сбежать
-Param/Value/lib_AA0EBE8C_B62298FE=Duran is able to revive just like Kerrigan. As always, beware of Dark Templars who can permanently kill him.
+Param/Value/lib_AA0EBE8C_B62298FE=(!ZZZ)Duran is able to revive just like Kerrigan. As always, beware of Dark Templars who can permanently kill him.
 Param/Value/lib_AA0EBE8C_B650B9F0=Колониальное ополчение
 Param/Value/lib_AA0EBE8C_B665E8DB=<s val="AA_MissionList_T">Зерги09. Вторжение терран</s>
 Param/Value/lib_AA0EBE8C_B6A70EAA=Флот вершителя
@@ -3702,7 +3702,7 @@ Param/Value/lib_AA0EBE8C_B6BD9F83=Гнездо Сверхразума — Чар
 Param/Value/lib_AA0EBE8C_B6EF0394=Заполонённое зергами строение Доминиона
 Param/Value/lib_AA0EBE8C_B704641A=Корхал-IV
 Param/Value/lib_AA0EBE8C_B719BDAA=Гарнизон ОЗД
-Param/Value/lib_AA0EBE8C_B725C17C=In certain indoor missions, all units will be scaled up. They also gain +2 to sight and weapon range, as well as +25% movement speed.
+Param/Value/lib_AA0EBE8C_B725C17C=(!ZZZ)In certain indoor missions, all units will be scaled up. They also gain +2 to sight and weapon range, as well as +25% movement speed.
 Param/Value/lib_AA0EBE8C_B736EE00=Убить всех учёных ОЗД
 Param/Value/lib_AA0EBE8C_B7651F2C=<s val="AA_MissionList_P"> 5. Битва на Браксисе</s>
 Param/Value/lib_AA0EBE8C_B7765785=<s val="AA_MissionList_Z"> 9. Вторжение на Айур</s>
@@ -3836,7 +3836,7 @@ Param/Value/lib_AA0EBE8C_CAAC2C12=Антига Прайм
 Param/Value/lib_AA0EBE8C_CAAE4E3A=<s val="ArmoryDescription">Надвигается война, которую невозможно выиграть, и у нас есть все основания искать убежища, иначе мы окажемся стёрты с лица земли. Конфедерации больше не существует. Какое бы подобие единства и защиты она не обеспечивала когда-то, это лишь фантом... лишь воспоминания. И к кому вы обратитесь за защитой теперь, перед лицом неистовствующих врагов?</s></s>
 Param/Value/lib_AA0EBE8C_CABE0F11=ТЕРРАНЫ 1: "Пустошь"
 Param/Value/lib_AA0EBE8C_CACA3533=<s val="AA_MissionList_P"> 8. Обратный отсчёт</s>
-Param/Value/lib_AA0EBE8C_CB13F27E=Hero units in Real Scale
+Param/Value/lib_AA0EBE8C_CB13F27E=(!ZZZ)Hero units in Real Scale
 Param/Value/lib_AA0EBE8C_CB1F50DF=Местоположение кристалла Урадж
 Param/Value/lib_AA0EBE8C_CB5A6390=«Стервятник»
 Param/Value/lib_AA0EBE8C_CB797F34=Отключить систему самоуничтожения пси-аннулятора в течение 15 минут
@@ -4004,7 +4004,7 @@ Param/Value/lib_AA0EBE8C_E07C8042=<s val="AA_MissionList_T">Протоссы01-2
 Param/Value/lib_AA0EBE8C_E099E2EE=Рождённый жертвой двух <c val="FFFF00">высших тамплиеров</c>, <c val="FFFF00">архонт</c> является воплощением силы протоссов. Он защищён мощными щитами и в бою излучает псионную волну, разрывая свою цель и тех, кто стоял рядом с ней.
 Param/Value/lib_AA0EBE8C_E0ECA852=</s><s val="LoadingScreenMission">Корпусы «Альфа» и «Омега» Доминиона.<n/>Низкая орбита Айура.<n/>15 часов спустя.
 Param/Value/lib_AA0EBE8C_E0F8871F=<s val="SCR_OptionsPanelHeader">Звуковые эффекты</s>
-Param/Value/lib_AA0EBE8C_E11AE503=Protoss fleet, high orbit over the planet Char
+Param/Value/lib_AA0EBE8C_E11AE503=(!ZZZ)Protoss fleet, high orbit over the planet Char
 Param/Value/lib_AA0EBE8C_E11D6358=<s val="AA_MissionList_Z"> 2. Исход</s>
 Param/Value/lib_AA0EBE8C_E123AEC4=00:45 часов по местному времени
 Param/Value/lib_AA0EBE8C_E18C8C8B=<s val="SCR_OptionsLabelLeft">Значки</s>
@@ -4050,13 +4050,13 @@ Param/Value/lib_AA0EBE8C_E67BCB16=Авианосец
 Param/Value/lib_AA0EBE8C_E6990968=<s val="Lost"><c val="80FF80">«Конфедерации больше не существует. Какое бы подобие единства и защиты она не обеспечивала когда-то, это лишь фантом... лишь воспоминания. И к кому вы обратитесь за защитой теперь, перед лицом неистовствующих врагов?»<n/><n/>    — Арктур Менгск.</c></s>
 Param/Value/lib_AA0EBE8C_E6B07D6E=Установите, чтобы герои (некоторые из них никогда не были играбельны) появлялись в миссиях, в которых они изначально не присутствовали в StarCraft и Brood War.
 Param/Value/lib_AA0EBE8C_E6BE7BE6=Покрытый пеплом Чар служит зергам главным штабом в секторе Копрулу. Вулканический ландшафт планеты испещрён колониями-ульями и изрезан лабиринтами туннелей, в которых роятся миллионы безжалостных зергов. <n/><n/>Планета Чар когда-то была одним из тринадцати главных миров Конфедерации, однако более известна как место расположения основного улья зергов. Глазам первооткрывателей Чар предстал суровой вулканической планетой, покрытой толстым слоем пепла, с едкой атмосферой. Со временем климатическая ситуация только ухудшилась из-за воздействия на Чар интенсивной радиации со стороны двух его подвижных звёзд — «карлика» класса VI F0 и звезды с переменной яркостью типа M8, вокруг которой вращается первая. Поскольку Чар движется по вытянутой орбите, при сближении с этими звёздами целые области на ближайшей к ним стороне поверхности планеты могут расплавиться. Однако за счёт охлаждения, вызванного быстрым движением Чара к дальним границам системы, где царят низкие температуры, в этих кипящих морях могут формироваться временные острова.
-Param/Value/lib_AA0EBE8C_E6FBAD1B=Indoor Mission Upscaling
+Param/Value/lib_AA0EBE8C_E6FBAD1B=(!ZZZ)Indoor Mission Upscaling
 Param/Value/lib_AA0EBE8C_E71FD09B=Форпост корпуса «Альфа»
 Param/Value/lib_AA0EBE8C_E7237795=ПРОТОССЫ 2: "В самое пекло"
 Param/Value/lib_AA0EBE8C_E73A6E8D=Выжившая экспедиция
 Param/Value/lib_AA0EBE8C_E75BBC55=Флагман ОЗД «Александр»<n/>над Дайларскими доками, <n/>периферийным коммерческим центром Доминиона.
 Param/Value/lib_AA0EBE8C_E762B06A=Установите, чтобы использовать другие варианты моделей для определённых единиц ОЗД.
-Param/Value/lib_AA0EBE8C_E77F44B3=low orbit over Char
+Param/Value/lib_AA0EBE8C_E77F44B3=(!ZZZ)low orbit over Char
 Param/Value/lib_AA0EBE8C_E78BA6BC=Королева
 Param/Value/lib_AA0EBE8C_E7C0D7C6=<c val="FFFF00">Новая боевая единица</c>:<n/>Медик
 Param/Value/lib_AA0EBE8C_E7CA90FB=чит активирован
@@ -4097,7 +4097,7 @@ Param/Value/lib_AA0EBE8C_EBE20F69=ЭПИЛОГ<n/><n/>Вскоре после п
 Param/Value/lib_AA0EBE8C_EC01E4F7=ПРОТОССЫ x6: "Возвращение на Чар"
 Param/Value/lib_AA0EBE8C_EC281CE5=Оккупированный город, Августград — Корхал
 Param/Value/lib_AA0EBE8C_EC645BD5=<c val="98FB98">StarCraft: Mass Recall<n/>Эпизод III — Катастрофа<n/><n/>Оригинальная кампания от Blizzard Entertainment<n/><n/>Ремейк от <n/><n/>christdaugherty<n/>Telenil<n/>Jimm<n/>Jones<n/></c>
-Param/Value/lib_AA0EBE8C_EC716DE0=Both capital ship heroes must surive.
+Param/Value/lib_AA0EBE8C_EC716DE0=(!ZZZ)Both capital ship heroes must surive.
 Param/Value/lib_AA0EBE8C_EC7714C7=<s val="ModLeftSize16Bold">ЗАДАНИЕ:</s><n/><s val="ModLeftSize40Bold">ЦЕНА СВОБОДЫ</s>
 Param/Value/lib_AA0EBE8C_EC882215=Святилище кристалла Кайдарин
 Param/Value/lib_AA0EBE8C_EC9A0C7C=Стая Керриган<n/>Низкая орбита Слейна<n/>13 часов спустя
@@ -4232,7 +4232,7 @@ Param/Value/lib_AA0EBE8C_FE600E69=<s val="ModLeftSize16Bold">ЗАДАНИЕ:</s>
 Param/Value/lib_AA0EBE8C_FE995CA1=<s val="AA_Header1"><c val="80FF80">Дополнение</c></s>
 Param/Value/lib_AA0EBE8C_FED36776=Претор Феникс, герой и предводитель тамплиеров, погиб в бою.
 Param/Value/lib_AA0EBE8C_FEE6A8A1=<s val="CreditsHeading"><c val="FF0000">Тёмный тамплиер смог прорваться.</c></s>
-Param/Value/lib_AA0EBE8C_FEED6C0C=Sookdar's Point
+Param/Value/lib_AA0EBE8C_FEED6C0C=(!ZZZ)Sookdar's Point
 Param/Value/lib_AA0EBE8C_FF076649=Перехватчики
 Param/Value/lib_AA0EBE8C_FF43C9DA=<s val="ModLeftSize16Bold">ЗАДАНИЕ:</s><n/><s val="ModLeftSize40Bold">ПОВОРОТ</s>
 Param/Value/lib_AA0EBE8C_FF44EAC4=ТЕРРАНЫ 7: "Туз в рукаве"
@@ -4415,13 +4415,13 @@ UI/Voices=Голоса
 UI/addon=Добавить
 Unit/Category/ProtossCharacter=Персонажи протоссов
 Unit/Category/ProtossStory=История протоссов
-Unit/Category/ProtossUnits=Единицы протоссов
+Unit/Category/ProtossUnits=(!ZZZ)Единицы протоссов
 Unit/Category/TerranCharacter=Персонажи терранов
 Unit/Category/ZergCharacter=Персонажи зергов
 Unit/Category/ZergUnits=Единицы зергов
 Unit/LifeArmorName/BattlecruiserShield=Защитная матрица
-Unit/LifeArmorName/BorgAirArmor=Borg Plating
-Unit/LifeArmorName/None=Пехотная броня терранов
+Unit/LifeArmorName/BorgAirArmor=(!ZZZ)Borg Plating
+Unit/LifeArmorName/None=(!ZZZ)Пехотная броня терранов
 Unit/LifeArmorName/TerranInfantryArmor=Пехотная броня терранов
 Unit/LifeArmorName/TerranVehiclePlating=Обшивка наземной техники терранов
 Unit/LifeArmorName/ZergBuildingArmor=Броня строений зергов
