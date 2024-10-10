@@ -16,6 +16,10 @@ All notable changes to this project will be documented in this file.
 
 - *(file-3)* Исправить перевод 2 строк в FILE 3
 
+### 🎨 Styling
+
+- *(file-3)* Подправить сломанный порядок строк
+
 ### ⚙️ Miscellaneous Tasks
 
 - Добавить бонус-помощь для FILE 2
