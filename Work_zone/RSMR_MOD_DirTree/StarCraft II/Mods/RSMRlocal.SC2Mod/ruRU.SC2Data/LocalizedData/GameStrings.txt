@@ -2424,8 +2424,8 @@ Param/Value/lib_AA0EBE8C_0691281A=<s val="SCR_OptionsPanelHeader">Эффекты
 Param/Value/lib_AA0EBE8C_06B288B1=<s val="ArmoryDescription">Специальная трансляция СНВ<n/><n/>Коронация Арктура I, императора Доминиона терранов.</s>
 Param/Value/lib_AA0EBE8C_06BF8A17=<s val="SCR_OptionsLabelLeft">Отключить</s>
 Param/Value/lib_AA0EBE8C_06DD77CB=<c val="FFFF00">Новая боевая единица</c>:<n/>Опустошитель
-Param/Value/lib_AA0EBE8C_07199753=Dark Templars posses energies that can nullify the Overmind's power to revive his servants. This power appears to work on Kerrigan's ressurection as well. As a result, Kerrigan will be unable to revive if she is killed by a Dark Templar, resulting in defeat. Be careful.
 Param/Value/lib_AA0EBE8C_06ED6EEE=Сохранить боеспособность Керриган до конца миссии
+Param/Value/lib_AA0EBE8C_07199753=Dark Templars posses energies that can nullify the Overmind's power to revive his servants. This power appears to work on Kerrigan's ressurection as well. As a result, Kerrigan will be unable to revive if she is killed by a Dark Templar, resulting in defeat. Be careful.
 Param/Value/lib_AA0EBE8C_076CFADF=Керриган
 Param/Value/lib_AA0EBE8C_07964D8B=<s val="AA_MissionList_T">Терраны01. Потеряные души</s>
 Param/Value/lib_AA0EBE8C_07CB9D8E=Пропустить обучение
