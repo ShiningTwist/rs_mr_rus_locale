@@ -11,6 +11,7 @@ All notable changes to this project will be documented in this file.
 - *(ui)* Перевести кнопку скрытия капиталок
 - *(ui)* ATTENTION перевести "keep X in the fight" строки
 - *(ui)* ATTENTION перевести строки с "Brutal"
+- *(file-2)* Перевести 51 строк в FILE 2
 
 ### 🐛 Bug Fixes
 
