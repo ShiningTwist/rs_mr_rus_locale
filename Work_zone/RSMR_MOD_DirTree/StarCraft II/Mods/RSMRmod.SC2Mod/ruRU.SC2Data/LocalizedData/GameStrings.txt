@@ -1660,7 +1660,7 @@ Param/Value/lib_9770F675_046A209A=<c val="C21B00">Not enough biomass found to ev
 Param/Value/lib_9770F675_048FA250= (EASY): <c val="17CB00">ACHIEVED! (+5 points)</c>
 Param/Value/lib_9770F675_04BE657A=Aldaris
 Param/Value/lib_9770F675_04F23AAC= biomass used!
-Param/Value/lib_9770F675_056518CA=Scoredebug
+Param/Value/lib_9770F675_056518CA=(!JJJ)Scoredebug
 Param/Value/lib_9770F675_0569A04E=: <c val="CB0E00">FAILED</c>
 Param/Value/lib_9770F675_05C694D7=- Save Protoss (Hellion)<n/>
 Param/Value/lib_9770F675_063E3178=<n/><n/>
@@ -1672,7 +1672,7 @@ Param/Value/lib_9770F675_07057FA4=<h/>Return to SCMR menu
 Param/Value/lib_9770F675_0758400E=<c val="C21B00">Not enough psi found to evolve!</c>
 Param/Value/lib_9770F675_075960D4= : <c val="CBC812">CHEATER!</c>
 Param/Value/lib_9770F675_07696DD7=<s val="CreditsHeading"><c val="FF8040">Kerrigan has evolved Psi to Level  
-Param/Value/lib_9770F675_076A2ED8=incrementing players
+Param/Value/lib_9770F675_076A2ED8=(!JJJ)incrementing players
 Param/Value/lib_9770F675_07CEA4FF=Upgrade Shadow Blade
 Param/Value/lib_9770F675_083FBB13=<s val="CreditsHeading"><c val="D72828">Lazarus Protocol ability is now available!</c></s>
 Param/Value/lib_9770F675_084FF647= (NORMAL): <c val="17CB00">ACHIEVED! (+10 points)</c>
@@ -1681,7 +1681,7 @@ Param/Value/lib_9770F675_093B166D=Those aren't farmers…they're Umojan scientis
 Param/Value/lib_9770F675_09531F4A=</c><c val="800080">Gains +600 maximum health, +500% life regeneration, +5 armor, Also gains improved health restore to yourself and allies around you for Mend.</c></s>
 Param/Value/lib_9770F675_09FC489F= Nightmare! (Insane)
 Param/Value/lib_9770F675_0A95FA6A=Ladranix
-Param/Value/lib_9770F675_0B023C09=bank saved
+Param/Value/lib_9770F675_0B023C09=(!JJJ)bank saved
 Param/Value/lib_9770F675_0B4E526D= Remaining)
 Param/Value/lib_9770F675_0B6DE582= (NORMAL): <c val="17CB00">ACHIEVED! (+10 points)</c>
 Param/Value/lib_9770F675_0B73D98F=15
@@ -1719,7 +1719,7 @@ Param/Value/lib_9770F675_11CD3AFF=Finish the mission on normal difficulty.
 Param/Value/lib_9770F675_1236EE08=: <c val="17CB00">ACHIEVED! (+15 points)</c>
 Param/Value/lib_9770F675_12669EB6=Quit
 Param/Value/lib_9770F675_126DE8F9=<s val="ABChoiceResearchPoints_Zerg"><c val="C0C0C0">Defense</c></s>
-Param/Value/lib_9770F675_12BF0692=AI Resource Reserves: 
+Param/Value/lib_9770F675_12BF0692=(!JJJ)AI Resource Reserves: 
 Param/Value/lib_9770F675_13283E84=- AI Time<n/>
 Param/Value/lib_9770F675_1377AFEE= : <c val="CBC812">CHEATER!</c>
 Param/Value/lib_9770F675_13B35C44=<c val="022CA8">Nerazim Cloak Upgraded!</c>
@@ -1729,8 +1729,8 @@ Param/Value/lib_9770F675_14393C89=</s>
 Param/Value/lib_9770F675_14601309=Complete the mission. (Easy/Norm)
 Param/Value/lib_9770F675_14821F00= Mojo (Hard)
 Param/Value/lib_9770F675_14C09DAD=<n/><n/>
-Param/Value/lib_9770F675_14D9C0F8=Sending AI wave with unit count 
-Param/Value/lib_9770F675_15207F35=progress saved
+Param/Value/lib_9770F675_14D9C0F8=(!JJJ)Sending AI wave with unit count 
+Param/Value/lib_9770F675_15207F35=(!JJJ)прогресс сохранён
 Param/Value/lib_9770F675_155B258D=<s val="CreditsHeading"><c val="D72828">The Commander has found 
 Param/Value/lib_9770F675_155EB03C= (HARD): <c val="17CB00">ACHIEVED! (+15 points)</c>
 Param/Value/lib_9770F675_155EEC7C= Adjutant (Easy)
@@ -1745,7 +1745,7 @@ Param/Value/lib_9770F675_17BAE0F7=!<n/>
 Param/Value/lib_9770F675_18072D14=Alzadar
 Param/Value/lib_9770F675_182A3C38=- 
 Param/Value/lib_9770F675_18DF8CF5=Elapsed Time: 
-Param/Value/lib_9770F675_18F91E49= set as reviving hero.
+Param/Value/lib_9770F675_18F91E49= (!JJJ)set as reviving hero.
 Param/Value/lib_9770F675_191AEE04=DuGalle
 Param/Value/lib_9770F675_193DEEC8=Load 100 civilians on the transport ship on Hard difficulty.
 Param/Value/lib_9770F675_1979C39B=Zeratul has reached his experience gain cap for this mission.
@@ -1756,7 +1756,7 @@ Param/Value/lib_9770F675_1A473F9D= palladium caches.<n/>
 Param/Value/lib_9770F675_1A7E7792=- Minerals<n/>
 Param/Value/lib_9770F675_1AC9C20D= %
 Param/Value/lib_9770F675_1B04A578= %
-Param/Value/lib_9770F675_1B153AEC=AI Resource gain rate: 
+Param/Value/lib_9770F675_1B153AEC=(!JJJ)AI Resource gain rate: 
 Param/Value/lib_9770F675_1B1DEB2F=!
 Param/Value/lib_9770F675_1B2D12DB=<n/><n/><n/><n/><n/><n/><n/><n/><s val="MRStartButtonT">
 Param/Value/lib_9770F675_1B3A18EA=10
@@ -1795,7 +1795,7 @@ Param/Value/lib_9770F675_1FEFB923=+20 Biomass!
 Param/Value/lib_9770F675_203E6B1F=</s>
 Param/Value/lib_9770F675_2074CB5D=Upgrades Void Armor to Master Level.  Increases shield regeneration by 5 for duration of effect.<n/><n/><c val="C23214">NOTE - Zeratul has not leveled up enough to receive this ability.  You may upgrade this ability now, but will not be able to utilize it until he reaches Level 7.</c>
 Param/Value/lib_9770F675_20C423F5=Restart
-Param/Value/lib_9770F675_20D377A2= minerals:
+Param/Value/lib_9770F675_20D377A2= (!JJJ)minerals:
 Param/Value/lib_9770F675_20F0E4BA= : <c val="CBC812">CHEATER!</c>
 Param/Value/lib_9770F675_20FB3793=+5
 Param/Value/lib_9770F675_21320E5F=Lost
@@ -1803,14 +1803,14 @@ Param/Value/lib_9770F675_214137BD=- Supplies Used<n/>
 Param/Value/lib_9770F675_21F84C7A=<s val="AchievementFrameName_Zerg">Psi (<c val="8000FF">
 Param/Value/lib_9770F675_2214441E= biomass used!
 Param/Value/lib_9770F675_22ADCBB4=That should do it.  Using the extra force from this iridium these bullets should be able to pierce through vehicle armor better.
-Param/Value/lib_9770F675_22B64EF9=Player 
+Param/Value/lib_9770F675_22B64EF9=(!JJJ)Player 
 Param/Value/lib_9770F675_22D954C3=<s val="CreditsHeading"><c val="FF8040">Kerrigan has evolved Strength to Level  
-Param/Value/lib_9770F675_237BACF9=Highest Mineral patch: 
+Param/Value/lib_9770F675_237BACF9=(!JJJ)Highest Mineral patch: 
 Param/Value/lib_9770F675_24413A71=<n/><n/><n/><n/><n/><n/><n/><n/><s val="MRStartButtonT">
 Param/Value/lib_9770F675_249DFDFA=<c val="FF0000">ACHIEVEMENT FAIL:  
 Param/Value/lib_9770F675_24A8237E=!
 Param/Value/lib_9770F675_24DE3FE4=!<n/>
-Param/Value/lib_9770F675_24FAC1C3=Spawn wave denied
+Param/Value/lib_9770F675_24FAC1C3=(!JJJ)Spawn wave denied
 Param/Value/lib_9770F675_2520E955=<s val="CreditsHeading"><c val="FF8040">Kerrigan has evolved Defense to Level  
 Param/Value/lib_9770F675_2522B573=<n/><n/>
 Param/Value/lib_9770F675_25D174A4=</c><c val="00FFFF">Level Up Ability! Shadow Walk:</c><c val="005FC2"> Zeratul is now able to teleport short distances.</c></s>
@@ -1826,7 +1826,7 @@ Param/Value/lib_9770F675_27C9F3B9=Upgrade Temporal Aura
 Param/Value/lib_9770F675_27E20FAA=Arcade Console!
 Param/Value/lib_9770F675_28A239E2=Complete the mission. (Easy/Norm/Hard/Brutal)
 Param/Value/lib_9770F675_28C9F201=Upgrades Shadow Walk to Advanced Level.  Reduces cooldown by 50%.<n/><n/><c val="C23214">NOTE - Zeratul has not leveled up enough to receive this ability.  You may upgrade this ability now, but will not be able to utilize it until he reaches Level 3.</c>
-Param/Value/lib_9770F675_29754D89=bank opened
+Param/Value/lib_9770F675_29754D89=(!JJJ)bank opened
 Param/Value/lib_9770F675_29B23408=</s>
 Param/Value/lib_9770F675_29CF05AA=+1 Hellfire Charge
 Param/Value/lib_9770F675_29D35106=</c><c val="008000">Stat Bonus! -> Gains +250 life, +5 armor, +10% movement speed, +2 health regeneration</c></s>
@@ -1840,7 +1840,7 @@ Param/Value/lib_9770F675_2C349650=- Difficulty<n/>
 Param/Value/lib_9770F675_2C5B3FA3=<s val="AllianceHeader_Prot">Zeratul Training: Level 
 Param/Value/lib_9770F675_2C79E5EA=<s val="LeaderboardOneVOneName_Terr"><c val="0000FF">Zeratul: Level 
 Param/Value/lib_9770F675_2CA0A71C=Restart<n/>Mission
-Param/Value/lib_9770F675_2D13F5A5=<c val="FF0000">Failsafe: tallying player</c>
+Param/Value/lib_9770F675_2D13F5A5=(!JJJ)<c val="FF0000">Failsafe: tallying player</c>
 Param/Value/lib_9770F675_2D71C4EF=</s>
 Param/Value/lib_9770F675_2DADBA22=Finish the mission on normal difficulty.
 Param/Value/lib_9770F675_2DE96B2C=Upgrades Shadow Walk to Master Level.  Makes Zeratul undetectable after a blink for 2 seconds.<n/><n/><c val="C23214">NOTE - Zeratul has not leveled up enough to receive this ability.  You may upgrade this ability now, but will not be able to utilize it until he reaches Level 3.</c>
@@ -1853,20 +1853,20 @@ Param/Value/lib_9770F675_30260C8D= </c> biomass.)  Grants increased energy reser
 Param/Value/lib_9770F675_303C8EB0= Mohandar (Easy)
 Param/Value/lib_9770F675_3064E70F=<c val="022CA8">Armor/Shadow - Locked</c>
 Param/Value/lib_9770F675_30957080=Stukov
-Param/Value/lib_9770F675_30CAA69D=rsmr debug off.
+Param/Value/lib_9770F675_30CAA69D=(!JJJ)rsmr debug off.
 Param/Value/lib_9770F675_3134B322=</s>
-Param/Value/lib_9770F675_31BB3F92= seconds.
+Param/Value/lib_9770F675_31BB3F92= (!JJJ)seconds.
 Param/Value/lib_9770F675_31D1FCC4=That’s it!  With enough of this palladium the selfix healing protocol can be improved further and with less time between recharges.
 Param/Value/lib_9770F675_31EC9C0B=- Dragon Knight<n/>
 Param/Value/lib_9770F675_3208053D= : <c val="CBC812">CHEATER!</c>
-Param/Value/lib_9770F675_32B464FE=zero death
+Param/Value/lib_9770F675_32B464FE=(!JJJ)zero death
 Param/Value/lib_9770F675_32C71C61=+8
 Param/Value/lib_9770F675_330099D5= Cap</c></s><s val="AchievementFrameName_Prot">)</s>
 Param/Value/lib_9770F675_3313F877= Total</c></s><s val="AchievementFrameName_Terr">) - (<c val="0E73B9">
 Param/Value/lib_9770F675_332AD414= iridium caches.<n/>
 Param/Value/lib_9770F675_3361D96D=- Super Stim<n/>
 Param/Value/lib_9770F675_338620AC=</s>
-Param/Value/lib_9770F675_33B92428=staying alive
+Param/Value/lib_9770F675_33B92428=(!JJJ)staying alive
 Param/Value/lib_9770F675_33D491DA=</s>
 Param/Value/lib_9770F675_33FB162E=Biomass Cap Reached!
 Param/Value/lib_9770F675_342D7CCB=Continue<n/>Campaign
@@ -1883,7 +1883,7 @@ Param/Value/lib_9770F675_3726E6AB=+1 Iridium
 Param/Value/lib_9770F675_3726FBBB=<s val="CreditsHeading"><c val="FF8040">Biomass Bonus!<n/>Kerrigan has collected 250 biomass.  Her hive now has access to Malignant Creep while it is maintained.</c>
 Param/Value/lib_9770F675_384F92AB=!<n/>
 Param/Value/lib_9770F675_3899FC06=Impressive.  With enough of this palladium I can install a self-repair protocol, although I need to be out of combat to use it.
-Param/Value/lib_9770F675_38A9B28E=<c val="FF0000">Failsafe: displaying score screen</c>
+Param/Value/lib_9770F675_38A9B28E=(!JJJ)<c val="FF0000">Failsafe: displaying score screen</c>
 Param/Value/lib_9770F675_38C781DD= Zeratul (Brutal)
 Param/Value/lib_9770F675_38E6F671=Marine
 Param/Value/lib_9770F675_38E78C77= Remaining)
@@ -1915,7 +1915,7 @@ Param/Value/lib_9770F675_3DA4F83F=<s val="AchievementFrameName_Terr">Palladium (
 Param/Value/lib_9770F675_3DB82659=!<n/>
 Param/Value/lib_9770F675_3DD9C1D3=<s val="AchievementFrameName_Prot">Experience (<c val="F4E30B">
 Param/Value/lib_9770F675_3DE88684=<n/><n/>
-Param/Value/lib_9770F675_3E01A156=<c val="FF0000">Player 1 total death:</c>
+Param/Value/lib_9770F675_3E01A156=<c val="FF0000">(!JJJ)Player 1 total death:</c>
 Param/Value/lib_9770F675_3E26FCDD=<s val="CreditsHeading">Evolution Upgrade!</s>
 Param/Value/lib_9770F675_3E7C7CFC=+5 biomass
 Param/Value/lib_9770F675_3EDBBA8F= Overmind (Hard)
@@ -1943,8 +1943,8 @@ Param/Value/lib_9770F675_44BAEF83=!<n/>
 Param/Value/lib_9770F675_44EB85E1= (BRUTAL): <c val="17CB00">ACHIEVED! (+20 points)</c>
 Param/Value/lib_9770F675_44FD867B=<s val="ABChoiceResearchPoints_Zerg"><c val="C0C0C0">Psionics</c></s>
 Param/Value/lib_9770F675_4502F9DC=Dahl
-Param/Value/lib_9770F675_4564CA70=tallying deaths
-Param/Value/lib_9770F675_45E81B1C=AI resource reserve emptied.
+Param/Value/lib_9770F675_4564CA70=(!JJJ)tallying deaths
+Param/Value/lib_9770F675_45E81B1C=(!JJJ)AI resource reserve emptied.
 Param/Value/lib_9770F675_4613FEEF=A Fated Path
 Param/Value/lib_9770F675_46252DE9=10
 Param/Value/lib_9770F675_4641CA26=</s>
@@ -1973,7 +1973,7 @@ Param/Value/lib_9770F675_4A69C24A=!<n/>
 Param/Value/lib_9770F675_4A88644D=</s>
 Param/Value/lib_9770F675_4A8883CD=</s>
 Param/Value/lib_9770F675_4A9AE2B3=+1 Psi
-Param/Value/lib_9770F675_4ADEA556= resources set to 0
+Param/Value/lib_9770F675_4ADEA556= (!JJJ)resources set to 0
 Param/Value/lib_9770F675_4AF041A7=Kerrigan
 Param/Value/lib_9770F675_4B1C39CE=<s val="CreditsHeading"><c val="D72828">The Commander has found 
 Param/Value/lib_9770F675_4B687F08=/
@@ -1988,14 +1988,14 @@ Param/Value/lib_9770F675_4D6A0A83= biomass used!
 Param/Value/lib_9770F675_4D9E5397=</c><c val="00FFFF">Level Up Ability! Void Prison:</c><c val="005FC2"> Zeratul is able to stun a single unit for a long period of time.</c></s>
 Param/Value/lib_9770F675_4DA7D5C0=Kerrigan
 Param/Value/lib_9770F675_4DFFF7EA=<n/><n/><n/><n/><n/><n/><n/><n/><s val="MRStartButtonZ">
-Param/Value/lib_9770F675_4E8C9CAB=incrementing computer players
+Param/Value/lib_9770F675_4E8C9CAB=(!JJJ)incrementing computer players
 Param/Value/lib_9770F675_4E9E5CFA=</s>
 Param/Value/lib_9770F675_4EA2139C= Remaining)
 Param/Value/lib_9770F675_4F58F4F8=</s>
 Param/Value/lib_9770F675_4F8DCCB1=Perfect, with enough iridium my bullets should be able to tear through infantry and zerg a little easier.
 Param/Value/lib_9770F675_4F9F16D2=Upgrade Shadow Fury <c val="A60003">(!)</c>
 Param/Value/lib_9770F675_4FBB9A0E=</s>
-Param/Value/lib_9770F675_4FC37E0D=Player 
+Param/Value/lib_9770F675_4FC37E0D=(!JJJ)Player 
 Param/Value/lib_9770F675_500927EE=/
 Param/Value/lib_9770F675_502FC102=</s>
 Param/Value/lib_9770F675_5031F3D8=</s>
@@ -2006,12 +2006,12 @@ Param/Value/lib_9770F675_51219E2D=</s>
 Param/Value/lib_9770F675_5121B0FC=<s val="StandardButton_Prot"><c val="E8E800">ZERATUL ABILITY UPGRADE!</s> 
 Param/Value/lib_9770F675_514EC752=Complete the mission. (Easy/Norm)
 Param/Value/lib_9770F675_518353D8= Nightmare! (Insane)
-Param/Value/lib_9770F675_51D5DC11=Total Mineral patches: 
+Param/Value/lib_9770F675_51D5DC11=(!JJJ)Total Mineral patches: 
 Param/Value/lib_9770F675_51E95D84=
 Param/Value/lib_9770F675_51F5FD33= : <c val="CBC812">CHEATER!</c>
 Param/Value/lib_9770F675_524295BB=<s val="CreditsHeading"><c val="D72828">The Commander has found 
 Param/Value/lib_9770F675_52644F0F=Victory!
-Param/Value/lib_9770F675_52B28B36=Player 1 total death:
+Param/Value/lib_9770F675_52B28B36=(!JJJ)Player 1 total death:
 Param/Value/lib_9770F675_52C23C67=<s val="CreditsHeading"><c val="005FC2">Zeratul has reached Level 
 Param/Value/lib_9770F675_52E94B98=</s>
 Param/Value/lib_9770F675_536CA436=</s>
@@ -2037,10 +2037,10 @@ Param/Value/lib_9770F675_576AC3B0=</c><c val="800080">Gains +70 maximum energy, 
 Param/Value/lib_9770F675_57E8DBA2=10
 Param/Value/lib_9770F675_580236CD=<s val="CreditsHeading"><c val="FF0000">Kerrigan has been killed...</c></s>
 Param/Value/lib_9770F675_583498F2=</c>
-Param/Value/lib_9770F675_584217AC=total minerals: 
+Param/Value/lib_9770F675_584217AC=(!JJJ)total minerals: 
 Param/Value/lib_9770F675_58C838AE= iridium caches.<n/>
-Param/Value/lib_9770F675_58E9BF31= has been defeated and requires a primary base to be built to revive.
-Param/Value/lib_9770F675_58F14551=tallying deaths
+Param/Value/lib_9770F675_58E9BF31= (!JJJ)has been defeated and requires a primary base to be built to revive.
+Param/Value/lib_9770F675_58F14551=(!JJJ)tallying deaths
 Param/Value/lib_9770F675_5981EAE0=: <c val="CB0E00">FAILED</c>
 Param/Value/lib_9770F675_59D04A40=</s>
 Param/Value/lib_9770F675_59E024AF=Adjutant
@@ -2053,7 +2053,7 @@ Param/Value/lib_9770F675_5B312AC6=</s>
 Param/Value/lib_9770F675_5B40336D=</c><c val="00FFFF">Level Up Ability! Shadow Fury:</c><c val="005FC2"> Zeratul can warp around the battlefield to slash enemies.</c></s>
 Param/Value/lib_9770F675_5BBF2B27=</s>
 Param/Value/lib_9770F675_5BD2228B= Collins (Hard)
-Param/Value/lib_9770F675_5BD4418F=Player 
+Param/Value/lib_9770F675_5BD4418F=(!JJJ)Player 
 Param/Value/lib_9770F675_5BDE17F6=</s>
 Param/Value/lib_9770F675_5C146EE2=Complete the mission. (Easy/Norm/Hard/Brutal)
 Param/Value/lib_9770F675_5C65B14E=Complete the mission. (??? - Couldn't locate difficulty!)
@@ -2079,7 +2079,7 @@ Param/Value/lib_9770F675_5E728BC4=</s>
 Param/Value/lib_9770F675_5ECADD6E=: <c val="17CB00">ACHIEVED! (+15 points)</c>
 Param/Value/lib_9770F675_5EFAF750=)
 Param/Value/lib_9770F675_5F13CF33=<s val="AllianceHeader_Terr">Rare Materials</s>
-Param/Value/lib_9770F675_5F3A3944=<c val="FF0000">Failsafe: playing victory music</c>
+Param/Value/lib_9770F675_5F3A3944=(!JJJ)<c val="FF0000">Failsafe: playing victory music</c>
 Param/Value/lib_9770F675_5F546B27= Look Jimmy, we don't have much time to play catch up.  I wouldn't have called you if I didn't have good reason and you owe me for saving your ass getting out of Tarsonis.  The Dominion is back to its old tricks again, this time holding its own people up as bait to do their work for them in some weapons facility here on Umoja.
 Param/Value/lib_9770F675_5F92B57B= Selendis (Hard)
 Param/Value/lib_9770F675_6062D439=<c val="022CA8">Strike/Fury - Locked</c>
@@ -2091,13 +2091,13 @@ Param/Value/lib_9770F675_610A389C=Izsha
 Param/Value/lib_9770F675_61382A92=Complete the mission. (Easy/Norm/Hard/Brutal)
 Param/Value/lib_9770F675_61951E4F=</s>
 Param/Value/lib_9770F675_61A6D7A4=)
-Param/Value/lib_9770F675_62B3370F=AI mineout time: 
-Param/Value/lib_9770F675_62B65626=Player 
+Param/Value/lib_9770F675_62B3370F=(!JJJ)AI mineout time: 
+Param/Value/lib_9770F675_62B65626=(!JJJ)Player 
 Param/Value/lib_9770F675_62F4FC8C=</s>
 Param/Value/lib_9770F675_635BA502=<s val="CreditsHeading"><c val="D72828">Hellfire Blast Upgrade is now available!</c></s>
 Param/Value/lib_9770F675_63734F53=Complete the mission. (Easy/Norm/Hard)
 Param/Value/lib_9770F675_63853C2F=<s val="CreditsHeading"><c val="D72828">Flashbang Grenade Upgrade is now available!</c></s>
-Param/Value/lib_9770F675_63A728ED=player 
+Param/Value/lib_9770F675_63A728ED=(!JJJ)player 
 Param/Value/lib_9770F675_63BD6BE7=150
 Param/Value/lib_9770F675_644C518E=20
 Param/Value/lib_9770F675_64A8BF3C=Finish the mission on hard difficulty.
@@ -2106,7 +2106,7 @@ Param/Value/lib_9770F675_6504D454=Finish the mission on easy difficulty.
 Param/Value/lib_9770F675_65240C14=<s val="Campaign_Title">                  Episode IV - Enslavers Epilogue</s><n/><n/><s val="Lost"><c val="80FF80">With the threat of the supreme Dark Archon Ulrezaj now contained deep under Ehlna within a khaydarin crystal, due to the noble sacrifice of the preserver Zamara, the Protoss on Shakuras were able to secure their once secret moon of Elhna away from Kerrigan's Zerg and the Terran Dominion.  An uneasy stalemate was met between the three races as they each went back to their respective territories.  Life returned to an uneasy quiet, but for both Zeratul and Kerrigan, things were anything but quiet.  Both the Dark Prelate and Queen of Blades were still consumed with searching for their own answers as to what the Hybrid threat they both encountered were and how the creature known as Duran was able to create them.  Abandoning their kin, they each went on a unique journey to seek out these answers.  Zeratul began his search on the world Zamara had showed him containing a Xel'naga temple - Pegasus.  Zeratul arrived on the world just in time to witness an unusual energy-like creature emerge from the decayed temple and depart into space. The prelate followed it to a gathering of dozens, possibly hundreds, of other energy creatures. The creatures then created a wormhole through which Zeratul cautiously ventured forth…<n/><n/>Meanwhile, Kerrigan continued to hunt down any psionic signatures belonging to laboratories for Duran's Hybrid experiments, but each turned up abandoned.  The Queen of the Zerg feared her old consort was either beginning to relocate his experiments to safer locations, or his Hybrids were already awakening, preparing for an assault when the time was right.  Finally, one of her organic probes picked up a powerful emanation coming from the Terran world of Emoja.  A live Hybrid was there no doubt.  Re-directing her Leviathan, she sent her forces at full force towards the Dominion occupied world.  Although Kerrigan was not looking to begin her true assault on Mengsk, this strike on a Dominion holding would be as good as any for a first strike.<n/><n/>And nearby, waking up to a crisp morning breakfast, the former Dominion Alpha Squadron Commander began going over his strategy for liberating the civilians on an outpost near a secret Dominion military outpost on Emoja.  Over the past several years since the fight on Aiur, the Commander and his loyal followers had become freedom fighters, liberating civilians from Dominion or mercenary oppression.  Requiring more resources than he had to pull this plan off, the Commander knew he had to call in a favor to make this work.  And he had one favor he's been saving up for such an occasion.  Time to ante up Jimmy…<n/></c></s>
 Param/Value/lib_9770F675_6552B48D=Complete the mission. (Easy/Norm)
 Param/Value/lib_9770F675_65691466=</s>
-Param/Value/lib_9770F675_65D1E24D=displaying score screen
+Param/Value/lib_9770F675_65D1E24D=(!JJJ)displaying score screen
 Param/Value/lib_9770F675_65D53C39=</c><c val="00FFFF">Level Up Ability! Temporal Aura:</c><c val="005FC2"> Allies will gain a passive 10% movement and attack speed bonus when nearby Zeratul.</c></s>
 Param/Value/lib_9770F675_65E9013F=Duran
 Param/Value/lib_9770F675_65EB6E77=15
@@ -2119,7 +2119,7 @@ Param/Value/lib_9770F675_66B06441=</s>
 Param/Value/lib_9770F675_66F07782= Duran (Medium)
 Param/Value/lib_9770F675_670EECF7=Bonus mission objective<n/><n/>- Find Palladium
 Param/Value/lib_9770F675_67B3BBE6=This raw iridium is incredible.  The energy output in these bullets is capable of ripping through even the largest units now!
-Param/Value/lib_9770F675_67C57AB0=death percentage set:
+Param/Value/lib_9770F675_67C57AB0=(!JJJ)death percentage set:
 Param/Value/lib_9770F675_67D2760E=Upgrades Nerazim Cloaking to Advanced Level.  Grants 20% evasion to Zeratul from physical attacks.
 Param/Value/lib_9770F675_686C80E9=Dropship Pilot
 Param/Value/lib_9770F675_687EB643=- Chrono<n/>
@@ -2140,7 +2140,7 @@ Param/Value/lib_9770F675_6C8CC29E=Complete the mission. (??? - Couldn't locate d
 Param/Value/lib_9770F675_6D0714BF=Standard Default Console!
 Param/Value/lib_9770F675_6D5875BC=<s val="AchievementFrameName_Terr">
 Param/Value/lib_9770F675_6DBCB214= %
-Param/Value/lib_9770F675_6E60CAEF= has been defeated and will be revived in your primary base in 
+Param/Value/lib_9770F675_6E60CAEF= (!JJJ)has been defeated and will be revived in your primary base in 
 Param/Value/lib_9770F675_6EA6108E=<s val="ChallengeVictoryTitle">ACHIEVEMENTS - Current Total: (
 Param/Value/lib_9770F675_6F554902=</c><c val="800080">Gains + 20 melee damage, +20% attack and movement speed.  Also gains improved damage, energy cost and jump range for Leaping Strike.</c></s>
 Param/Value/lib_9770F675_6FC89A71=Find Psi (
@@ -2154,14 +2154,14 @@ Param/Value/lib_9770F675_70E065AC= Stored</c></s><s val="AchievementFrameName_Ze
 Param/Value/lib_9770F675_70E447BA=Arcade Console!
 Param/Value/lib_9770F675_70ED5FA2=</s>
 Param/Value/lib_9770F675_710BF42A= Cap</c></s><s val="AchievementFrameName_Prot">)</s>
-Param/Value/lib_9770F675_716DC760=Player 
+Param/Value/lib_9770F675_716DC760=(!JJJ)Player 
 Param/Value/lib_9770F675_719FAFA6=</s>
 Param/Value/lib_9770F675_723F77AD= : <c val="CBC812">CHEATER!</c>
 Param/Value/lib_9770F675_724171D3=Unit Profile<n/>
 Param/Value/lib_9770F675_7262E91D=Cancel
 Param/Value/lib_9770F675_7276D9AC=Dropship Pilot
 Param/Value/lib_9770F675_72B3BFAF=</s>
-Param/Value/lib_9770F675_72B4955E=<c val="FF0000">Failsafe: tallying deaths</c>
+Param/Value/lib_9770F675_72B4955E=(!JJJ)<c val="FF0000">Failsafe: tallying deaths</c>
 Param/Value/lib_9770F675_72ED2075=</s>
 Param/Value/lib_9770F675_732F844E= Nightmare! (Insane)
 Param/Value/lib_9770F675_738859B3=Find Iridium (
@@ -2171,10 +2171,10 @@ Param/Value/lib_9770F675_73EAFB53=Perfect.  That should help a bit.  The palladi
 Param/Value/lib_9770F675_74153B2B=<s val="CreditsVeryLargeHeading"><c val="FF0000">Defeat!</c></s>
 Param/Value/lib_9770F675_7443DEFA=: <c val="17CB00">ACHIEVED! (+20 points)</c>
 Param/Value/lib_9770F675_744EE009=Battlecruiser
-Param/Value/lib_9770F675_74657867=<c val="FF0000">Player 1 total units:</c>
+Param/Value/lib_9770F675_74657867=(!JJJ)<c val="FF0000">Player 1 total units:</c>
 Param/Value/lib_9770F675_7494C9C4=</s>
 Param/Value/lib_9770F675_749CDCC3= Kerrigan (Hard)
-Param/Value/lib_9770F675_74C14887=Player 
+Param/Value/lib_9770F675_74C14887=(!JJJ)Player 
 Param/Value/lib_9770F675_74DB00DB=Ulrezaj
 Param/Value/lib_9770F675_75101C02=Choose a plot arc after mission 3 to determine which abilities you will learn.
 Param/Value/lib_9770F675_751794C5=
@@ -2199,7 +2199,7 @@ Param/Value/lib_9770F675_79A9450A=<s val="CreditsHeading"><c val="FF8040">Kerrig
 Param/Value/lib_9770F675_7A2A4D30=!<n/>
 Param/Value/lib_9770F675_7A370EB9=Nerazim Console!
 Param/Value/lib_9770F675_7A87A1F4=- Easy Base<n/>
-Param/Value/lib_9770F675_7AC149E8=Is in English Locale
+Param/Value/lib_9770F675_7AC149E8=(!JJJ)Is in English Locale
 Param/Value/lib_9770F675_7B620EE1=</s>
 Param/Value/lib_9770F675_7B96B7F3=</c>
 Param/Value/lib_9770F675_7BC41B41=Finish the mission on hard difficulty.
@@ -2250,10 +2250,10 @@ Param/Value/lib_9770F675_8631B06A= Stored</c></s><s val="AchievementFrameName_Ze
 Param/Value/lib_9770F675_86652B93=<s val="InfoPaneUnitNameCondensed">
 Param/Value/lib_9770F675_867D6C3D=5
 Param/Value/lib_9770F675_86AFF15F=- SC1 Audio(Weapons)<n/>
-Param/Value/lib_9770F675_8712FF91=AI wave scheduled.
+Param/Value/lib_9770F675_8712FF91=(!JJJ)AI wave scheduled.
 Param/Value/lib_9770F675_87389D5C= %
 Param/Value/lib_9770F675_87BE232A=Danimoth
-Param/Value/lib_9770F675_87CA3EB1= next AI wave waiting for resources. Desperation: 
+Param/Value/lib_9770F675_87CA3EB1= (!JJJ)next AI wave waiting for resources. Desperation: 
 Param/Value/lib_9770F675_87DB6BAE=Find Palladium (
 Param/Value/lib_9770F675_884463EC=</c><c val="008000">Stat Bonus! -> Gains +5% attack speed and +1 damage</c></s>
 Param/Value/lib_9770F675_887B886F=Hybrid Behemoth
@@ -2274,20 +2274,20 @@ Param/Value/lib_9770F675_8AA9934A=<s val="CreditsHeading"><c val="005FC2">Zeratu
 Param/Value/lib_9770F675_8B2E9729=<c val="022CA8">Blink Upgraded!</c>
 Param/Value/lib_9770F675_8B41389F=+1 Palladium
 Param/Value/lib_9770F675_8B780309=Ah the Protoss have gathered raw iridium.  There may be more to find around here.
-Param/Value/lib_9770F675_8BEDB090=score screen complete
+Param/Value/lib_9770F675_8BEDB090=(!JJJ)score screen complete
 Param/Value/lib_9770F675_8C547442=Complete the mission. (Easy/Norm/Hard/Brutal)
 Param/Value/lib_9770F675_8CAD5AEF=</s>
 Param/Value/lib_9770F675_8CB5E51F= Total</c></s><s val="AchievementFrameName_Prot">) - (<c val="F4E30B">
 Param/Value/lib_9770F675_8D56D137= Morik (Easy)
 Param/Value/lib_9770F675_8D9B68C8=<s val="ChallengeVictoryTitle">
 Param/Value/lib_9770F675_8DEB7E3A=</s>
-Param/Value/lib_9770F675_8E12CA9F=Player 1 total units:
+Param/Value/lib_9770F675_8E12CA9F=(!JJJ)Player 1 total units:
 Param/Value/lib_9770F675_8E1514D2= is taking damage!
 Param/Value/lib_9770F675_8E205B4D= : <c val="CBC812">CHEATER!</c>
 Param/Value/lib_9770F675_8E587AE1=</c><c val="00FFFF">Master Level Reached!:</c><c val="005FC2"> Zeratul has reached peak physical and mental condition.</c></s>
 Param/Value/lib_9770F675_8E6A50DD=Hybrid Dominator
 Param/Value/lib_9770F675_8E8D5B0E=</s>
-Param/Value/lib_9770F675_8EE92BA7=<c val="FFFF00">AI desperation capital ship attack!</c>
+Param/Value/lib_9770F675_8EE92BA7=(!JJJ)<c val="FFFF00">AI desperation capital ship attack!</c>
 Param/Value/lib_9770F675_8F4240AE=<s val="AchievementFrameName_Zerg">Biomass (<c val="008040">
 Param/Value/lib_9770F675_8F49D2F7=Finish the mission on easy difficulty.
 Param/Value/lib_9770F675_8F7A2DC7=<s val="DirectiveDisplay"><c val="FFB997">NEURAL LINK ACTIVATED</c></s>
@@ -2303,7 +2303,7 @@ Param/Value/lib_9770F675_905B73C1= Area</c></s><s val="AchievementFrameName_Terr
 Param/Value/lib_9770F675_907C6AF3=Quit
 Param/Value/lib_9770F675_908F3EF9=Complete the mission. (Easy/Norm/Hard)
 Param/Value/lib_9770F675_90C03A0B= - 
-Param/Value/lib_9770F675_90C1D10B= has been defeated and requires a primary base to be built to revive.
+Param/Value/lib_9770F675_90C1D10B= (!JJJ)has been defeated and requires a primary base to be built to revive.
 Param/Value/lib_9770F675_90CA6E62=</c><c val="800080">Gains + 10 melee damage, +10% attack and movement speed.  Also gains improved damage, energy cost and jump range for Leaping Strike.</c></s>
 Param/Value/lib_9770F675_910AB1B5=</c>! (Costs <c val="008040">
 Param/Value/lib_9770F675_92894209=Duran
@@ -2341,7 +2341,7 @@ Param/Value/lib_9770F675_99F2F71C=<s val="LeaderboardOneVOneName_Terr"><c val="F
 Param/Value/lib_9770F675_9A8F69E2=</s>
 Param/Value/lib_9770F675_9AC93A31=<s val="CreditsHeading"><c val="FF8040">Biomass Bonus!<n/>Kerrigan has collected 500 biomass.  Her hive now has access to Greater Nydus Worm while it is maintained.</c>
 Param/Value/lib_9770F675_9B00E5FC=Upgrades Shadow Walk to Advanced Level.  Reduces cooldown by 50%.
-Param/Value/lib_9770F675_9B46DAE6=player resources set to 0
+Param/Value/lib_9770F675_9B46DAE6=(!JJJ)player resources set to 0
 Param/Value/lib_9770F675_9B5AE3E8=<s val="BoardTitle">Units<n/>Produced</s>
 Param/Value/lib_9770F675_9B802C85=- Bring at least 50 civilians to the dropship<n/>- All heroes and the dropship must survive
 Param/Value/lib_9770F675_9BA302A7= (BRUTAL): <c val="17CB00">ACHIEVED! (+20 points)</c>
@@ -2353,7 +2353,7 @@ Param/Value/lib_9770F675_9D2F301C=: <c val="17CB00">ACHIEVED! (+20 points)</c>
 Param/Value/lib_9770F675_9D8C687C= Mengsk (Medium)
 Param/Value/lib_9770F675_9E6EC34E=</c><c val="800080">Gains +120 maximum health, +100% life regeneration, +1 armor, Also gains improved health restore to yourself and allies around you for Mend.</c></s>
 Param/Value/lib_9770F675_9E8F4566= %
-Param/Value/lib_9770F675_9ECAE7FF=Player 
+Param/Value/lib_9770F675_9ECAE7FF=(!JJJ)Player 
 Param/Value/lib_9770F675_9ECBB5B9= %
 Param/Value/lib_9770F675_9ED8C3FB=- Insane Difficulty<n/>
 Param/Value/lib_9770F675_9F604A89=<s val="WarningText"><c val="FF0000">
@@ -2362,7 +2362,7 @@ Param/Value/lib_9770F675_9FB57FEE=Difficulty
 Param/Value/lib_9770F675_9FE63E00=Find Psi (
 Param/Value/lib_9770F675_A002E5BF=</s>
 Param/Value/lib_9770F675_A01493FB=<n/><n/>
-Param/Value/lib_9770F675_A0BF1D00= has been defeated and will be revived in your primary base in 
+Param/Value/lib_9770F675_A0BF1D00= (!JJJ)has been defeated and will be revived in your primary base in 
 Param/Value/lib_9770F675_A0EFA66D= Lieutenant (Brutal)
 Param/Value/lib_9770F675_A1062540=Find Palladium (
 Param/Value/lib_9770F675_A1AD61A2=Upgrade Void Prison (!)
@@ -2402,9 +2402,9 @@ Param/Value/lib_9770F675_A9388397=Danimoth
 Param/Value/lib_9770F675_A9856ABD=</s>
 Param/Value/lib_9770F675_A9EEF4E9= %
 Param/Value/lib_9770F675_AA228978=<s val="AchievementFrameName_Terr">Iridium (<c val="A73BB9">
-Param/Value/lib_9770F675_AAA30D81=creating dialogue
+Param/Value/lib_9770F675_AAA30D81=(!JJJ)creating dialogue
 Param/Value/lib_9770F675_AAD4B30F=+2 biomass
-Param/Value/lib_9770F675_AAE10BA1= set as primary hatch.
+Param/Value/lib_9770F675_AAE10BA1= (!JJJ)set as primary hatch.
 Param/Value/lib_9770F675_AAEF02B0=</s>
 Param/Value/lib_9770F675_AB72F0AD=Zamara
 Param/Value/lib_9770F675_ABAA47C3=
@@ -2448,12 +2448,12 @@ Param/Value/lib_9770F675_B3FB3171= : <c val="CBC812">CHEATER!</c>
 Param/Value/lib_9770F675_B44C16A7=Unit Produced
 Param/Value/lib_9770F675_B4624AC9=Jimmy boy…let's not.  You left to find Sarah.  You found the Zerg instead just like I said you would.  Believe me though, I ain't got nothing to gloat about.  I found my own Zerg too and a hell of a lot more than I bargained for.  We can trade stories sometime later for how we both saved the galaxy, but for now…let's just go save some lives.  <n/><n/>Last I checked, that is what you still do, right?
 Param/Value/lib_9770F675_B4FAF298=I've seen this before from a madman I hunted named Alan Schezar.  And so did Mengsk.  He was the one who ordered me to track him down.  I think....I think he's picking up where Schezar left off.  I don't know what for...but whatever it is...it ain't good!<n/><n/>I need the Raiders help on this one.
-Param/Value/lib_9770F675_B54E1A99=<s val="WarningText"><c val="FF0000">Your hero has been revived at your primary base.</c></s>
+Param/Value/lib_9770F675_B54E1A99=(!JJJ)<s val="WarningText"><c val="FF0000">Your hero has been revived at your primary base.</c></s>
 Param/Value/lib_9770F675_B5A06456=Jacob Ramsey
 Param/Value/lib_9770F675_B5E1D83A=Abathur
 Param/Value/lib_9770F675_B5E45BD4=5
 Param/Value/lib_9770F675_B5F49329= Total</c></s><s val="AchievementFrameName_Terr">) - (<c val="A73BB9">
-Param/Value/lib_9770F675_B6518B8C=Total Minerals: 
+Param/Value/lib_9770F675_B6518B8C=(!JJJ)Total Minerals: 
 Param/Value/lib_9770F675_B669A419=</s>
 Param/Value/lib_9770F675_B6BD82E2=Upgrades Temporal Aura to Master Level.  Doubles aura effectiveness.
 Param/Value/lib_9770F675_B6F9F1B4=</s>
@@ -2481,7 +2481,7 @@ Param/Value/lib_9770F675_B9BDCE47=Upgrades Dark Shadow to Master Level.  Adds a 
 Param/Value/lib_9770F675_BA05C8AD=Dark Shrine Activated!
 Param/Value/lib_9770F675_BA0AA294=<s val="CreditsHeading"><c val="005FC2">Zeratul has reached Level 
 Param/Value/lib_9770F675_BA4EE7EA=Now Playing:
-Param/Value/lib_9770F675_BADFCE25=Indoor Scaling turned off.
+Param/Value/lib_9770F675_BADFCE25=(!JJJ)Indoor Scaling turned off.
 Param/Value/lib_9770F675_BAF09162=<c val="C21B00">Cancel Evolution!</c>
 Param/Value/lib_9770F675_BB62CBC8=</s>
 Param/Value/lib_9770F675_BBF37C8F=Captain (Brutal)
@@ -2489,7 +2489,7 @@ Param/Value/lib_9770F675_BC32AE29= </c> biomass.)  Grants increased health, fast
 Param/Value/lib_9770F675_BC3DAC21=Just a Scratch: <c val="CBC812">CHEATER!</c>
 Param/Value/lib_9770F675_BCAFB20B=SkipSkip
 Param/Value/lib_9770F675_BCBD755C=Wild Hunter - Kill every Zerg found (Norm/Hard)
-Param/Value/lib_9770F675_BCEF8C87=Hero revives in:
+Param/Value/lib_9770F675_BCEF8C87=(!JJJ)Hero revives in:
 Param/Value/lib_9770F675_BD112706=Replay
 Param/Value/lib_9770F675_BD2B60E3=</s>
 Param/Value/lib_9770F675_BD2C457E=- Hero Damage Alert<n/>
@@ -2506,7 +2506,7 @@ Param/Value/lib_9770F675_BF5B063C=Continue Campaign
 Param/Value/lib_9770F675_BF727E83=<n/>(Loading Next Options in 10 seconds...)
 Param/Value/lib_9770F675_BFA16E57=Ladranix
 Param/Value/lib_9770F675_BFA7636F= Raynor (Hard)
-Param/Value/lib_9770F675_BFC7486A=AI Wave waiting for resources...
+Param/Value/lib_9770F675_BFC7486A=(!JJJ)AI Wave waiting for resources...
 Param/Value/lib_9770F675_C0317F3E=</s>
 Param/Value/lib_9770F675_C036BD0D= Kerrigan (Brutal)
 Param/Value/lib_9770F675_C082B550=<s val="CreditsHeading"><c val="FF8040">Kerrigan has evolved Defense to Level  
@@ -2520,7 +2520,7 @@ Param/Value/lib_9770F675_C24DB14C= -
 Param/Value/lib_9770F675_C253FF34= (BRUTAL): <c val="17CB00">ACHIEVED! (+20 points)</c>
 Param/Value/lib_9770F675_C279A1CC= Nightmare! (Insane)
 Param/Value/lib_9770F675_C2EA3A8B=cheat enabled
-Param/Value/lib_9770F675_C2ED8D61=<c val="FF0000">AI has mined out!</c>
+Param/Value/lib_9770F675_C2ED8D61=(!JJJ)<c val="FF0000">AI has mined out!</c>
 Param/Value/lib_9770F675_C2F93FBA=<s val="BoardTitle">Lost</s>
 Param/Value/lib_9770F675_C388B32D=Finish the mission on easy difficulty.
 Param/Value/lib_9770F675_C3CBD53E=</s>
@@ -2545,7 +2545,7 @@ Param/Value/lib_9770F675_C7263D02=</s>
 Param/Value/lib_9770F675_C79C3688=<s val="CreditsHeading">Zeratul has used a Dark Shrine!</s>
 Param/Value/lib_9770F675_C7A3D7BA=This ability has been fully upgraded already.
 Param/Value/lib_9770F675_C7A4A064=</s>
-Param/Value/lib_9770F675_C83CE297=incrementing computer players
+Param/Value/lib_9770F675_C83CE297=(!JJJ)incrementing computer players
 Param/Value/lib_9770F675_C871F0C5=10
 Param/Value/lib_9770F675_C8A5D1C5=Evolved Console!
 Param/Value/lib_9770F675_C8B85E8B= Fenix (Medium)
@@ -2561,12 +2561,12 @@ Param/Value/lib_9770F675_CB2F8496= Nightmare! (Insane)
 Param/Value/lib_9770F675_CB5104C0=Upgrade Dark Shadow
 Param/Value/lib_9770F675_CB775309=Planetary Profile<n/>
 Param/Value/lib_9770F675_CB898258= Area</c></s><s val="AchievementFrameName_Terr">)</s>
-Param/Value/lib_9770F675_CB9C592B=Is not in English Locale
+Param/Value/lib_9770F675_CB9C592B=(!JJJ)Is not in English Locale
 Param/Value/lib_9770F675_CBDF2CE0=Complete the mission. (Easy)
 Param/Value/lib_9770F675_CC00CE22= - 
 Param/Value/lib_9770F675_CC23630D=: <c val="CB0E00">FAILED</c>
 Param/Value/lib_9770F675_CC7A26FA= %
-Param/Value/lib_9770F675_CCFA948F= AI wave waiting for resources.
+Param/Value/lib_9770F675_CCFA948F= (!JJJ)AI wave waiting for resources.
 Param/Value/lib_9770F675_CD12CCE8= Gui (Medium)
 Param/Value/lib_9770F675_CD41BFAA=</s>
 Param/Value/lib_9770F675_CDA27794=Upgrades Shadow Blade to Master Level.  Deals splash area damage on strike.
@@ -2595,7 +2595,7 @@ Param/Value/lib_9770F675_D10C8CED=</s>
 Param/Value/lib_9770F675_D1248CBC=<s val="CreditsHeading">Your Dark Shrine has been destroyed!</s>
 Param/Value/lib_9770F675_D1280B71=</s>
 Param/Value/lib_9770F675_D1B28232=Zagara
-Param/Value/lib_9770F675_D1CC59A0=<c val="FF0000">unit tally error for player </c>
+Param/Value/lib_9770F675_D1CC59A0=(!JJJ)<c val="FF0000">unit tally error for player </c>
 Param/Value/lib_9770F675_D1DD663B=The energy...I can feel my power growing...
 Param/Value/lib_9770F675_D21E0DBC=</s>
 Param/Value/lib_9770F675_D2784539=<s val="AchievementFrameName_Terr">Palladium (<c val="0E73B9">
@@ -2616,7 +2616,7 @@ Param/Value/lib_9770F675_D5ECD085=</c><c val="00FFFF">Level Up Ability! Shadow B
 Param/Value/lib_9770F675_D5F350E9= Aldaris (Easy)
 Param/Value/lib_9770F675_D61CD2E2=<c val="98FB98">
 Param/Value/lib_9770F675_D65F6691=- Weather Effects<n/>
-Param/Value/lib_9770F675_D7166585= running spawn wave.
+Param/Value/lib_9770F675_D7166585= (!JJJ)running spawn wave.
 Param/Value/lib_9770F675_D73C9999=<n/><n/>
 Param/Value/lib_9770F675_D801F489=20
 Param/Value/lib_9770F675_D8091BE3=Mengsk
@@ -2656,7 +2656,7 @@ Param/Value/lib_9770F675_DE87CA1A= (HARD): <c val="17CB00">ACHIEVED! (+15 points
 Param/Value/lib_9770F675_DEC20C9B=Upgrades Shadow Fury to Master Level.  Increases damage dealt per strike.
 Param/Value/lib_9770F675_DF3C3176=</c><c val="800080">Gains +280 maximum energy, +160% energy regeneration, +40 psi blast damage, gains the Apocalypse ability.  Also gains improved damage and area of effect to Razor Swarm.</c></s>
 Param/Value/lib_9770F675_DFA93BC1=</s>
-Param/Value/lib_9770F675_DFF8D2C4=running victory music
+Param/Value/lib_9770F675_DFF8D2C4=(!JJJ)running victory music
 Param/Value/lib_9770F675_E0049A6C=250
 Param/Value/lib_9770F675_E00BFBEE=- Game Time (Seconds)<n/>
 Param/Value/lib_9770F675_E0103B7F=15
@@ -2730,7 +2730,7 @@ Param/Value/lib_9770F675_F10A64D8=!<n/>
 Param/Value/lib_9770F675_F12DDC52=</s>
 Param/Value/lib_9770F675_F163E973=</s>
 Param/Value/lib_9770F675_F16DEF47=Upgrades Void Prison to Master Level.  Triples duration of effect.<n/><n/><c val="C23214">NOTE - Zeratul has not leveled up enough to receive this ability.  You may upgrade this ability now, but will not be able to utilize it until he reaches Level 4.</c>
-Param/Value/lib_9770F675_F19D48C6=Indoor Scaling turned on.
+Param/Value/lib_9770F675_F19D48C6=(!JJJ)Indoor Scaling turned on.
 Param/Value/lib_9770F675_F1EA10CB=Upgrade Nerazim Cloak
 Param/Value/lib_9770F675_F2439EB5=<s val="WarningText"><c val="FF0000">
 Param/Value/lib_9770F675_F255560D=</c><c val="00FFFF">Level Up Ability! Essence of Naraza:</c><c val="005FC2"> Zeratul will absorb life and shields when a nearby enemy is slain.</c></s>
@@ -2782,7 +2782,7 @@ Param/Value/lib_9770F675_F9A83358=<s val="ABChoiceResearchPoints_Zerg"><c val="C
 Param/Value/lib_9770F675_F9A95AC2=Kerrigan
 Param/Value/lib_9770F675_F9AB17D0= Remaining)
 Param/Value/lib_9770F675_F9AE9678=Hybrid Destroyer
-Param/Value/lib_9770F675_F9C9CF8C=rsmr debug on.
+Param/Value/lib_9770F675_F9C9CF8C=(!JJJ)rsmr debug on.
 Param/Value/lib_9770F675_F9FE942F=<c val="FF0000">ACHIEVEMENT FAIL: Drill Baby Drill.  The Drakken Pulse Laser was not destroyed.</c>
 Param/Value/lib_9770F675_FA0DC474=<s val="CreditsHeading"><c val="FF8040">Kerrigan has evolved Psi to Level  
 Param/Value/lib_9770F675_FA175248= Nightmare! (Insane)
@@ -2801,12 +2801,12 @@ Param/Value/lib_9770F675_FBF3D1FB=Forged Console!
 Param/Value/lib_9770F675_FBF7EDD1=Stewart
 Param/Value/lib_9770F675_FBFE3E29= Remaining)
 Param/Value/lib_9770F675_FC12E662=cheat disabled
-Param/Value/lib_9770F675_FC17AEF8=<c val="FF0000">Failsafe: complete</c>
+Param/Value/lib_9770F675_FC17AEF8=(!JJJ)<c val="FF0000">Failsafe: complete</c>
 Param/Value/lib_9770F675_FC89247C=5
 Param/Value/lib_9770F675_FCB0C98E= : <c val="CBC812">CHEATER!</c>
 Param/Value/lib_9770F675_FCE02D40=</s>
 Param/Value/lib_9770F675_FCF51E20=</s>
-Param/Value/lib_9770F675_FCF5E552=<c val="FF0000">Scorescreen failsafe engaged</c>
+Param/Value/lib_9770F675_FCF5E552=(!JJJ)<c val="FF0000">Scorescreen failsafe engaged</c>
 Param/Value/lib_9770F675_FD1C7A73=Complete the mission. (Easy/Norm)
 Param/Value/lib_9770F675_FD520E59= Brood Queen (Easy)
 Param/Value/lib_9770F675_FDC8D205=/
@@ -2817,7 +2817,7 @@ Param/Value/lib_9770F675_FEE4E8BF=+1
 Param/Value/lib_9770F675_FEF75664=<s val="ABChoiceResearchPoints_Zerg">Defense</s>
 Param/Value/lib_9770F675_FF480304=Raw Palladium.  There may be more around here to find.
 Param/Value/lib_9770F675_FF539F6D=Finish the mission on brutal difficulty.
-Param/Value/lib_9770F675_FF583480=Scoredebug
+Param/Value/lib_9770F675_FF583480=(!JJJ)Scoredebug
 Param/Value/lib_9770F675_FF5CC4F9=Complete the mission. (Easy)
 Param/Value/lib_9770F675_FF6A6700=<s val="CreditsHeading"><c val="D72828">Flashbang Grenade Upgrade is now available!</c></s>
 Param/Value/lib_9770F675_FFAFBD74=</s>
@@ -3507,7 +3507,7 @@ Unit/Name/TychusChaingun=Commander Weapon
 Unit/Name/UlrezajDarkArchon=Dark Archon
 Unit/Name/Valkyrie=Valkyrie
 Unit/Name/ValkyrieWeapon=Valkyrie
-Unit/Name/ValkyrieWeaponR=Valkyrie R
+Unit/Name/ValkyrieWeaponR=(!JJJ)Валькирия R
 Unit/Name/Viking=Viking
 Unit/Name/Warbringer=Warbringer
 Unit/Name/WarbringerScarab=WarbringerScarab
@@ -3927,7 +3927,7 @@ Weapon/Name/InterceptorBeam=Interceptor Pulse Cannon
 Weapon/Name/LongboltMissile2=Longbolt Missile inst
 Weapon/Name/Lurker=Subterranean Spines
 Weapon/Name/NeedleSpines2=Spines
-Weapon/Name/NeedleSpinesvsCapital=Needle Spines vs Capital
+Weapon/Name/NeedleSpinesvsCapital=(!JJJ)Костяные иглы по крупным кораблям
 Weapon/Name/NeutronFlare=Neutron Flare
 Weapon/Name/NoradATSLaserBattery=Лазерная батарея «воздух-поверхность»
 Weapon/Name/Nova=C-10 Mk. VI Canister Rifle
