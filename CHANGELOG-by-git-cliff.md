@@ -21,6 +21,7 @@ All notable changes to this project will be documented in this file.
 ### 🎨 Styling
 
 - *(file-3)* Подправить сломанный порядок строк
+- *(ui)* Подправить регистр в названии сложности
 
 ### ⚙️ Miscellaneous Tasks
 
