@@ -15,6 +15,7 @@ All notable changes to this project will be documented in this file.
 ### 🐛 Bug Fixes
 
 - *(file-3)* Исправить перевод 2 строк в FILE 3
+- *(unit)* Улучшил перевод (пушка>орудие)
 
 ### 🎨 Styling
 
