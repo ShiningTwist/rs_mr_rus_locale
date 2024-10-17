@@ -428,15 +428,15 @@ Button/Name/VoidLaser=Void Laser
 Button/Name/VoidRayChaseBeam=Chase Beam
 Button/Name/VoodooShield=Voodoo Shield
 Button/SupplyName/Probe=FREE
-Button/Tooltip/AberrationProtectiveCover=Grants any small unit underneath <d ref="Behavior,AberrationArmorAuraTarget,DamageResponse.ModifyFraction*100"/>% damage reduction.
-Button/Tooltip/ActivateStasisWard=Traps nearby enemies in stasis for <d ref="Behavior,OracleStasisTrapTarget,Duration"/> seconds. Trapped units cannot be attacked or affected by abilities.<n/><n/><c val="FFFF80">Auto-cast only triggers for at least 5 enemies</c>
-Button/Tooltip/AmonsFury=Grant nearby units 50% more attack and move speed at the cost of damage over time.
-Button/Tooltip/AntiMassiveCapabilities=This unit has greatly increased range against Capital Ships
-Button/Tooltip/ArbiterCloakField=Cloaks friendly units near the Arbiter. This does not include Capital Ships*<n/><n/>*Yes I know that's not lore friendly with the SC1 cinematics. Two things:<n/>1) According to those cinematics there are giant sea urchin space zerg. Let's just agree they aren't the best lore source.<n/>2) I had to change this for balance. Gameplay is not lore, regardless if it's real-scale or not.
-Button/Tooltip/ArbiterMPStasisField=Places enemy units in target area into stasis for <d ref="Behavior,ArbiterMPStasisField,Duration"/> seconds. Units in stasis cannot move, attack, be attacked or be affected by abilities.<n/><c val="FFFF00">Can affect hardpoints, temporarily disabling their respective capital ship functions.</c>
-Button/Tooltip/ArmorpiercingMode=Activates the Thor's 250mm Punisher Cannons. Punisher cannons strike a single air target for heavy damage.<n/><n/>These cannons have a minimum range of 10
-Button/Tooltip/ArtanisForceOfWill=Shield regeneration increased by 300%. Regenerates 1 Life per second.<n/><n/>Artanis's shields take a maximum of 15 damage per attack.
-Button/Tooltip/AttackBarrage=Attack the ground, dealing splash damage.
+Button/Tooltip/AberrationProtectiveCover=Небольшие юниты, укрывшиеся под телом Аберрации получают на <d ref="Behavior,AberrationArmorAuraTarget,DamageResponse.ModifyFraction*100"/>% меньше урона.
+Button/Tooltip/ActivateStasisWard=Помещает ближайших противников в стазис на <d ref="Behavior,OracleStasisTrapTarget,Duration"/> секунд. Пойманные цели нельзя атаковать или использовать на них способности.<n/><n/><c val="FFFF80">Сработает автоматически только когда рядом не менее 5 врагов</c> 
+Button/Tooltip/AmonsFury=Повышает скорость атаки и передвижения ближайшим юнитам на 50%, но накладывает негативный эффект, наносящий смертельный урон в течение времени.
+Button/Tooltip/AntiMassiveCapabilities=У этого юнита значительно увеличена дальность атаки по крупным кораблям.
+Button/Tooltip/ArbiterCloakField=Скрывает все дружественные войска рядом с Арбитром кроме крупных кораблей*<n/><n/>*Да, я знаю что в игровых роликах арбитр может прятать крупные корабли. А ещё в них существуют гигантские космические зерги, выглядящие, как морской ёж — давайте согласимся, что это не самый лучший источник знаний. Мне эти изменения нужны для корректного баланса. Геймплей - это не точное отображение поля боя вселенной Старкрафта, неважно, в реалистичном он масштабе или нет.
+Button/Tooltip/ArbiterMPStasisField=Помещает вражеские юниты в целевой области в стазис на <d ref="Behavior,ArbiterMPStasisField,Duration"/> секунд. Юниты в стазисе не могут двигаться, атаковать, подвергаться атакам или воздействию способностей.<n/><c val="FFFF00">Может воздействовать на узлы подвески, временно отключая соответствующие функции крупного корабля.</c>
+Button/Tooltip/ArmorpiercingMode=Активирует 250-мм орудия «Каратель» Тора. Пушки «Каратель» поражают одну воздушную цель, нанося ей серьезный урон.<n/><n/>Минимальная дальность действия этих орудий составляет 10
+Button/Tooltip/ArtanisForceOfWill=Регенерация щита увеличена на 300%. Регенерирует 1 единицу в секунду.<n/><n/>Щиты Артаниса поглощают максимум 15 урона за атаку.
+Button/Tooltip/AttackBarrage=Атакует указанное место на карте, нанося урон всем врагам, которые оказались в зоне поражения. 
 Button/Tooltip/AutomatedAssimilatorTextKicker6=<s val="Kicker_Rich_Gas">+8</s><IMG path="Assets\Textures\icon-gas-protoss.dds" height="28" width="28"/>
 Button/Tooltip/AutomatedExtractorTextKicker4=<s val="Kicker_Refinery">+5 </s><IMG path="Assets\Textures\icon-gas-zerg.dds" height="28" width="28"/>
 Button/Tooltip/AutomatedExtractorTextKicker5=<s val="Kicker_Refinery">+6</s><IMG path="Assets\Textures\icon-gas-zerg.dds" height="32" width="32"/>
