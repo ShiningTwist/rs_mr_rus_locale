@@ -347,12 +347,12 @@ Button/Name/Brutalisk=Morph to Brutalisk
 Button/Name/BuildScannerTruck=Build Scanner Truck
 Button/Name/BurrowMovement=Burrowed Movement
 Button/Name/BurrowSwarmHost=Enhanced Elytra
-Button/Name/CH1@InterceptorButton=Build Interceptor
-Button/Name/CH2@InterceptorButton=Build Interceptor
-Button/Name/CH3@InterceptorButton=Build Interceptor
-Button/Name/CH4@InterceptorButton=Build Interceptor
-Button/Name/CH5@InterceptorButton=Build Interceptor
-Button/Name/CH6@InterceptorButton=Build Interceptor
+Button/Name/CH1@InterceptorButton=Произвести перехватчик
+Button/Name/CH2@InterceptorButton=Произвести перехватчик
+Button/Name/CH3@InterceptorButton=Произвести перехватчик
+Button/Name/CH4@InterceptorButton=Произвести перехватчик
+Button/Name/CH5@InterceptorButton=Произвести перехватчик
+Button/Name/CH6@InterceptorButton=Произвести перехватчик
 Button/Name/CH7@InterceptorButton=Build Interceptor
 Button/Name/CH8@InterceptorButton=Build Interceptor
 Button/Name/CalldownAdditionalBeef=Calldown Additional Beef
@@ -394,7 +394,7 @@ Button/Name/MonarchBlades=Primal Rage
 Button/Name/MorphLarvatoDrone=Morph Larva to Drone
 Button/Name/MorphToDevourerMP=Morph to Devourer 
 Button/Name/ParticleForceAccelerators=Particle Force Accelerators
-Button/Name/PauseInterceptorProduction=Pause Interceptor Production
+Button/Name/PauseInterceptorProduction=Приостановить производство перехватчиков
 Button/Name/PhoenixSquadronComplement=Phoenix Squadron Complement
 Button/Name/PickupUltralisk=Pick up Big Unit
 Button/Name/PlasmaArray=Plasma Array
@@ -411,7 +411,7 @@ Button/Name/QueenClassic=Birth Classic Queen
 Button/Name/RSVoidRayLineAttack=Obliteration Beam
 Button/Name/RapidResequencing=Rapid Resequencing
 Button/Name/ReaverFabricationSystems=Reaver Fabrication Systems
-Button/Name/ResumeInterceptorProduction=Resume Interceptor Production
+Button/Name/ResumeInterceptorProduction=Возобновить производство перехватчиков
 Button/Name/ResumeRotation=Resume Rotation
 Button/Name/ScoutSquadronComplement=Scout Squadron Complement
 Button/Name/ServitorDrones=Servitor Drones
@@ -421,7 +421,7 @@ Button/Name/SpawnZergShades=Spawn Zerg Shades
 Button/Name/StopFabrication=Stop Fabrication
 Button/Name/StopRotation=Stop Rotation
 Button/Name/TerranEnergyShields=Terran Energy Shields
-Button/Name/ViewHangarStatus=View Hangar Status
+Button/Name/ViewHangarStatus=Просмотр состояния ангара
 Button/Name/Vision=Vision
 Button/Name/VoidBind=Void Bind
 Button/Name/VoidLaser=Void Laser
@@ -451,14 +451,14 @@ Button/Tooltip/BloodShields=Blood Hunters have +75 maximum shields and +5 shield
 Button/Tooltip/BuildScannerTruck=Civilian "Crazyhorse" All-Purpose Truck fitted with scanning equipment.<n/><n/><c val="FFFF00">Detects cloaked and burrowed units.<n/>Cannot attack.</c>
 Button/Tooltip/BurrowMovement=This unit can move while burrowed.
 Button/Tooltip/BurrowSwarmHost=Increases the movement speed of spawned locusts by 20%
-Button/Tooltip/CH1@InterceptorButton=Builds Interceptors that automatically attack the Carrier's target. Carriers may not attack without Interceptors.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
-Button/Tooltip/CH2@InterceptorButton=Builds Interceptors that automatically attack the Carrier's target. Carriers may not attack without Interceptors.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
-Button/Tooltip/CH3@InterceptorButton=Builds Interceptors that automatically attack the Carrier's target. Carriers may not attack without Interceptors.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
-Button/Tooltip/CH4@InterceptorButton=Builds Interceptors that automatically attack the Carrier's target. Carriers may not attack without Interceptors.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
-Button/Tooltip/CH5@InterceptorButton=Builds Interceptors that automatically attack the Carrier's target. Carriers may not attack without Interceptors.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
-Button/Tooltip/CH6@InterceptorButton=Builds Interceptors that automatically attack the Carrier's target. Carriers may not attack without Interceptors.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
-Button/Tooltip/CH7@InterceptorButton=Builds Interceptors that automatically attack the Carrier's target. Carriers may not attack without Interceptors.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
-Button/Tooltip/CH8@InterceptorButton=Builds Interceptors that automatically attack the Carrier's target. Carriers may not attack without Interceptors.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/CH1@InterceptorButton=Производит перехватчики, которые автоматически атакуют цель авианосца. Авианосцы не могут атаковать без перехватчиков.<n/><n/><c val="#ColorAttackInfo">Атакует наземные и воздушные цели.</c>
+Button/Tooltip/CH2@InterceptorButton=Производит перехватчики, которые автоматически атакуют цель авианосца. Авианосцы не могут атаковать без перехватчиков.<n/><n/><c val="#ColorAttackInfo">Атакует наземные и воздушные цели.</c>
+Button/Tooltip/CH3@InterceptorButton=Производит перехватчики, которые автоматически атакуют цель авианосца. Авианосцы не могут атаковать без перехватчиков.<n/><n/><c val="#ColorAttackInfo">Атакует наземные и воздушные цели.</c>
+Button/Tooltip/CH4@InterceptorButton=Производит перехватчики, которые автоматически атакуют цель авианосца. Авианосцы не могут атаковать без перехватчиков.<n/><n/><c val="#ColorAttackInfo">Атакует наземные и воздушные цели.</c>
+Button/Tooltip/CH5@InterceptorButton=Производит перехватчики, которые автоматически атакуют цель авианосца. Авианосцы не могут атаковать без перехватчиков.<n/><n/><c val="#ColorAttackInfo">Атакует наземные и воздушные цели.</c>
+Button/Tooltip/CH6@InterceptorButton=Производит перехватчики, которые автоматически атакуют цель авианосца. Авианосцы не могут атаковать без перехватчиков.<n/><n/><c val="#ColorAttackInfo">Атакует наземные и воздушные цели.</c>
+Button/Tooltip/CH7@InterceptorButton=Производит перехватчики, которые автоматически атакуют цель авианосца. Авианосцы не могут атаковать без перехватчиков.<n/><n/><c val="#ColorAttackInfo">Атакует наземные и воздушные цели.</c>
+Button/Tooltip/CH8@InterceptorButton=Производит перехватчики, которые автоматически атакуют цель авианосца. Авианосцы не могут атаковать без перехватчиков.<n/><n/><c val="#ColorAttackInfo">Атакует наземные и воздушные цели.</c>
 Button/Tooltip/CalldownAdditionalBeef=Drop in 2 more of the sector's most savory mercenaries
 Button/Tooltip/CapitalShipShieldRestore=Drain all of the energy from this battery, restoring 10 shields per energy consumed to the target Capital Ship
 Button/Tooltip/CarryingPurifierColossus=Purifier Faction<n/>Battle strider with a powerful area attack. Can walk up and down cliffs. Attacks set fire to the ground, dealing extra damage to enemies over time.<n/><n/><c val="ffff8a">Can attack ground units.</c>
@@ -595,7 +595,7 @@ Button/Tooltip/Orbit@Tempest=Purifier Faction<n/>Siege artillery craft. Attacks 
 Button/Tooltip/OrbitalAssimilatorRich=Warped in over a Vespene Geyser to allow harvesting of vespene gas.
 Button/Tooltip/ParalyticSpines=Attacks decrease any biological target's attack speed by <d ref="(1 - Behavior,ParalyticSpines,Modification.AttackSpeedMultiplier) * 100"/>%.
 Button/Tooltip/ParticleForceAccelerators=The Annihilator can target air units and can fire its particle disruptors while walking.
-Button/Tooltip/PauseInterceptorProduction=Pauses all interceptor production for all hangars at once.
+Button/Tooltip/PauseInterceptorProduction=Приостановить производство перехватчиков во всех ангарах.
 Button/Tooltip/PhoenixSquadronComplement=This Carrier will spawn up to 2 Phoenix Squadrons and will replace them once lost, all for free
 Button/Tooltip/PickupUltralisk=Picks up one big unit such as a Thor, Ultralisk or Colossus. Must not be carrying any other units
 Button/Tooltip/PrimalHydralisk=Ranged attacker. Fires volleys of spines, evolves additional spines as it collects essence.<n/><n/><c val="ffff8a">Can attack ground units.</c>
@@ -619,10 +619,10 @@ Button/Tooltip/RSMRCarrier=Capital ship. Builds and launches Interceptors that a
 Button/Tooltip/RSVoidRayLineAttack=Deals <d ref="Effect,SOAMothershipLineAttackDamage,Amount"/> damage to all enemies in a straight line up to 10 range away.
 Button/Tooltip/RapidResequencing=Mutalisks morph 200% faster both from Larvae and into advanced evolution strains.
 Button/Tooltip/ReaverFabricationSystems=The Solarite enhanced fabrication matricies within the Reaver can be configured to slowly produce one type of robotic unit at negligible costs.<n/><n/>Click on any unit buttons below to configure production
-Button/Tooltip/ReleaseInterceptors=Carrier launches up to <d ref="Effect,ReleaseInterceptorsInitialCP,PeriodCount"/> of its Interceptors at the target point with a <d ref="Behavior,ReleaseInterceptorsTimedLife,Duration"/> second timed life. Interceptors remain at the area until they expire.
+Button/Tooltip/ReleaseInterceptors=Авианосец запускает в указанную точку до <d ref="Effect,ReleaseInterceptorsInitialCP,PeriodCount"/> своих перехватчиков с ограниченным временем жизни в  <d ref="Behavior,ReleaseInterceptorsTimedLife,Duration"/> секунд, по истечению которого они самоуничтожатся. Всё время существования перехватчики остаются в этой области, с возможностью лишь ограниченного управления ими.
 Button/Tooltip/RepairDroneBeacon=Ground beacon to control automated repair drones. Also provides a small power field for warping in ground forces.
 Button/Tooltip/ResearchBarrier=Allows the Immortal's Barrier to store up to <d ref="Abil,ImmortalOverload,Cost[0].Charge.CountMax"/> charges.
-Button/Tooltip/ResumeInterceptorProduction=Resumes interceptor production for all available hangars.
+Button/Tooltip/ResumeInterceptorProduction=Возобновить производство перехватчиков во всех ангарах.
 Button/Tooltip/ResumeRotation=Resume the capital ship's rotation.
 Button/Tooltip/Roach=Assault unit. Regenerates life quickly when burrowed. Can move slowly while burrowed.<n/><n/><c val="ffff8a">Can attack ground units.</c>
 Button/Tooltip/RoachVile=Assault unit. Regenerates life quickly and moves slowly while burrowed. Attacks debilitate the target, slowing its attack and movement speeds.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
@@ -650,7 +650,7 @@ Button/Tooltip/TemporalField=Warps spacetime within the target area for <d ref="
 Button/Tooltip/TerranEnergyShields=Terran energy shields can only regenerate when the ship already has full energy. However when they can regenerate, they do so rapidly and even while in combat.
 Button/Tooltip/TheSpearofAdun=A marvel of Khalai engineering, and the last of the three great arkships. Created to ensure the continuation of Protoss culture in the darkest of times.<n/><n/>The Spear of Adun was commissioned by the Conclave during the Golden Age of Expansion, following the suggestion of the three Grand Preservers: Shantira, Orlana and Rohana. After a tragic design failure caused two Motherships to crash into a neutron star, the Grand Preservers foresaw the need for the arkships, a way to save the Protoss Civilization. In order to ensure these were not employed as weapons of war, each of the Grand Preservers volunteered to go into long term stasis aboard each arkship as they were entombed beneath the surface of Aiur. Although its sister ships Pride of Altaris and Memory of Nezin were destroyed during the zerg invasion of Aiur, the Spear of Adun has been instrumental in carrying the Daelaam through the End War
 Button/Tooltip/UmojanLabFirebot=Automated biohazard disposal unit armed with napalm.
-Button/Tooltip/ViewHangarStatus=View the breakdown of Interceptors across all remaining hangars on this carrier.
+Button/Tooltip/ViewHangarStatus=Посмотреть распределение перехватчиков по оставшимся ангарам на этом авианосце.
 Button/Tooltip/Vision=Kerrigan has taught Zagara about vision, allowing her to detect nearby cloaked units<n/>Also allows Zagara to sense Psionic units such as Hybrid and Archons at a distance
 Button/Tooltip/VoidColossusChargedBlast=Attacks a single unit or structure for heavy damage. Can attack while moving. Has much longer range when firing at capital ships.
 Button/Tooltip/VoidHighTemplarMindBlast=Deals <d ref="Effect,VoidHighTemplarMindBlastDamage,Amount"/> damage to target enemy unit's life, ignoring any shields or armor they may have. Target is also unable to use energy-based abilities for the next <d ref="Behavior,MindBlasted,Duration"/> seconds of their miserable existence.<n/><n/><c val="FFFF00">Can't target robotic units.</c>
@@ -1303,7 +1303,7 @@ Param/Expression/lib_D3571409_2BC3DECD=~A~<n/><n/>There's no way to recover thes
 Param/Expression/lib_D3571409_889C0ED3=~B~~A~
 Param/Value/lib_D3571409_0046CAA5=Scale-down non capital turned on.
 Param/Value/lib_D3571409_086722D4=You're going to delete all of your accumulated statistics from all Real-Scale Campaigns?
-Param/Value/lib_D3571409_0D18CDA6=Hide Capital Ships from view
+Param/Value/lib_D3571409_0D18CDA6=Скрыть крупные корабли из поля зрения
 Param/Value/lib_D3571409_0EBA5E7F=Killed: 
 Param/Value/lib_D3571409_126D0B03=R
 Param/Value/lib_D3571409_13B62768=Are you sure you want to delete all accumulated statistics for this mission? This includes all attempts of this mission, not just the one you're playing right now.
@@ -1325,7 +1325,7 @@ Param/Value/lib_D3571409_74A574FF= received
 Param/Value/lib_D3571409_7756414F=Unit Removed
 Param/Value/lib_D3571409_784D71BE=Error Messages turned on.
 Param/Value/lib_D3571409_7FAF6A52=Selected units received behavior 
-Param/Value/lib_D3571409_802A2FF7=Hide Capital Ships from view
+Param/Value/lib_D3571409_802A2FF7=Скрыть крупные корабли из поля зрения
 Param/Value/lib_D3571409_84F60480=Player 
 Param/Value/lib_D3571409_87BA14F7=Selected units transferred to player 
 Param/Value/lib_D3571409_88ACE7A5=CS2HP
@@ -1338,7 +1338,7 @@ Param/Value/lib_D3571409_9D5A1877=WARNING
 Param/Value/lib_D3571409_A1138E1E=<h/>Real-Scale Options
 Param/Value/lib_D3571409_A3B587C3=Scale-down non capital turned off.
 Param/Value/lib_D3571409_B01C25E1=No larvae group
-Param/Value/lib_D3571409_B8397416=Show Capital Ships again
+Param/Value/lib_D3571409_B8397416=Снова показать крупные корабли
 Param/Value/lib_D3571409_B94683EF=Error Messages turned off.
 Param/Value/lib_D3571409_BFCB9DCA=Player 
 Param/Value/lib_D3571409_C96744B1=Capital Ships Shown
@@ -1422,7 +1422,7 @@ Unit/Name/BigCargoDummy=Big Cargo Dummy
 Unit/Name/BioPlasmidDischargeOrbit=Bio Plasmid Discharge Orbit
 Unit/Name/BunkerSQ=Bunker
 Unit/Name/DevilDogSquad=Devil Dog Squad
-Unit/Name/Devourer=Devourer
+Unit/Name/Devourer=Пожиратель
 Unit/Name/DevourerMP=Devourer
 Unit/Name/DisPear=Hybrid Dominator
 Unit/Name/DisplacementBeamDummy=Displacement Beam Dummy
