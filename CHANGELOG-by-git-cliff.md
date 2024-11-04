@@ -33,6 +33,7 @@ All notable changes to this project will be documented in this file.
 - *(ui)* Подправить регистр в названии сложности
 - *(unit)* Сократить описание мародёра
 - *(unit)* Уточнить название батареи "серпент"
+- *(unit)* Сократить описания заразителя, сталкера
 
 ### ⚙️ Miscellaneous Tasks
 
