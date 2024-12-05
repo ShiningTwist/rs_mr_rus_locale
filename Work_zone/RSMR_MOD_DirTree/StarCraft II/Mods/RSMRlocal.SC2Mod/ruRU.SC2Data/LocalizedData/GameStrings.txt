@@ -2917,7 +2917,7 @@ Param/Value/lib_AA0EBE8C_4B1656F6=Высокая орбита. Родина пр
 Param/Value/lib_AA0EBE8C_4B43FBFC=</s><s val="LoadingScreenMission">Тактическая группа Командора.<n/>У лесной исследовательской станции.<n/>13 часов спустя.
 Param/Value/lib_AA0EBE8C_4B75CA54=У Джо Рэя
 Param/Value/lib_AA0EBE8C_4BB4517D=<s val="ModLeftSize16Bold">ЗАДАНИЕ:</s><n/><s val="ModLeftSize40Bold">ИСТРЕБЛЕНИЕ</s>
-Param/Value/lib_AA0EBE8C_4C1473B9=Раскрыв весь свой потенциал, Керриган теперь обрела способность возрождаться в вашем основном инкубаторе каждый раз, когда ее убивают.
+Param/Value/lib_AA0EBE8C_4C1473B9=Раскрыв весь свой потенциал, Керриган теперь обрела способность возрождаться в вашем основном инкубаторе каждый раз, когда её убивают.
 Param/Value/lib_AA0EBE8C_4C2CFB32=Вернуться <h/>к меню SCMR
 Param/Value/lib_AA0EBE8C_4C579B6D=<s val="CreditsHeading">Выбери стиль игры</s>
 Param/Value/lib_AA0EBE8C_4C73728C=<c val="FFFF00">Новая боевая единица</c>:<n/>Медик
