@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 ## [unreleased]
 
+### 🎨 Styling
+
+- *(unit)* Ёфикация, строк: 1
+
+## [0.2.0] - 2024-12-05
+
 ### 🚀 Features
 
 - *(file-3)* Перенести в FILE 3 эксклюз. строки от RuPrev
