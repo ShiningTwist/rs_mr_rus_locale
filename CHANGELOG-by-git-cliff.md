@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 ## [unreleased]
 
+### 🚀 Features
+
+- *(image)* Лого, редактирование картинки
+
 ### 🎨 Styling
 
 - *(unit)* Ёфикация, строк: 1
