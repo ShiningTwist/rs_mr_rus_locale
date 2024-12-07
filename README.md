@@ -50,7 +50,7 @@
     - и другие.  
 * Автор модификации RSMR:  
     - Издательство и дизайн: GiantGrantGames (Discord @giantgrantgames, [Discord Server](https://discord.gg/HhveQqvb), [YouTube](https://www.youtube.com/watch?v=mzjbcoFP5hQ&list=PLWIRRgIfniFvhxfkFjhXqar0hDg6S281b))    
-    - Orcawarrior2 (Discord @orcawarrior2, [BuyMeACoffee](https://www.buymeacoffee.com/Orcawarrior2)  
+    - Orcawarrior2 (Discord @orcawarrior2, [BuyMeACoffee](https://www.buymeacoffee.com/Orcawarrior2))  
     - Eclairtle (Discord @eclairtleqaq)    
     - MindHawk (Discord @mindhawk, [Twitch](https://www.twitch.tv/lemindhawk))    
 * Автор перевода кампании и мода:  
