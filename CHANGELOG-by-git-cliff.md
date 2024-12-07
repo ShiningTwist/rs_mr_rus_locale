@@ -8,6 +8,10 @@ All notable changes to this project will be documented in this file.
 
 - *(image)* Лого, редактирование картинки
 
+### 📚 Documentation
+
+- Большое расширение readme
+
 ### 🎨 Styling
 
 - *(unit)* Ёфикация, строк: 1
