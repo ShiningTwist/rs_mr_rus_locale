@@ -11,6 +11,7 @@ All notable changes to this project will be documented in this file.
 ### 📚 Documentation
 
 - Большое расширение readme
+- *(readme)* Исправить мелкие опечатки
 
 ### 🎨 Styling
 
