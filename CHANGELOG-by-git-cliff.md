@@ -8,6 +8,10 @@ All notable changes to this project will be documented in this file.
 
 - *(image)* Лого, редактирование картинки
 
+### 🐛 Bug Fixes
+
+- *(unit)* Исправить неверный перевод ShockCannon
+
 ### 📚 Documentation
 
 - Большое расширение readme
@@ -16,6 +20,7 @@ All notable changes to this project will be documented in this file.
 ### 🎨 Styling
 
 - *(unit)* Ёфикация, строк: 1
+- *(unit)* Сократить описание «Банши»
 
 ## [0.2.0] - 2024-12-05
 
