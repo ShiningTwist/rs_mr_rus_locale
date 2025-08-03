@@ -568,7 +568,7 @@ Button/Tooltip/LeaveOrbit=Снизиться обратно на поле бит
 Button/Tooltip/LeviathanScourgeMissileUnit=Летающий камикадзе-юнит. Слепни вылупляются по четыре из одной личинки.<n/><n/><c val="ffff8a">Атакует воздушные цели.</c>
 Button/Tooltip/LeviathanSiegeLocation=Взять в осаду указанную область, позволяя левиафану атаковать врагов в этом регионе. Выбрасывает десантные капсулы в указанной зоне через случайные промежутки времени.
 Button/Tooltip/LightningBomb=Наносит <d ref="Effect,LightningBombDamage,Amount*Behavior,LightningBomb,Duration/Behavior,LightningBomb,Period"/> ед. урона в течение <d ref="Behavior,LightningBomb,Duration"/> секунд всем вражеским юнитам или сооружениям рядом с целью.
-Button/Tooltip/MaelstromRounds=Ударная пушка наносит +20 ед. урона основной цели. Дополнительный урон по области остаётся прежним.
+Button/Tooltip/MaelstromRounds=Осадная пушка наносит +20 ед. урона основной цели. Дополнительный урон по области остаётся прежним.
 Button/Tooltip/MassRecall=Recalls all units owned by the player in the target area to the Caster.<n/><c val="FFFF00">Can be used from Power Cell Hardpoints.</c>
 Button/Tooltip/MatrixOverloadEnergizer=Все дружественные юниты получают <d ref="Behavior,MatrixOverloadTarget,Modification.MoveSpeedMultiplier*100-100"/>% бонус к скорости передвижения и <d ref="Behavior,MatrixOverloadTarget,Modification.AttackSpeedMultiplier*100-100"/>% бонус к скорости атаки, находясь в пределах силового поля Заряжателя. Эффект сохраняется до <d ref="Behavior,MatrixOverloadTarget,Duration"/> секунд после выхода из силового поля.<n/><n/><c val="ffff8a">Пассивная способность.  Не влияет на крупные корабли.</c>
 Button/Tooltip/MengskUnits=Высадить элитные наземные войска терранов прямо с Гипериона.
