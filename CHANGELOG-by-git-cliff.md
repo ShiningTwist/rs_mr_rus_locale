@@ -11,6 +11,8 @@ All notable changes to this project will be documented in this file.
 ### 🐛 Bug Fixes
 
 - *(unit)* Исправить неверный перевод ShockCannon
+- *(unit)* Исправить неверный перевод Arclite
+- *(unit)* Исправить ещё неверный перевод ShockCannon
 
 ### 📚 Documentation
 
