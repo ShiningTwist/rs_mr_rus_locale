@@ -24,6 +24,7 @@ All notable changes to this project will be documented in this file.
 - *(unit)* Ёфикация, строк: 1
 - *(unit)* Сократить описание «Банши»
 - *(unit)* Убрать запятую и улучшить тире
+- *(unit)* Сдвинуть тире в списке диспетч. вышки
 
 ## [0.2.0] - 2024-12-05
 
