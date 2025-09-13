@@ -23,6 +23,7 @@ All notable changes to this project will be documented in this file.
 
 - *(unit)* Ёфикация, строк: 1
 - *(unit)* Сократить описание «Банши»
+- *(unit)* Убрать запятую и улучшить тире
 
 ## [0.2.0] - 2024-12-05
 
