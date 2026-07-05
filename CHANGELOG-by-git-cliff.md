@@ -7,6 +7,7 @@ All notable changes to this project will be documented in this file.
 ### 🚀 Features
 
 - *(image)* Лого, редактирование картинки
+- *(ui)* Перевести 6 строк UI про колос. и настр.
 
 ### 🐛 Bug Fixes
 
