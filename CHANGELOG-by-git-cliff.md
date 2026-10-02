@@ -14,6 +14,7 @@ All notable changes to this project will be documented in this file.
 - *(unit)* Исправить неверный перевод ShockCannon
 - *(unit)* Исправить неверный перевод Arclite
 - *(unit)* Исправить ещё неверный перевод ShockCannon
+- *(ui)* Уточнить 2 строк UI про колос и ракет
 
 ### 📚 Documentation
 
